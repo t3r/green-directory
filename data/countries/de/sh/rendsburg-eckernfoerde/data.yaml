@@ -123,3 +123,13 @@ type: REGIONAL_CHAPTER
 urls:
   - type: WEBSITE
     url: http://gruene-rd.de/
+---
+city: Küste Dänischer Wohld
+country: DE
+district: Rendsburg-Eckernförde
+level: DE:ORTSVERBAND
+state: Schleswig-Holstein
+type: REGIONAL_CHAPTER
+urls:
+  - type: WEBSITE
+    url: https://gruene-kueste-daenischer-wohld.de/
