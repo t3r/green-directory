@@ -1,0 +1,33 @@
+---
+type: REGIONAL_CHAPTER
+level: DE:KREISVERBAND
+country: DE
+state: Niedersachsen
+district: Schaumburg
+urls:
+  - type: WEBSITE
+    url: http://www.gruene-schaumburg.de/
+---
+type: REGIONAL_CHAPTER
+level: DE:ORTSVERBAND
+country: DE
+state: Niedersachsen
+district: Schaumburg
+city: Bückeburg
+urls:
+  - type: WEBSITE
+    url: https://gruene-schaumburg.de/stadtverband-bueckeburg/
+  - type: TWITTER
+    url: https://twitter.com/G_Bueckeburg
+  - type: FACEBOOK
+    url: https://www.facebook.com/Gr%C3%BCne-B%C3%BCckeburg-1544235625804377/
+---
+type: REGIONAL_CHAPTER
+level: DE:ORTSVERBAND
+country: DE
+state: Niedersachen
+district: Schaumburg
+city: Nenndorf
+urls:
+  - type: WEBSITE
+    url: http://www.gruene-nenndorf.de/
