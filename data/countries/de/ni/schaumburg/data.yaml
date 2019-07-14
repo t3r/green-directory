@@ -16,7 +16,7 @@ district: Schaumburg
 city: Bückeburg
 urls:
   - type: WEBSITE
-    url: http://www.gruene-bueckeburg.de/
+    url: https://gruene-schaumburg.de/stadtverband-bueckeburg/
   - type: TWITTER
     url: https://twitter.com/G_Bueckeburg
   - type: FACEBOOK
