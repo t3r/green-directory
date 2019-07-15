@@ -223,9 +223,9 @@ state: Niedersachsen
 district: Wilhelmshaven
 urls:
   - type: WEBSITE
-    url: http://gruene-wilhelmshaven.de/startseite/
+    url: https://www.gruene-whv.de/
   - type: TWITTER
-    url: https://twitter.com/GRUENimRATwhv
+    url: https://twitter.com/WHVgehtGRUEN
   - type: FACEBOOK
     url: https://www.facebook.com/Gr%C3%BCnes-Wilhelmshaven-169171753155190/
   - type: YOUTUBE
