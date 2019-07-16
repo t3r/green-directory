@@ -46,3 +46,27 @@ emails:
 urls:
   - type: WEBSITE
     url: https://www.gruene-sennfeld.de/
+---
+city: Bergrheinfeld
+country: DE
+district: Schweinfurt
+level: DE:ORTSVERBAND
+state: Bayern
+type: REGIONAL_CHAPTER
+emails:
+  - address: info@gruene-bergrheinfeld.de
+urls:
+  - type: WEBSITE
+    url: https://www.gruene-bergrheinfeld.de/
+---
+city: Niederwerrn
+country: DE
+district: Schweinfurt
+level: DE:ORTSVERBAND
+state: Bayern
+type: REGIONAL_CHAPTER
+emails:
+  - address: info@gruene-niederwerrn.de
+urls:
+  - type: WEBSITE
+    url: https://www.gruene-niederwerrn.de/
