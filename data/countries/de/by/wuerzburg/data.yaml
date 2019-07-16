@@ -1,0 +1,77 @@
+---
+type: REGIONAL_CHAPTER
+level: DE:KREISVERBAND
+country: DE
+state: Bayern
+district: Würzburg-Land
+urls:
+  - type: WEBSITE
+    url: https://www.gruene-wuerzburg-land.de/
+  - type: FACEBOOK
+    url: https://www.facebook.com/gruenewuerzburgland/
+---
+type: REGIONAL_CHAPTER
+level: DE:ORTSVERBAND
+country: DE
+state: Bayern
+district: Würzburg-Land
+city: Gerbrunn/Randersacker/Theilheim
+urls:
+  - type: WEBSITE
+    url: https://www.gruene-wuerzburg-land.de/cms/index.php/gemeinden/gerbrunn
+  - type: FACEBOOK
+    url: https://www.facebook.com/pg/B%C3%BCndnis-90-Gr%C3%BCne-Gerbrunn-Randersacker-Theilheim-112644688781830/
+---
+type: REGIONAL_CHAPTER
+level: DE:ORTSVERBAND
+country: DE
+state: Bayern
+district: Würzburg-Land
+city: Veitshöchheim
+urls:
+  - type: WEBSITE
+    url: https://blog.gruene-veitshoechheim.de/
+---
+type: REGIONAL_CHAPTER
+level: DE:ORTSVERBAND
+country: DE
+state: Bayern
+district: Würzburg-Land
+city: Waldbüttelbrunn
+urls:
+  - type: FACEBOOK
+    url: https://www.facebook.com/gruenewaldbuettelbrunn/
+---
+type: REGIONAL_CHAPTER
+level: DE:KREISVERBAND
+country: DE
+state: Bayern
+district: Würzburg-Stadt
+urls:
+  - type: WEBSITE
+    url: https://gruene-wuerzburg.de/
+  - type: FACEBOOK
+    url: https://www.facebook.com/gruene.wuerzburg/
+  - type: TWITTER
+    url: https://twitter.com/GrueneWuerzburg
+  - type: YOUTUBE
+    url: https://www.youtube.com/user/GrueneWuerzburg
+---
+type: YOUTH_ORGANIZATION
+level: DE:KREISVERBAND
+country: DE
+state: Bayern
+district: Würzburg-Stadt
+urls:
+  - type: WEBSITE
+    url: http://gj-wuerzburg.de/
+  - type: FACEBOOK
+    url: https://www.facebook.com/gjwuerzburg/
+  - type: TWITTER
+    url: https://twitter.com/gj_wuerzburg
+  - type: INSTAGRAM
+    url: https://www.instagram.com/gj_wuerzburg/
+  - type: YOUTUBE
+    url: https://www.youtube.com/channel/UCbLwDQ4Zzr0xGTsw25iFQMQ
+emails:
+  - address: vorstand@gj-wuerzburg.de

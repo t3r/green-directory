@@ -784,29 +784,3 @@ urls:
     url: http://www.gruene-fichtelgebirge.de
   - type: YOUTUBE
     url: https://www.youtube.com/user/gruenwun
----
-type: REGIONAL_CHAPTER
-level: DE:KREISVERBAND
-country: DE
-state: Bayern
-district: Würzburg-Land
-urls:
-  - type: WEBSITE
-    url: https://www.gruene-wuerzburg-land.de/
-  - type: FACEBOOK
-    url: https://www.facebook.com/gruenewuerzburgland/
-  - type: TWITTER
-    url: https://twitter.com/GrueneWuerzburg
-  - type: YOUTUBE
-    url: https://www.youtube.com/user/GrueneWuerzburg
----
-type: REGIONAL_CHAPTER
-level: DE:KREISVERBAND
-country: DE
-state: Bayern
-district: Würzburg-Stadt
-urls:
-  - type: WEBSITE
-    url: https://www.gruene-wuerzburg.de/
-  - type: FACEBOOK
-    url: https://www.facebook.com/gruene.wuerzburg/
