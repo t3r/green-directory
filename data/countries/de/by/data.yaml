@@ -813,7 +813,7 @@ country: DE
 state: Bayern
 urls:
   - type: WEBSITE
-    url: https://sabine-weigand-mdl.de
+    url: https://sabine-weigand-mdl.de/
   - type: FACEBOOK
     url: https://www.facebook.com/DrSabineWeigandMdL
   - type: WIKIDATA
