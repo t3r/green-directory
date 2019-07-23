@@ -115,3 +115,15 @@ type: REGIONAL_CHAPTER
 urls:
   - type: WEBSITE
     url: https://gruene-schoeneck.de/
+---
+city: Gelnhausen
+country: DE
+district: Main-Kinzig
+level: DE:ORTSVERBAND
+state: Hessen
+type: REGIONAL_CHAPTER
+urls:
+  - type: WEBSITE
+    url: https://gruene-gelnhausen.de/
+  - type: FACEBOOK
+    url: https://www.facebook.com/GrueneGelnhausen/
