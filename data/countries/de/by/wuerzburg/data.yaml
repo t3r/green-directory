@@ -41,6 +41,8 @@ city: Waldbüttelbrunn
 urls:
   - type: FACEBOOK
     url: https://www.facebook.com/gruenewaldbuettelbrunn/
+  - type: WEBSITE
+    url: https://gruene-waldbuettelbrunn.de/
 ---
 type: REGIONAL_CHAPTER
 level: DE:KREISVERBAND
