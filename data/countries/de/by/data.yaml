@@ -784,3 +784,58 @@ urls:
     url: http://www.gruene-fichtelgebirge.de
   - type: YOUTUBE
     url: https://www.youtube.com/user/gruenwun
+---
+type: PERSON
+name: Toni Schuberl
+family_name: Schuberl
+given_name: Toni
+level: DE:LANDESVERBAND
+country: DE
+state: Bayern
+urls:
+  - type: WEBSITE
+    url: https://toni-schuberl.de/
+  - type: TWITTER
+    url: https://twitter.com/schuberltoni
+  - type: FACEBOOK
+    url: https://www.facebook.com/toni.schuberl
+  - type: WIKIDATA
+    url: https://www.wikidata.org/wiki/Q57463000
+emails:
+  - address: toni.schuberl@gruene-fraktion-bayern.de
+---
+type: PERSON
+name: Dr. Sabine Weigand
+family_name: Weigand
+given_name: SAbine
+level: DE:LANDESVERBAND
+country: DE
+state: Bayern
+urls:
+  - type: WEBSITE
+    url: https://sabine-weigand-mdl.de/
+  - type: FACEBOOK
+    url: https://www.facebook.com/DrSabineWeigandMdL
+  - type: WIKIDATA
+    url: https://www.wikidata.org/wiki/Q1113597
+emails:
+  - address: sabine.weigand@gruene-fraktion-bayern.de
+---
+type: PERSON
+name: Anne Franke
+family_name: Franke
+given_name: Anne
+level: DE:LANDESVERBAND
+country: DE
+state: Bayern
+urls:
+  - type: WEBSITE
+    url: https://anne-franke.de/
+  - type: TWITTER
+    url: https://twitter.com/AnFRanke
+  - type: FACEBOOK
+    url: https://facebook.com/anne.franke520
+  - type: WIKIDATA
+    url: https://www.wikidata.org/wiki/Q565303
+emails:
+  - address: anne.franke@gruene-fraktion-bayern.de
