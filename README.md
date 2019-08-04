@@ -65,6 +65,7 @@ If not indicated otherwise, all attributes are of the type `String`.
     organisation.
   - `YOUTH_ORGANIZATION`: A youth organization which is normally associated
     with a party.
+  - `PERSON`: An individual with an important function (e.g. Member of Parliament).
 
 - `level` (mandatory). A sub-classification of an entry with type `REGIONAL_CHAPTER`. Possible values:
   - `DE:BUNDESVERBAND` 
