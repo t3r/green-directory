@@ -328,3 +328,109 @@ urls:
     url: https://gruene-zweibruecken.de/
 emails:
   - address: kv-zweibruecken@gruene-rlp.de
+---
+type: PERSON
+name: Pia Schellhammer
+family_name: Schellhammer
+given_name: Pia
+level: DE:LANDESVERBAND
+country: DE
+state: Rheinland-Pfalz
+urls:
+  - type: WEBSITE
+    url: https://pia-schellhammer.de/
+  - type: TWITTER
+    url: https://twitter.com/PiaSchellhammer
+  - type: FACEBOOK
+    url: https://facebook.com/pia.schellhammer
+  - type: WIKIDATA
+    url: https://www.wikidata.org/wiki/Q2091790
+emails:
+  - address: pia.schellhammer@gruene.landtag.rlp.de
+---
+type: PERSON
+name: Dr. Bernhard Braun
+family_name: Braun
+given_name: Bernhard
+level: DE:LANDESVERBAND
+country: DE
+state: Rheinland-Pfalz
+urls:
+  - type: WEBSITE
+    url: http://bernhardbraunmdl.de/
+  - type: TWITTER
+    url: https://twitter.com/bernhardbraunlt
+  - type: FACEBOOK
+    url: https://facebook.com/bernhardbraunmdl
+  - type: WIKIDATA
+    url: https://www.wikidata.org/wiki/Q824807
+emails:
+  - address: bernhard.braun@gruene.landtag.rlp.de
+---
+type: PERSON
+name: Jutta Blatzheim-Roegler
+family_name: Blatzheim-Roegler
+given_name: Jutta
+level: DE:LANDESVERBAND
+country: DE
+state: Rheinland-Pfalz
+urls:
+  - type: WEBSITE
+    url: https://blatzheim-roegler.de/
+  - type: FACEBOOK
+    url: https://facebook.com/juttablatzheimroegler
+  - type: WIKIDATA
+    url: https://www.wikidata.org/wiki/Q1585731
+emails:
+  - address: jutta.blatzheim-roegler@gruene.landtag.rlp.de
+---
+type: PERSON
+name: Katharina Binz
+family_name: Binz
+given_name: Katharina
+level: DE:LANDESVERBAND
+country: DE
+state: Rheinland-Pfalz
+urls:
+  - type: TWITTER
+    url: https://twitter.com/katharina_binz
+  - type: WIKIDATA
+    url: https://www.wikidata.org/wiki/Q15823201
+emails:
+  - address: katharina.binz@gruene.landtag.rlp.de
+---
+type: PERSON
+name: Andreas Hartenfels
+family_name: Hartenfels
+given_name: Andreas
+level: DE:LANDESVERBAND
+country: DE
+state: Rheinland-Pfalz
+urls:
+  - type: WEBSITE
+    url: https://andreas-hartenfels.de/
+  - type: WIKIDATA
+    url: https://www.wikidata.org/wiki/Q497853
+emails:
+  - address: andreas.hartenfels@gruene.landtag.rlp.de
+---
+type: PERSON
+name: Daniel Köbler
+family_name: Köbler
+given_name: Daniel
+level: DE:LANDESVERBAND
+country: DE
+state: Rheinland-Pfalz
+urls:
+  - type: WEBSITE
+    url: https://danielkoebler.de/
+  - type: TWITTER
+    url: https://twitter.com/daniel_koebler
+  - type: FACEBOOK
+    url: https://facebook.com/daniel.koebler
+  - type: INSTAGRAM
+    url: https://instagram.com/daniel.koebler
+  - type: WIKIDATA
+    url: https://www.wikidata.org/wiki/Q103436
+emails:
+  - address: daniel.koebler@gruene.landtag.rlp.de
