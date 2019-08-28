@@ -533,7 +533,7 @@ urls:
   - type: WEBSITE
     url: https://gruene-landshut.de/
   - type: FACEBOOK
-    uel: https://www.facebook.com/DieGrunenLandshutLand/
+    url: https://www.facebook.com/DieGrunenLandshutLand/
 ---
 type: REGIONAL_CHAPTER
 level: DE:KREISVERBAND
@@ -895,7 +895,7 @@ urls:
   - type: WEBSITE
     url: https://gruene-weiden.de/
   - type: FACEBOOK
-    url: https://www.facebook.com/Bündnis-90-Die-Grünen-KV-Neustadt-ad-Waldnaab-und-Weiden-i-d-Opf-105519059607000
+    url: https://www.facebook.com/B%C3%BCndnis-90-Die-Gr%C3%BCnen-KV-Neustadt-ad-Waldnaab-und-Weiden-i-d-Opf-105519059607000
 ---
 type: REGIONAL_CHAPTER
 level: DE:KREISVERBAND

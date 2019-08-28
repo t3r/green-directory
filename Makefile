@@ -9,5 +9,5 @@ venv:
 
 
 validate: venv
-	venv/bin/yamllint -d "{extends: default, rules: {line-length: {max: 120}}}" ./data
+	venv/bin/yamllint -d "{extends: default, rules: {line-length: {max: 130}}}" ./data
 	venv/bin/python ./validate/validate.py
