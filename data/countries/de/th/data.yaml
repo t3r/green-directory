@@ -16,6 +16,8 @@ urls:
     url: https://twitter.com/Gruene_TH
   - type: WIKIDATA
     url: https://www.wikidata.org/wiki/Q1020858
+  - type: INSTAGRAM
+    url: https://www.instagram.com/gruene_th/
 emails:
   - address: info@gruene-thueringen.de
 ---
