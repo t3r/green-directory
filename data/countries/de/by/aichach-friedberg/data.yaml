@@ -7,6 +7,8 @@ district: Aichach-Friedberg
 urls:
   - type: WEBSITE
     url: https://gruene-aichach-friedberg.de/
+  - type: FACEBOOK
+    url: https://www.facebook.com/GrueneAichachFriedberg/
 ---
 type: REGIONAL_CHAPTER
 level: DE:ORTSVERBAND

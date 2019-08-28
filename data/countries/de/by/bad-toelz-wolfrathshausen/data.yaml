@@ -7,6 +7,8 @@ district: Bad Tölz/Wolfratshausen
 urls:
   - type: WEBSITE
     url: https://gruene-toelz-wor.de/
+  - type: INSTAGRAM
+    url: https://www.instagram.com/gruenetoelz/
 ---
 city: Bad Heilbrunn
 country: DE

@@ -9,6 +9,8 @@ urls:
     url: https://gruene-forchheim.de/
   - type: FACEBOOK
     url: https://www.facebook.com/gruene.forchheim/
+  - type: INSTAGRAM
+    url: https://www.instagram.com/gruene_fo/
 ---
 city: Forchheim
 country: DE

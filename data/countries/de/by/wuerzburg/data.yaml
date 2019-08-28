@@ -9,6 +9,8 @@ urls:
     url: https://www.gruene-wuerzburg-land.de/
   - type: FACEBOOK
     url: https://www.facebook.com/gruenewuerzburgland/
+  - type: INSTAGRAM
+    url: https://www.instagram.com/gruene_wuerzburg_land/
 ---
 type: REGIONAL_CHAPTER
 level: DE:ORTSVERBAND
@@ -58,6 +60,8 @@ urls:
     url: https://twitter.com/GrueneWuerzburg
   - type: YOUTUBE
     url: https://www.youtube.com/user/GrueneWuerzburg
+  - type: INSTAGRAM
+    url: https://www.instagram.com/gruene.wuerzburg.stadt/
 ---
 type: YOUTH_ORGANIZATION
 level: DE:KREISVERBAND
