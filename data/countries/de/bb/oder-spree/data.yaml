@@ -7,6 +7,10 @@ district: Oder-Spree
 urls:
   - type: WEBSITE
     url: https://gruene-oder-spree.de/
+  - type: FACEBOOK
+    url: https://www.facebook.com/grueneoderspree/
+  - type: TWITTER
+    url: https://twitter.com/oderspreegruen
 emails:
   - address: post@gruene-oder-spree.de
 ---
