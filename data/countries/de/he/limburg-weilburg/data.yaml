@@ -7,6 +7,8 @@ district: Limburg-Weilburg
 urls:
   - type: WEBSITE
     url: https://www.gruene-limburg-weilburg.de/
+  - type: FACEBOOK
+    url: https://www.facebook.com/gruenelimburgweilburg/
 emails:
   - address: kreis@gruene-limburg-weilburg.de
 ---

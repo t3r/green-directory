@@ -7,6 +7,10 @@ district: Rheingau-Taunus
 urls:
   - type: WEBSITE
     url: https://www.gruene-rtk.de/
+  - type: INSTAGRAM
+    url: https://www.instagram.com/gruene_rtk/
+  - type: FACEBOOK
+    url: https://www.facebook.com/Gr%C3%BCne-Rheingau-Taunus-1664752267139084/
 emails:
   - address: gruene-rtk-kv@online.de
 ---

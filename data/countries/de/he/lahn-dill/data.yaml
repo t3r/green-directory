@@ -7,6 +7,8 @@ district: Lahn-Dill
 urls:
   - type: WEBSITE
     url: https://www.gruene-lahn-dill.de/
+  - type: INSTAGRAM
+    url: https://www.instagram.com/gruene_lahndill/
 emails:
   - address: B90-Gruene.Lahn-Dill@t-online.de
 ---

@@ -7,6 +7,8 @@ district: Bergstraße
 urls:
   - type: WEBSITE
     url: https://www.gruene-bergstrasse.de/
+  - type: FACEBOOK
+    url: https://www.facebook.com/GrueneBergstrasse/
 emails:
   - address: mail@gruene-bergstrasse.de
 ---
