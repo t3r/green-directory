@@ -7,6 +7,8 @@ district: Rotenburg/Wümme
 urls:
   - type: WEBSITE
     url: https://gruene-kv-rotenburg.de/
+  - type: FACEBOOK
+    url: https://www.facebook.com/GrueneKVRotenburg/
 ---
 type: REGIONAL_CHAPTER
 level: DE:ORTSVERBAND

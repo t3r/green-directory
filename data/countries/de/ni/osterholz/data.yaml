@@ -7,6 +7,10 @@ district: Osterholz
 urls:
   - type: WEBSITE
     url: https://www.gruene-osterholz.de/
+  - type: FACEBOOK
+    url: https://www.facebook.com/gruene.osterholz
+  - type: INSTAGRAM
+    url: https://www.instagram.com/grueneosterholz/
 ---
 type: REGIONAL_CHAPTER
 level: DE:ORTSVERBAND

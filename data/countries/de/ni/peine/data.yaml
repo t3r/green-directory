@@ -7,6 +7,10 @@ district: Peine
 urls:
   - type: WEBSITE
     url: https://www.gruene-peine.de/kreisverband/
+  - type: FACEBOOK
+    url: https://www.facebook.com/Die-Gr%C3%BCnen-im-Landkreis-Peine-190786020942820/
+  - type: INSTAGRAM
+    url: https://www.instagram.com/gruene_peine/
 ---
 type: REGIONAL_CHAPTER
 level: DE:ORTSVERBAND

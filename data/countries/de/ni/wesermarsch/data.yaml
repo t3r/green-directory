@@ -7,6 +7,8 @@ district: Wesermarsch
 urls:
   - type: WEBSITE
     url: https://www.gruene-wesermarsch.de/
+  - type: FACEBOOK
+    url: https://www.facebook.com/GrueneWesermarsch
 ---
 type: REGIONAL_CHAPTER
 level: DE:ORTSVERBAND

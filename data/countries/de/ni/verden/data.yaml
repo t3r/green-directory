@@ -7,6 +7,8 @@ district: Verden
 urls:
   - type: WEBSITE
     url: http://www.gruene-verden.de/
+  - type: FACEBOOK
+    url: https://www.facebook.com/Gruene.Kreisverband.Verden/
 ---
 type: REGIONAL_CHAPTER
 level: DE:ORTSVERBAND

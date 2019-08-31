@@ -13,6 +13,8 @@ urls:
     url: https://www.facebook.com/GrueneGifhorn
   - type: YOUTUBE
     url: https://www.youtube.com/channel/UCSgtVxH51hPfdxY4a0s5CRQ
+  - type: INSTAGRAM
+    url: https://www.instagram.com/gruenegifhorn/
 ---
 type: REGIONAL_CHAPTER
 level: DE:ORTSVERBAND

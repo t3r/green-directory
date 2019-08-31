@@ -7,6 +7,8 @@ district: Stade
 urls:
   - type: WEBSITE
     url: https://gruene-kv-stade.de/
+  - type: FACEBOOK
+    url: https://www.facebook.com/B%C3%BCndnis-90-Die-Gr%C3%BCnen-Kreisverband-Stade-200045013356260/
 ---
 type: REGIONAL_CHAPTER
 level: DE:ORTSVERBAND

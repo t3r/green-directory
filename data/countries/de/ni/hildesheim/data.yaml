@@ -9,6 +9,10 @@ urls:
     url: https://www.gruene-hildesheim.de/
   - type: FACEBOOK
     url: https://www.facebook.com/HIgruen
+  - type: INSTAGRAM
+    url: https://www.instagram.com/gruene_hildesheim/
+  - type: TWITTER
+    url: https://twitter.com/HIgruen
 ---
 type: REGIONAL_CHAPTER
 level: DE:ORTSVERBAND

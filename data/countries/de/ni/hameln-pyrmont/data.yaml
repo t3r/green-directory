@@ -7,6 +7,8 @@ district: Hameln-Pyrmont
 urls:
   - type: WEBSITE
     url: http://www.gruene-hameln-pyrmont.de/
+  - type: FACEBOOK
+    url: https://www.facebook.com/Gruenehamelnpyrmont/
 ---
 type: REGIONAL_CHAPTER
 level: DE:ORTSVERBAND

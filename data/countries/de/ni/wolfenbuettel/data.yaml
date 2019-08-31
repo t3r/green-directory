@@ -7,6 +7,10 @@ district: Wolfenbüttel
 urls:
   - type: WEBSITE
     url: https://www.xn--grne-wf-o2a.de/
+  - type: FACEBOOK
+    url: https://www.facebook.com/GR%C3%9CNE-KV-Wolfenb%C3%BCttel-163738524190006/
+  - type: INSTAGRAM
+    url: https://www.instagram.com/gruene_woflfenbuettel/
 ---
 type: YOUTH_ORGANIZATION
 level: DE:KREISVERBAND

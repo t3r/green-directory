@@ -64,6 +64,10 @@ city: Nienburg
 urls:
   - type: WEBSITE
     url: https://gruene-nienburg.de/ortsverband-nienburg/
+  - type: FACEBOOK
+    url: https://www.facebook.com/GR%C3%9CNE-NienburgWeser-471078256384105/
+  - type: INSTAGRAM
+    url: https://www.instagram.com/gruene_nienburg/
 ---
 type: REGIONAL_CHAPTER
 level: DE:ORTSVERBAND

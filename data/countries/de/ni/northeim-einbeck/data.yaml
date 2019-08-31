@@ -7,6 +7,8 @@ district: Northeim/Einbeck
 urls:
   - type: WEBSITE
     url: https://www.gruene-northeim-einbeck.de/
+  - type: FACEBOOK
+    url: https://www.facebook.com/GruneNortheimEinbeck
 ---
 type: REGIONAL_CHAPTER
 level: DE:ORTSVERBAND
