@@ -79,6 +79,8 @@ district: Delmenhorst
 urls:
   - type: WEBSITE
     url: http://www.gruenedelmenhorst.de/home/
+  - type: FACEBOOK
+    url: https://www.facebook.com/GRUENEDelmenhorst/
 ---
 type: REGIONAL_CHAPTER
 level: DE:KREISVERBAND
@@ -88,6 +90,8 @@ district: Emden/Ostfriesland
 urls:
   - type: WEBSITE
     url: http://www.gruene-emden.de/
+  - type: FACEBOOK
+    url: https://www.facebook.com/grune.emden/
 ---
 type: REGIONAL_CHAPTER
 level: DE:KREISVERBAND
@@ -97,6 +101,10 @@ district: Friesland
 urls:
   - type: WEBSITE
     url: https://www.gruene-friesland.de/
+  - type: TWITTER
+    url: https://twitter.com/gruene_fri
+  - type: FACEBOOK
+    url: https://www.facebook.com/GrueneKvFriesland
 ---
 type: REGIONAL_CHAPTER
 level: DE:KREISVERBAND
@@ -106,6 +114,8 @@ district: Goslar
 urls:
   - type: WEBSITE
     url: http://www.gruene-goslar.de/
+  - type: FACEBOOK
+    url: https://www.facebook.com/GRUENE.GOSLAR/
 ---
 type: REGIONAL_CHAPTER
 level: DE:ORTSVERBAND
@@ -162,6 +172,8 @@ urls:
     url: https://www.facebook.com/grueneoldenburg
   - type: TWITTER
     url: https://twitter.com/Gruene_OL
+  - type: INSTAGRAM
+    url: https://www.instagram.com/gruene_ol/
 ---
 type: REGIONAL_CHAPTER
 level: DE:KREISVERBAND
@@ -175,6 +187,10 @@ urls:
     url: https://www.facebook.com/GrueneOS/
   - type: YOUTUBE
     url: https://www.youtube.com/user/grueneos
+  - type: TWITTER
+    url: https://twitter.com/GrueneOS
+  - type: INSTAGRAM
+    url: https://www.instagram.com/gruene_os/
 ---
 type: REGIONAL_CHAPTER
 level: DE:KREISVERBAND
@@ -197,6 +213,8 @@ urls:
     url: http://gruene-uelzen.de/startseite/
   - type: FACEBOOK
     url: https://www.facebook.com/grune.kreisuelzen/
+  - type: TWITTER
+    url: https://twitter.com/Gruene_Uelzen
 emails:
   - address: info@gruene-uelzen.de
 ---
@@ -230,6 +248,8 @@ urls:
     url: https://www.facebook.com/Gr%C3%BCnes-Wilhelmshaven-169171753155190/
   - type: YOUTUBE
     url: https://www.youtube.com/channel/UCcZPT1SXYWJRpmOYqWLsmmw
+  - type: INSTAGRAM
+    url: https://www.instagram.com/gruenewhv/
 ---
 type: REGIONAL_CHAPTER
 level: DE:KREISVERBAND
