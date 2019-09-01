@@ -7,6 +7,8 @@ district: Celle
 urls:
   - type: WEBSITE
     url: https://www.gruene-celle.de/
+  - type: FACEBOOK
+    url: https://www.facebook.com/B%C3%BCndnis-90-Die-Gr%C3%BCnen-Celle-1448422478737581/
 ---
 type: REGIONAL_CHAPTER
 level: DE:ORTSVERBAND

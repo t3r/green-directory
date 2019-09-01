@@ -11,6 +11,8 @@ urls:
     url: https://twitter.com/RosenheimGruene
   - type: FACEBOOK
     url: https://www.facebook.com/GrueneStadtUndLandkreisRosenheim
+  - type: INSTAGRAM
+    url: https://www.instagram.com/gruene_kv_rosenheim/
 ---
 city: Wasserburg
 country: DE

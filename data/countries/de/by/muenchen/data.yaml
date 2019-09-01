@@ -9,6 +9,10 @@ urls:
     url: https://www.gruene-muenchen.de/
   - type: FACEBOOK
     url: https://www.facebook.com/gruenemuenchen/
+  - type: INSTAGRAM
+    url: https://www.instagram.com/gruene_muenchen/
+  - type: TWITTER
+    url: https://twitter.com/Gruene_Muenchen
 ---
 city: Allach-Untermenzing
 country: DE

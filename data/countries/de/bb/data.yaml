@@ -56,7 +56,9 @@ urls:
   - type: WEBSITE
     url: https://gruene-kv-brb.de/
   - type: FACEBOOK
-    url: https://www.facebook.com/B%C3%BCndnis-90Die-Gr%C3%BCnen-Brandenburg-an-der-Havel-201715346651520/
+    url: https://www.facebook.com/Gruene.Brandenburg.Havel/
+  - type: INSTAGRAM
+    url: https://www.instagram.com/gruenebrbhavel/
 ---
 type: REGIONAL_CHAPTER
 level: DE:KREISVERBAND
@@ -66,6 +68,10 @@ district: Cottbus
 urls:
   - type: WEBSITE
     url: https://www.gruene-cottbus.de/
+  - type: FACEBOOK
+    url: https://www.facebook.com/GrueneCottbus/
+  - type: INSTAGRAM
+    url: https://www.instagram.com/b90gruenecottbus/
 ---
 type: REGIONAL_CHAPTER
 level: DE:KREISVERBAND
@@ -75,6 +81,10 @@ district: Dahme-Spreewald
 urls:
   - type: WEBSITE
     url: https://www.gruene-dahme-spreewald.de/
+  - type: FACEBOOK
+    url: https://www.facebook.com/gruenelds/
+  - type: INSTAGRAM
+    url: https://www.instagram.com/gruene_luebben/
 ---
 type: REGIONAL_CHAPTER
 level: DE:KREISVERBAND
@@ -84,6 +94,8 @@ district: Elbe-Elster
 urls:
   - type: WEBSITE
     url: https://gruene-lausitz.org/ee/aktuelles/
+  - type: FACEBOOK
+    url: https://www.facebook.com/B%C3%BCndnis-90-Die-Gr%C3%BCnen-Elbe-Elster-2412831312287026/
 ---
 type: REGIONAL_CHAPTER
 level: DE:KREISVERBAND
@@ -95,6 +107,8 @@ urls:
     url: https://www.gruene-frankfurt-oder.de/
   - type: FACEBOOK
     url: https://www.facebook.com/grueneffo/
+  - type: INSTAGRAM
+    url: https://www.instagram.com/grueneffo/
 ---
 type: REGIONAL_CHAPTER
 level: DE:KREISVERBAND
@@ -106,6 +120,10 @@ urls:
     url: https://www.gruene-havelland.de/
   - type: FACEBOOK
     url: http://www.facebook.com/gruenehvl
+  - type: INSTAGRAM
+    url: https://www.instagram.com/gruene.hvl/
+  - type: TWITTER
+    url: https://twitter.com/GrueneHVL
 ---
 type: REGIONAL_CHAPTER
 level: DE:KREISVERBAND
@@ -137,6 +155,8 @@ district: Oberspreewald-Lausitz
 urls:
   - type: WEBSITE
     url: https://gruene-lausitz.org/
+  - type: FACEBOOK
+    url: https://www.facebook.com/GR%C3%9CNE-Lausitz-338183503210687/
 ---
 type: REGIONAL_CHAPTER
 level: DE:KREISVERBAND
@@ -157,6 +177,10 @@ urls:
     url: https://gruene-potsdam.de/
   - type: FACEBOOK
     url: https://www.facebook.com/gruenekvpotsdam/
+  - type: INSTAGRAM
+    url: https://www.instagram.com/gruene_potsdam/
+  - type: TWITTER
+    url: https://twitter.com/grueneKVpotsdam
 ---
 type: REGIONAL_CHAPTER
 level: DE:KREISVERBAND
@@ -166,6 +190,8 @@ district: Prignitz
 urls:
   - type: WEBSITE
     url: https://www.grueneprignitz.de/
+  - type: TWITTER
+    url: https://twitter.com/grueneprignitz
 ---
 type: REGIONAL_CHAPTER
 level: DE:KREISVERBAND
@@ -195,6 +221,8 @@ urls:
     url: https://www.gruene-um.de/
   - type: FACEBOOK
     url: https://www.facebook.com/B%C3%BCndnis-90-Die-Gr%C3%BCnen-Uckermark-247133728649040/
+  - type: INSTAGRAM
+    url: https://www.instagram.com/grueneuckermark/
 ---
 type: REGIONAL_CHAPTER
 level: DE:ORTSVERBAND

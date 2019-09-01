@@ -11,6 +11,8 @@ urls:
     url: https://www.facebook.com/GrueneEbersberg
   - type: TWITTER
     url: https://twitter.com/gruenEBE
+  - type: INSTAGRAM
+    url: https://www.instagram.com/gruene.ebe/
 ---
 city: Aßling
 country: DE

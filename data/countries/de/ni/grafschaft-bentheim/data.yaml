@@ -7,6 +7,8 @@ district: Grafschaft Bentheim
 urls:
   - type: WEBSITE
     url: https://www.gruene-grafschaft.de/
+  - type: FACEBOOK
+    url: https://www.facebook.com/GR%C3%9CNE-Grafschaft-Bentheim-1157965974375896/
 ---
 type: REGIONAL_CHAPTER
 level: DE:ORTSVERBAND

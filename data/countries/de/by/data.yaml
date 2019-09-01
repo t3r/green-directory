@@ -131,6 +131,8 @@ district: Amberg-Stadt
 urls:
   - type: WEBSITE
     url: https://gruene-amberg.de/
+  - type: FACEBOOK
+    url: https://www.facebook.com/Gr%C3%BCne-Amberg-1422646964642679/
 ---
 type: REGIONAL_CHAPTER
 level: DE:KREISVERBAND
@@ -140,6 +142,8 @@ district: Amberg-Sulzbach
 urls:
   - type: WEBSITE
     url: https://gruene-amberg-sulzbach.de/
+  - type: FACEBOOK
+    url: https://www.facebook.com/Gruene.LKAS/
 ---
 type: REGIONAL_CHAPTER
 level: DE:KREISVERBAND
@@ -153,6 +157,8 @@ urls:
     url: https://www.facebook.com/Die.Gruenen.Aschaffenburg
   - type: INSTAGRAM
     url: https://www.instagram.com/gruene_aschaffenburg/
+  - type: TWITTER
+    url: https://twitter.com/gruene_ab
 ---
 type: REGIONAL_CHAPTER
 level: DE:KREISVERBAND
@@ -177,6 +183,10 @@ district: Bad Kissingen
 urls:
   - type: WEBSITE
     url: https://www.gruene-kg.de/
+  - type: INSTAGRAM
+    url: https://www.instagram.com/gruene.badkissingen/
+  - type: FACEBOOK
+    url: https://www.facebook.com/grueneKg/
 ---
 type: REGIONAL_CHAPTER
 level: DE:KREISVERBAND
@@ -188,6 +198,8 @@ urls:
     url: https://gruene-bamberg-land.de/
   - type: FACEBOOK
     url: https://www.facebook.com/gruenebambergland/
+  - type: INSTAGRAM
+    url: https://www.instagram.com/gruenebambergland/
 ---
 type: REGIONAL_CHAPTER
 level: DE:KREISVERBAND
@@ -197,6 +209,8 @@ district: Bamberg-Stadt
 urls:
   - type: WEBSITE
     url: http://www.gal-bamberg.de/
+  - type: TWITTER
+    url: https://twitter.com/GAL_Bamberg
 ---
 type: REGIONAL_CHAPTER
 level: DE:KREISVERBAND
@@ -217,6 +231,10 @@ district: Bayreuth-Stadt
 urls:
   - type: WEBSITE
     url: https://www.gruene-bayreuth.de/
+  - type: FACEBOOK
+    url: https://www.facebook.com/GrueneBayreuthStadt/
+  - type: TWITTER
+    url: https://twitter.com/Gruene_Bayreuth
 ---
 type: REGIONAL_CHAPTER
 level: DE:KREISVERBAND
@@ -237,6 +255,8 @@ urls:
     url: https://gruene-cham.de/
   - type: FACEBOOK
     url: https://www.facebook.com/Gr%C3%BCne-Cham-350465798380888/
+  - type: INSTAGRAM
+    url: https://www.instagram.com/gruene_cham/
 ---
 type: REGIONAL_CHAPTER
 level: DE:KREISVERBAND
@@ -257,6 +277,8 @@ urls:
     url: https://gruene-coburg.de/
   - type: FACEBOOK
     url: https://www.facebook.com/gruene.coburg/
+  - type: INSTAGRAM
+    url: https://www.instagram.com/gruenecoburgstadt/
 ---
 type: REGIONAL_CHAPTER
 level: DE:KREISVERBAND
@@ -268,6 +290,8 @@ urls:
     url: http://gruene-dachau.de/
   - type: FACEBOOK
     url: https://www.facebook.com/B%C3%BCndnis-90-Die-Gr%C3%BCnen-KV-Dachau-216344461717040/
+  - type: INSTAGRAM
+    url: https://www.instagram.com/gruene_dachau/
 ---
 type: REGIONAL_CHAPTER
 level: DE:KREISVERBAND
@@ -288,6 +312,8 @@ urls:
     url: https://www.gruene-dillingen.de/
   - type: FACEBOOK
     url: https://www.facebook.com/Gr%C3%BCne-Dillingen-a-d-Donau-248816661861401/
+  - type: INSTAGRAM
+    url: https://www.instagram.com/gruene_dillingen/
 ---
 type: REGIONAL_CHAPTER
 level: DE:KREISVERBAND
@@ -308,6 +334,8 @@ district: Donau-Ries
 urls:
   - type: WEBSITE
     url: https://gruene-donau-ries.de/
+  - type: FACEBOOK
+    url: https://www.facebook.com/gruenedonries
 ---
 type: REGIONAL_CHAPTER
 level: DE:KREISVERBAND
@@ -337,6 +365,12 @@ district: Erlangen-Stadt
 urls:
   - type: WEBSITE
     url: https://gruene-erlangen.de/
+  - type: INSTAGRAM
+    url: https://www.instagram.com/gruene.erlangen/
+  - type: FACEBOOK
+    url: https://www.facebook.com/GrueneErlangen/
+  - type: TWITTER
+    url: https://twitter.com/greenerlangen
 ---
 type: REGIONAL_CHAPTER
 level: DE:KREISVERBAND
@@ -346,6 +380,10 @@ district: Freising
 urls:
   - type: WEBSITE
     url: https://gruene-freising.de/
+  - type: INSTAGRAM
+    url: https://www.instagram.com/gruene.freising/
+  - type: FACEBOOK
+    url: https://www.facebook.com/gruenefreising/
 ---
 type: REGIONAL_CHAPTER
 level: DE:KREISVERBAND
@@ -355,8 +393,6 @@ district: Freyung-Grafenau
 urls:
   - type: WEBSITE
     url: https://www.gruene-frg.de/
-  - type: FACEBOOK
-    url: https://www.facebook.com/GrueneNiederbayern/
 ---
 type: REGIONAL_CHAPTER
 level: DE:KREISVERBAND
@@ -366,6 +402,10 @@ district: Fürth-Stadt
 urls:
   - type: WEBSITE
     url: https://www.gruene-fuerth.de/
+  - type: FACEBOOK
+    url: https://www.facebook.com/DieGruenenFuerth
+  - type: TWITTER
+    url: https://twitter.com/GrueneFuerth
 ---
 type: REGIONAL_CHAPTER
 level: DE:KREISVERBAND
@@ -379,6 +419,8 @@ urls:
     url: https://twitter.com/Gruene_Garmisch
   - type: FACEBOOK
     url: https://www.facebook.com/gruene.kvgap/
+  - type: INSTAGRAM
+    url: https://www.instagram.com/gruenegap/
 ---
 type: REGIONAL_CHAPTER
 level: DE:KREISVERBAND
@@ -388,6 +430,8 @@ district: Günzburg
 urls:
   - type: WEBSITE
     url: http://gruene-guenzburg.de/
+  - type: FACEBOOK
+    url: https://www.facebook.com/GrueneGZ/
 ---
 type: REGIONAL_CHAPTER
 level: DE:KREISVERBAND
@@ -397,6 +441,10 @@ district: Haßberge
 urls:
   - type: WEBSITE
     url: https://gruene-hassberge.de/
+  - type: INSTAGRAM
+    url: https://www.instagram.com/gruenehassberge/
+  - type: FACEBOOK
+    url: https://www.facebook.com/GrueneHassberge/
 ---
 type: REGIONAL_CHAPTER
 level: DE:KREISVERBAND
@@ -408,6 +456,10 @@ urls:
     url: https://gruene-hof.de/
   - type: FACEBOOK
     url: https://www.facebook.com/grune.hof
+  - type: TWITTER
+    url: https://twitter.com/gruenehof
+  - type: INSTAGRAM
+    url: https://www.instagram.com/gruenehof/
 ---
 type: REGIONAL_CHAPTER
 level: DE:KREISVERBAND
@@ -417,6 +469,12 @@ district: Ingolstadt
 urls:
   - type: WEBSITE
     url: https://ingolstadt-gruene.de/
+  - type: INSTAGRAM
+    url: https://www.instagram.com/grueneingolstadt/
+  - type: FACEBOOK
+    url: https://www.facebook.com/B%C3%BCndnis-90Die-Gr%C3%BCnen-Ingolstadt-204451377322/
+  - type: TWITTER
+    url: https://twitter.com/GrueneIN
 ---
 type: REGIONAL_CHAPTER
 level: DE:KREISVERBAND
@@ -439,6 +497,8 @@ urls:
     url: https://www.gruene-kitzingen.de/
   - type: FACEBOOK
     url: https://www.facebook.com/gruene.kitzingen/
+  - type: INSTAGRAM
+    url: https://www.instagram.com/gruene_kitzingen/
 ---
 type: REGIONAL_CHAPTER
 level: DE:KREISVERBAND
@@ -448,6 +508,8 @@ district: Kronach
 urls:
   - type: WEBSITE
     url: https://gruene-kronach.de/
+  - type: FACEBOOK
+    url: https://www.facebook.com/gruenekronach/
 ---
 type: REGIONAL_CHAPTER
 level: DE:KREISVERBAND
@@ -459,6 +521,8 @@ urls:
     url: https://www.gruene-kulmbach.de/home/
   - type: FACEBOOK
     url: https://www.facebook.com/Gr%C3%BCne-Kulmbach-354269961324015
+  - type: INSTAGRAM
+    url: https://www.instagram.com/gruenekulmbach/
 ---
 type: REGIONAL_CHAPTER
 level: DE:KREISVERBAND
@@ -468,6 +532,8 @@ district: Landshut-Land
 urls:
   - type: WEBSITE
     url: https://gruene-landshut.de/
+  - type: FACEBOOK
+    url: https://www.facebook.com/DieGrunenLandshutLand/
 ---
 type: REGIONAL_CHAPTER
 level: DE:KREISVERBAND
@@ -477,6 +543,10 @@ district: Landshut-Stadt
 urls:
   - type: WEBSITE
     url: https://www.gruene-btw-landshut.de/
+  - type: TWITTER
+    url: https://twitter.com/grueneLA
+  - type: FACEBOOK
+    url: https://www.facebook.com/gruenelandshut/
 ---
 type: REGIONAL_CHAPTER
 level: DE:KREISVERBAND
@@ -486,6 +556,10 @@ district: Lichtenfels
 urls:
   - type: WEBSITE
     url: https://gruene-lichtenfels.de/
+  - type: FACEBOOK
+    url: https://www.facebook.com/gruenelichtenfels/
+  - type: TWITTER
+    url: https://twitter.com/Gruene_Lfs
 ---
 type: REGIONAL_CHAPTER
 level: DE:KREISVERBAND
@@ -495,6 +569,8 @@ district: Lindau
 urls:
   - type: WEBSITE
     url: https://gruene.li/
+  - type: FACEBOOK
+    url: https://www.facebook.com/gruene.li
 ---
 type: REGIONAL_CHAPTER
 level: DE:KREISVERBAND
@@ -513,6 +589,8 @@ district: Memmingen
 urls:
   - type: WEBSITE
     url: https://www.gruene-memmingen.de/
+  - type: FACEBOOK
+    url: https://www.facebook.com/B%C3%BCndnis90Die-Gr%C3%BCnen-Kreisverband-Memmingen-189359847749553/
 ---
 type: REGIONAL_CHAPTER
 level: DE:KREISVERBAND
@@ -522,6 +600,8 @@ district: Miltenberg
 urls:
   - type: WEBSITE
     url: https://xn--grne-miltenberg-0vb.de/
+  - type: FACEBOOK
+    url: https://www.facebook.com/GruenerKvMiltenberg/
 ---
 type: REGIONAL_CHAPTER
 level: DE:KREISVERBAND
@@ -550,6 +630,8 @@ urls:
     url: https://www.facebook.com/gruene.neu.ulm/
   - type: INSTAGRAM
     url: https://www.instagram.com/gruene_neu_ulm/
+  - type: TWITTER
+    url: https://twitter.com/GrueneNeuUlm
 ---
 type: REGIONAL_CHAPTER
 level: DE:KREISVERBAND
@@ -559,6 +641,10 @@ district: Neuburg-Schrobenhausen
 urls:
   - type: WEBSITE
     url: http://www.gruene-neusob.de/
+  - type: FACEBOOK
+    url: https://www.facebook.com/kv.gruene.neusob/
+  - type: INSTAGRAM
+    url: https://www.instagram.com/gruene.neusob/
 ---
 type: REGIONAL_CHAPTER
 level: DE:KREISVERBAND
@@ -570,6 +656,8 @@ urls:
     url: https://gruene-neumarkt.de/
   - type: FACEBOOK
     url: https://www.facebook.com/GrueneNeumarkt/
+  - type: INSTAGRAM
+    url: https://www.instagram.com/grueneneumarkt/
 ---
 type: REGIONAL_CHAPTER
 level: DE:KREISVERBAND
@@ -588,6 +676,8 @@ district: Neustadt-Aisch
 urls:
   - type: WEBSITE
     url: http://www.gruene-neustadt-aisch.de/
+  - type: FACEBOOK
+    url: https://www.facebook.com/GRUENE.Kreis.NEA
 ---
 type: REGIONAL_CHAPTER
 level: DE:KREISVERBAND
@@ -597,6 +687,10 @@ district: Nürnberg-Stadt
 urls:
   - type: WEBSITE
     url: http://www.gruene-nuernberg.de
+  - type: FACEBOOK
+    url: https://www.facebook.com/gruene.nuernberg/
+  - type: TWITTER
+    url: https://twitter.com/Gruene_Nbg
 ---
 type: REGIONAL_CHAPTER
 level: DE:KREISVERBAND
@@ -608,6 +702,8 @@ urls:
     url: https://gruene-oal.de/
   - type: FACEBOOK
     url: https://www.facebook.com/grueneoal
+  - type: INSTAGRAM
+    url: https://www.instagram.com/gruene_ostallgaeu/
 ---
 type: REGIONAL_CHAPTER
 level: DE:KREISVERBAND
@@ -628,6 +724,8 @@ district: Passau-Stadt
 urls:
   - type: WEBSITE
     url: http://gruene-passau.de/
+  - type: FACEBOOK
+    url: https://www.facebook.com/DieGruenenPassauStadt
 ---
 type: REGIONAL_CHAPTER
 level: DE:KREISVERBAND
@@ -637,6 +735,10 @@ district: Pfaffenhofen
 urls:
   - type: WEBSITE
     url: https://gruene-pfaffenhofen.de/
+  - type: TWITTER
+    url: https://twitter.com/Gruene_PAF
+  - type: FACEBOOK
+    url: https://www.facebook.com/gruenepaf/
 ---
 type: REGIONAL_CHAPTER
 level: DE:KREISVERBAND
@@ -646,6 +748,8 @@ district: Regen
 urls:
   - type: WEBSITE
     url: https://gruene-regen.de/
+  - type: FACEBOOK
+    url: https://www.facebook.com/Die-Gr%C3%BCnen-Landkreis-Regen-694668227565426/
 ---
 type: REGIONAL_CHAPTER
 level: DE:KREISVERBAND
@@ -657,6 +761,8 @@ urls:
     url: http://www.gruene-regensburg.de/
   - type: FACEBOOK
     url: https://www.facebook.com/gruene.regensburg/
+  - type: INSTAGRAM
+    url: https://www.instagram.com/gruene.regensburg/
 ---
 type: REGIONAL_CHAPTER
 level: DE:KREISVERBAND
@@ -666,6 +772,8 @@ district: Regensburg-Land
 urls:
   - type: WEBSITE
     url: https://gruene-regensburg-land.de/
+  - type: FACEBOOK
+    url: https://www.facebook.com/grueneregensburgland/
 ---
 type: REGIONAL_CHAPTER
 level: DE:KREISVERBAND
@@ -675,6 +783,8 @@ district: Rhön-Grabfeld
 urls:
   - type: WEBSITE
     url: https://www.gruene-rhoen-grabfeld.de/
+  - type: FACEBOOK
+    url: https://www.facebook.com/grueneNES/
 ---
 type: REGIONAL_CHAPTER
 level: DE:KREISVERBAND
@@ -684,6 +794,8 @@ district: Roth
 urls:
   - type: WEBSITE
     url: https://www.gruene-roth.de/
+  - type: FACEBOOK
+    url: https://www.facebook.com/gruenekvroth/
 ---
 type: REGIONAL_CHAPTER
 level: DE:KREISVERBAND
@@ -693,6 +805,10 @@ district: Rottal-Inn
 urls:
   - type: WEBSITE
     url: https://www.gruene-rottal-inn.de/
+  - type: FACEBOOK
+    url: https://www.facebook.com/B%C3%BCndnis-90-Die-Gr%C3%BCnen-Rottal-Inn-372189986210448/
+  - type: INSTAGRAM
+    url: https://www.instagram.com/gruene_rottalinn/
 ---
 type: REGIONAL_CHAPTER
 level: DE:KREISVERBAND
@@ -702,6 +818,8 @@ district: Schwabach
 urls:
   - type: WEBSITE
     url: https://www.gruene-schwabach.de/
+  - type: FACEBOOK
+    url: https://www.facebook.com/gruene.schwabach/
 ---
 type: REGIONAL_CHAPTER
 level: DE:KREISVERBAND
@@ -713,6 +831,8 @@ urls:
     url: https://gruene-schwandorf.de/
   - type: FACEBOOK
     url: https://www.facebook.com/GrueneImLandkreisSchwandorf
+  - type: TWITTER
+    url: https://twitter.com/GRUENESAD
 ---
 type: REGIONAL_CHAPTER
 level: DE:KREISVERBAND
@@ -724,6 +844,8 @@ urls:
     url: https://www.gruene-straubing-bogen.de/
   - type: FACEBOOK
     url: https://www.facebook.com/GrueneStraubingBogen
+  - type: TWITTER
+    url: https://twitter.com/GrueneStraubing
 ---
 type: REGIONAL_CHAPTER
 level: DE:KREISVERBAND
@@ -735,6 +857,8 @@ urls:
     url: https://gruenetir.de/
   - type: FACEBOOK
     url: http://www.facebook.com/gruene.tirschenreuth
+  - type: INSTAGRAM
+    url: https://www.instagram.com/gruenetir/
 ---
 type: REGIONAL_CHAPTER
 level: DE:KREISVERBAND
@@ -744,6 +868,12 @@ district: Traunstein
 urls:
   - type: WEBSITE
     url: https://www.gruene-traunstein.de/
+  - type: TWITTER
+    url: https://twitter.com/gruene_ts
+  - type: FACEBOOK
+    url: https://www.facebook.com/KreisverbandGrueneTraunstein/
+  - type: INSTAGRAM
+    url: https://www.instagram.com/gruene_traunstein/
 ---
 type: REGIONAL_CHAPTER
 level: DE:KREISVERBAND
@@ -764,6 +894,8 @@ district: Weiden
 urls:
   - type: WEBSITE
     url: https://gruene-weiden.de/
+  - type: FACEBOOK
+    url: https://www.facebook.com/B%C3%BCndnis-90-Die-Gr%C3%BCnen-KV-Neustadt-ad-Waldnaab-und-Weiden-i-d-Opf-105519059607000
 ---
 type: REGIONAL_CHAPTER
 level: DE:KREISVERBAND
@@ -773,6 +905,8 @@ district: Weißenburg-Gunzenhausen
 urls:
   - type: WEBSITE
     url: https://gruene-weissenburg.de/
+  - type: FACEBOOK
+    url: https://www.facebook.com/gruene.weissenburg/
 ---
 type: REGIONAL_CHAPTER
 level: DE:KREISVERBAND
@@ -784,6 +918,8 @@ urls:
     url: http://www.gruene-fichtelgebirge.de
   - type: YOUTUBE
     url: https://www.youtube.com/user/gruenwun
+  - type: TWITTER
+    url: https://twitter.com/GrueneWunsiedel
 ---
 type: PERSON
 name: Toni Schuberl

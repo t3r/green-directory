@@ -14,6 +14,10 @@ urls:
     url: https://www.facebook.com/gruenebremen
   - type: WIKIDATA
     url: https://www.wikidata.org/wiki/Q1020839
+  - type: INSTAGRAM
+    url: https://www.instagram.com/gruenebremen/
+  - type: TWITTER
+    url: https://twitter.com/GrueneBremen
 emails:
   - address: info@gruene-bremen.de
 ---
@@ -45,6 +49,8 @@ urls:
     url: https://www.facebook.com/gruenebhv
   - type: TWITTER
     url: https://twitter.com/Gruene_Bhv
+  - type: INSTAGRAM
+    url: https://www.instagram.com/gruenebremerhaven/
 emails:
   - address: kreisvorstand@gruene-bremerhaven.de
 ---
@@ -100,5 +106,7 @@ district: Links der Weser
 urls:
   - type: WEBSITE
     url: https://gruene-linksderweser.de/
+  - type: FACEBOOK
+    url: https://www.facebook.com/gruenelinksderweser
 emails:
   - address: kontakt@gruene-linksderweser.de

@@ -53,6 +53,8 @@ urls:
     url: https://www.facebook.com/gruenealtona
   - type: TWITTER
     url: https://twitter.com/GRUeNE_Altona
+  - type: INSTAGRAM
+    url: https://www.instagram.com/gruene_altona/
 emails:
   - address: kreisverband@gruene-altona.de
 ---
@@ -66,6 +68,10 @@ urls:
     url: https://www.gruene-bergedorf.de/
   - type: FACEBOOK
     url: https://www.facebook.com/GrueneBergedorf/
+  - type: INSTAGRAM
+    url: https://www.instagram.com/gruenebergedorf/
+  - type: TWITTER
+    url: https://twitter.com/GrueneBergedorf
 emails:
   - address: kreisverband@gruene-bergedorf.de
 ---
@@ -81,6 +87,8 @@ urls:
     url: https://www.facebook.com/eimsbuettelgruen
   - type: TWITTER
     url: https://twitter.com/GrueneEimsbusch
+  - type: INSTAGRAM
+    url: https://www.instagram.com/gruene_eimsbuettel/
 emails:
   - address: kreisverband@gruene-eimsbuettel.de
 ---
@@ -96,6 +104,8 @@ urls:
     url: https://www.facebook.com/gruene.harburg/
   - type: TWITTER
     url: https://twitter.com/GRUENE_Harburg
+  - type: INSTAGRAM
+    url: https://www.instagram.com/gruene.harburg/
 emails:
   - address: kreisverband@gruene-harburg.de
 ---
@@ -107,6 +117,10 @@ district: Mitte
 urls:
   - type: WEBSITE
     url: https://www.gruenemitte.com/
+  - type: FACEBOOK
+    url: https://www.facebook.com/GrueneMitteHH/
+  - type: INSTAGRAM
+    url: https://www.instagram.com/gruenemitte/
 emails:
   - address: kreisverband@gruene-mitte.com
 ---
@@ -120,6 +134,10 @@ urls:
     url: http://www.gruene-nord.de/
   - type: FACEBOOK
     url: https://www.facebook.com/gruenenord
+  - type: TWITTER
+    url: https://twitter.com/GRUENE_Nord
+  - type: INSTAGRAM
+    url: https://www.instagram.com/gruene_hh_nord/
 emails:
   - address: info@gruene-nord.de
 ---
@@ -133,5 +151,7 @@ urls:
     url: http://www.gruene-wandsbek.de/
   - type: FACEBOOK
     url: https://www.facebook.com/gruenewandsbek
+  - type: TWITTER
+    url: https://twitter.com/GrueneWandsbek
 emails:
   - address: kreisverband@gruene-wandsbek.de

@@ -7,6 +7,10 @@ district: Schwalm-Eder
 urls:
   - type: WEBSITE
     url: https://www.gruene-schwalm-eder.de/
+  - type: FACEBOOK
+    url: https://www.facebook.com/grueneschwalmeder/
+  - type: TWITTER
+    url: https://twitter.com/GrueneSEK
 emails:
   - address: info@gruene-schwalm-eder.de
 ---

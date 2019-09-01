@@ -45,6 +45,8 @@ district: Landkreis Rostock
 urls:
   - type: WEBSITE
     url: http://www.gruene-landkreis-rostock.de
+  - type: FACEBOOK
+    url: https://www.facebook.com/GrueneLRO/
 emails:
   - address: kv@gruene-landkreis-rostock.de
 ---
@@ -71,6 +73,10 @@ urls:
     url: http://www.gruene-seenplatte.de
   - type: FACEBOOK
     url: http://www.facebook.com/gruene.seenplatte/
+  - type: INSTAGRAM
+    url: https://www.instagram.com/gruene.seenplatte/
+  - type: TWITTER
+    url: https://twitter.com/GrueneMSE
 emails:
   - address: info@gruene-seenplatte.de
 ---
@@ -97,6 +103,10 @@ district: Nordwestmecklenburg
 urls:
   - type: WEBSITE
     url: http://www.gruene-nordwestmecklenburg.de
+  - type: FACEBOOK
+    url: https://www.facebook.com/Gruene.NWM.HWI
+  - type: TWITTER
+    url: https://twitter.com/gruene_nwm
 emails:
   - address: info@gruene-nordwestmecklenburg.de
 ---
@@ -110,6 +120,8 @@ urls:
     url: http://www.gruene-schwerin.de
   - type: FACEBOOK
     url: https://www.facebook.com/gruene.schwerin
+  - type: INSTAGRAM
+    url: https://www.instagram.com/grn_sn/
 emails:
   - address: kv@gruene-schwerin.de
 ---
@@ -136,5 +148,9 @@ urls:
     url: http://www.gruene-vorpommern-greifswald.de
   - type: FACEBOOK
     url: http://www.facebook.com/gruenevg
+  - type: INSTAGRAM
+    url: https://www.instagram.com/gruene_vg/
+  - type: TWITTER
+    url: https://twitter.com/GRUENE_VG
 emails:
   - address: info@gruene-greifswald.de

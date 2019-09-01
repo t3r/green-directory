@@ -11,6 +11,8 @@ urls:
     url: https://www.facebook.com/GrueneWaFkb
   - type: TWITTER
     url: https://twitter.com/GrueneWaFkb
+  - type: INSTAGRAM
+    url: https://www.instagram.com/gruenewafkb/
 emails:
   - address: gruenepost@freenet.de
 ---

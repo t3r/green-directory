@@ -51,6 +51,12 @@ district: Darmstadt
 urls:
   - type: WEBSITE
     url: http://www.gruene-darmstadt.de/
+  - type: INSTAGRAM
+    url: https://www.instagram.com/gruenedarmstadt/
+  - type: TWITTER
+    url: https://twitter.com/GrueneDA
+  - type: FACEBOOK
+    url: https://www.facebook.com/gruene.darmstadt/
 emails:
   - address: kreisverband@gruene-darmstadt.de
 ---
@@ -62,6 +68,12 @@ district: Frankfurt
 urls:
   - type: WEBSITE
     url: https://www.gruene-frankfurt.de/
+  - type: INSTAGRAM
+    url: https://www.instagram.com/grueneffm/
+  - type: TWITTER
+    url: https://twitter.com/grueneffm
+  - type: FACEBOOK
+    url: https://www.facebook.com/gruene.frankfurt/
 emails:
   - address: kreisverband@gruene-frankfurt.de
 ---
@@ -75,6 +87,10 @@ urls:
     url: http://www.gruene-fulda.de/
   - type: TWITTER
     url: https://www.twitter.com/GrueneFulda
+  - type: FACEBOOK
+    url: https://www.facebook.com/GrueneKvFulda/
+  - type: INSTAGRAM
+    url: https://www.instagram.com/gruene_fulda/
 emails:
   - address: info@gruene-fulda.de
 ---
@@ -86,6 +102,12 @@ district: Kassel-Stadt
 urls:
   - type: WEBSITE
     url: https://www.gruene-kassel.de/
+  - type: FACEBOOK
+    url: https://www.facebook.com/kasselwirdgruen/
+  - type: TWITTER
+    url: https://twitter.com/gruenekassel
+  - type: INSTAGRAM
+    url: https://www.instagram.com/gruenekassel/
 emails:
   - address: gruene.kassel@t-online.de
 ---
@@ -114,6 +136,8 @@ district: Vogelsberg
 urls:
   - type: WEBSITE
     url: http://www.gruene-vogelsberg.de/
+  - type: FACEBOOK
+    url: https://www.facebook.com/gruene.vogelsberg/
 emails:
   - address: info@gruene-vogelsberg.de
 ---
@@ -140,5 +164,9 @@ urls:
     url: https://gruene-wiesbaden.de/
   - type: FACEBOOK
     url: https://www.facebook.com/gruene.wi
+  - type: INSTAGRAM
+    url: https://www.instagram.com/gruene_wi/
+  - type: TWITTER
+    url: https://twitter.com/gruene_wi
 emails:
   - address: kreisverband@gruene-wiesbaden.de

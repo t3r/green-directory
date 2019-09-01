@@ -7,6 +7,12 @@ district: Wetterau
 urls:
   - type: WEBSITE
     url: https://www.gruene-wetterau.de/
+  - type: FACEBOOK
+    url: https://www.facebook.com/Wetterauer-Gr%C3%BCne-508673049308760/
+  - type: TWITTER
+    url: https://twitter.com/GrueneWetterau
+  - type: INSTAGRAM
+    url: https://www.instagram.com/gruenewetterau/
 emails:
   - address: info@gruene-wetterau.de
 ---

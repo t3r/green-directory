@@ -6,11 +6,13 @@ state: Bayern
 district: Fürstenfeldbruck
 urls:
   - type: WEBSITE
-    url: https://gruene-kreisverband-ffb.de/
+    url: https://gruene-bruck.de/
   - type: TWITTER
     url: http://www.twitter.com/gruene_ffb
   - type: FACEBOOK
     url: https://www.facebook.com/gruene.fuerstenfeldbruck/
+  - type: INSTAGRAM
+    url: https://www.instagram.com/gruene_ffb/
 ---
 type: REGIONAL_CHAPTER
 level: DE:ORTSVERBAND

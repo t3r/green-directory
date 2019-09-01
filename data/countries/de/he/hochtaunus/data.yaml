@@ -11,6 +11,8 @@ urls:
     url: https://www.facebook.com/gruene.hochtaunus/
   - type: TWITTER
     url: https://twitter.com/gruenehtk
+  - type: INSTAGRAM
+    url: https://www.instagram.com/gruenehtk/
 emails:
   - address: kreisverband@gruene-hochtaunus.de
 ---

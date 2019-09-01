@@ -9,6 +9,8 @@ urls:
     url: https://www.gruene-kreis-harburg.de/
   - type: FACEBOOK
     url: https://www.facebook.com/gruene.harburg.land/
+  - type: TWITTER
+    url: https://twitter.com/Gruen_LKHarburg
 ---
 type: REGIONAL_CHAPTER
 level: DE:ORTSVERBAND

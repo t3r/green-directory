@@ -7,6 +7,10 @@ district: Main-Taunus
 urls:
   - type: WEBSITE
     url: https://gruene-mtk.de/
+  - type: FACEBOOK
+    url: https://www.facebook.com/gruene.mtk
+  - type: INSTAGRAM
+    url: https://www.instagram.com/gruene_maintaunus/
 emails:
   - address: info@gruene-mtk.de
 ---

@@ -9,6 +9,8 @@ urls:
     url: https://gruene-starnberg.de/
   - type: FACEBOOK
     url: https://www.facebook.com/Gr%C3%BCne-Kreisverband-Starnberg-152190608236782/
+  - type: INSTAGRAM
+    url: https://www.instagram.com/gruenekvstarnberg/
 ---
 city: Gilching
 country: DE

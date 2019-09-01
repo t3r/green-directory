@@ -9,6 +9,8 @@ urls:
     url: https://www.gruene-marburg.de/
   - type: FACEBOOK
     url: https://www.facebook.com/DieGruenen.Marburg/
+  - type: TWITTER
+    url: https://twitter.com/Gruene_MR
 emails:
   - address: kreisverband@gruene-marburg.de
 ---

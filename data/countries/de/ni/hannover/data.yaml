@@ -9,6 +9,10 @@ urls:
     url: https://www.gruene-hannover.de/
   - type: FACEBOOK
     url: https://www.facebook.com/gruene.hannover
+  - type: TWITTER
+    url: https://twitter.com/gruenehannover
+  - type: INSTAGRAM
+    url: https://www.instagram.com/gruenehannover/
 ---
 type: REGIONAL_CHAPTER
 level: DE:ORTSVERBAND
