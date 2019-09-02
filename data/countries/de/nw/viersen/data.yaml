@@ -11,6 +11,10 @@ urls:
     url: http://www.gruene-kreis-viersen.de/
   - type: FACEBOOK
     url: https://www.facebook.com/DieGruenenKreisViersen
+  - type: INSTAGRAM
+    url: https://www.instagram.com/gruenekreisviersen/
+  - type: TWITTER
+    url: https://twitter.com/GrueneKVviersen
 ---
 city: Brüggen
 country: DE

@@ -10,7 +10,7 @@ urls:
   - type: WEBSITE
     url: http://www.gruene-waf.de/
   - type: FACEBOOK
-    url: https://de-de.facebook.com/gruenewaf
+    url: https://www.facebook.com/gruenewaf
   - type: TWITTER
     url: https://twitter.com/gruene_waf
 ---

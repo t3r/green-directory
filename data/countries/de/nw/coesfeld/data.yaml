@@ -21,6 +21,8 @@ type: REGIONAL_CHAPTER
 urls:
   - type: WEBSITE
     url: http://www.gruene-coesfeld.de
+  - type: INSTAGRAM
+    url: https://www.instagram.com/gruene_coesfeld/
 ---
 city: Havixbeck
 country: DE
