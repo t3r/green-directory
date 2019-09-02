@@ -113,6 +113,8 @@ urls:
     url: https://www.facebook.com/gruene.bielefeld
   - type: TWITTER
     url: https://twitter.com/bielefeldgruen
+  - type: INSTAGRAM
+    url: https://www.instagram.com/gruenebielefeld/
 ---
 country: DE
 district: Bottrop
@@ -125,7 +127,9 @@ urls:
   - type: WEBSITE
     url: http://www.gruene-bottrop.de/
   - type: FACEBOOK
-    url: https://www.facebook.com/B%C3%BCndnis-90-Die-Gr%C3%BCnen-Bottrop-184280891618557/
+    url: https://www.facebook.com/GR%C3%9CNE-Bottrop-184280891618557/
+  - type: INSTAGRAM
+    url: https://www.instagram.com/gruene_bottrop/
 ---
 country: DE
 district: Dortmund
@@ -137,6 +141,12 @@ type: REGIONAL_CHAPTER
 urls:
   - type: WEBSITE
     url: http://www.gruene-dortmund.de/
+  - type: TWITTER
+    url: https://twitter.com/DortmundGrune
+  - type: FACEBOOK
+    url: https://www.facebook.com/gruenedortmund/
+  - type: INSTAGRAM
+    url: https://www.instagram.com/gruene_dortmund/
 ---
 country: DE
 district: Düsseldorf
@@ -152,6 +162,8 @@ urls:
     url: https://www.facebook.com/gruene.duesseldorf/
   - type: TWITTER
     url: https://twitter.com/grueneddorf
+  - type: INSTAGRAM
+    url: https://www.instagram.com/gruene_duesseldorf/
 ---
 country: DE
 district: Essen
@@ -195,6 +207,8 @@ urls:
     url: https://gruene-hagen.org/
   - type: FACEBOOK
     url: https://www.facebook.com/DieGruenenHagen
+  - type: TWITTER
+    url: https://twitter.com/GrueneHagen
 ---
 country: DE
 district: Hamm
@@ -223,6 +237,8 @@ urls:
     url: https://www.facebook.com/GrueneHerne
   - type: TWITTER
     url: https://twitter.com/GrueneHerne
+  - type: INSTAGRAM
+    url: https://www.instagram.com/grueneherne/
 ---
 country: DE
 district: Krefeld
@@ -251,6 +267,8 @@ urls:
     url: https://www.facebook.com/gruenelev
   - type: TWITTER
     url: https://twitter.com/gruenelev
+  - type: INSTAGRAM
+    url: https://www.instagram.com/gruene_lev/
 ---
 country: DE
 district: Mönchengladbach
@@ -263,7 +281,7 @@ urls:
   - type: WEBSITE
     url: http://www.gruene-mg.de/
   - type: FACEBOOK
-    url: https://www.facebook.com/B%C3%BCndnis-90-Die-Gr%C3%BCnen-Kreisverband-M%C3%B6nchengladbach-440294219388547/
+    url: https://www.facebook.com/GrueneMG/
   - type: TWITTER
     url: https://twitter.com/GrueneMG
 ---
@@ -324,6 +342,8 @@ urls:
     url: https://www.facebook.com/Gruene.Paderborn
   - type: TWITTER
     url: https://twitter.com/GruenePb
+  - type: INSTAGRAM
+    url: https://www.instagram.com/gruenepaderborn/
 ---
 country: DE
 district: Remscheid
@@ -354,6 +374,8 @@ urls:
     url: http://www.gruene-solingen.de/
   - type: FACEBOOK
     url: https://www.facebook.com/SolingerGRUENE/
+  - type: INSTAGRAM
+    url: https://www.instagram.com/solinger_gruene/
 ---
 country: DE
 district: Wuppertal
@@ -367,6 +389,10 @@ urls:
     url: https://www.gruene-kvwuppertal.de/
   - type: FACEBOOK
     url: https://www.facebook.com/Bundnis90DieGrunenWuppertal
+  - type: INSTAGRAM
+    url: https://www.instagram.com/gruene_wuppertal/
+  - type: TWITTER
+    url: https://twitter.com/Gruene_Wupper
 ---
 type: PERSON
 name: Mona Neubaur
