@@ -975,3 +975,26 @@ urls:
     url: https://www.wikidata.org/wiki/Q565303
 emails:
   - address: anne.franke@gruene-fraktion-bayern.de
+---
+type: PERSON
+name: Martin Stümpfig
+family_name: Martin
+given_name: Stümpfig
+level: DE:LANDESVERBAND
+country: DE
+state: Bayern
+urls:
+  - type: WEBSITE
+    url: https://www.martin-stuempfig.de/
+  - type: TWITTER
+    url: https://twitter.com/mstuempfig
+  - type: FACEBOOK
+    url: https://www.facebook.com/MartinStuempfigLandtag
+  - type: INSTAGRAM
+    url: https://www.instagram.com/martinstuempfig/
+  - type: YOUTUBE
+    url: https://www.youtube.com/channel/UCHzvKQIwjdhKs9uuYzOODYA
+  - type: WIKIDATA
+    url: https://www.wikidata.org/wiki/Q15434940
+emails:
+  - address: kontakt@martin-stuempfig.de
