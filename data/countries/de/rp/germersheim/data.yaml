@@ -7,6 +7,10 @@ district: Germersheim
 urls:
   - type: WEBSITE
     url: https://gruene-ger.de/
+  - type: FACEBOOK
+    url: https://www.facebook.com/GrueneKVGermersheim/
+  - type: TWITTER
+    url: https://twitter.com/gruene_kvger
 emails:
   - address: kv-germersheim@gruene-rlp.de
 ---

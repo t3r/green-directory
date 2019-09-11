@@ -11,6 +11,8 @@ urls:
     url: https://twitter.com/GrueneAW/
   - type: FACEBOOK
     url: https://www.facebook.com/GrueneAW/
+  - type: INSTAGRAM
+    url: https://www.instagram.com/gruene_ahrweiler/
 emails:
   - address: kv-ahrweiler@gruene-rlp.de
 ---
