@@ -9,6 +9,8 @@ urls:
     url: https://gruenekreisploen.de/
   - type: FACEBOOK
     url: https://www.facebook.com/gruenekreisploen
+  - type: TWITTER
+    url: https://twitter.com/grueneploen
 emails:
   - address: sabine.duwe@gruene-kreis-ploen.de
 ---

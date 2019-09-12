@@ -9,6 +9,8 @@ urls:
     url: http://gruene-se-kv.de/
   - type: FACEBOOK
     url: https://www.facebook.com/grn.kv.segeberg
+  - type: INSTAGRAM
+    url: https://www.instagram.com/b90.gruene.segeberg/
 emails:
   - address: segeberger-gruene@gmx.de
 ---
