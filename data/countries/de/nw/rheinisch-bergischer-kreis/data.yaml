@@ -9,6 +9,8 @@ urls:
     url: http://www.gruene-kreisrheinberg.de/
   - type: FACEBOOK
     url: https://www.facebook.com/gruene.kreisrheinberg/
+  - type: INSTAGRAM
+    url: https://www.instagram.com/gruene_rbk/
 emails:
   - address: info@gruene-rbk.de
 ---

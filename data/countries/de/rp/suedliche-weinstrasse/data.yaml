@@ -7,6 +7,10 @@ district: Südliche Weinstraße
 urls:
   - type: WEBSITE
     url: https://gruene-suew.de/
+  - type: FACEBOOK
+    url: https://www.facebook.com/gruenesuew/
+  - type: INSTAGRAM
+    url: https://www.instagram.com/gruene.suew/
 emails:
   - address: kv-suedliche-weinstrasse@gruene-rlp.de
 ---

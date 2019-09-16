@@ -54,6 +54,8 @@ type: REGIONAL_CHAPTER
 urls:
   - type: WEBSITE
     url: https://gruene-sls.de/
+  - type: FACEBOOK
+    url: https://www.facebook.com/GrueneSaarlouis/
 ---
 country: DE
 district: Saar-Pfalz
@@ -72,6 +74,8 @@ type: REGIONAL_CHAPTER
 urls:
   - type: WEBSITE
     url: https://kreis.gruene-merzig.de/
+  - type: FACEBOOK
+    url: https://www.facebook.com/gruenemerzigwadern/
 ---
 country: DE
 district: Neunkirchen
@@ -81,6 +85,12 @@ type: REGIONAL_CHAPTER
 urls:
   - type: WEBSITE
     url: https://gruene-neunkirchen.de/
+  - type: FACEBOOK
+    url: https://www.facebook.com/gruenekvnk/
+  - type: INSTAGRAM
+    url: https://www.instagram.com/gruene_neunkirchen/
+  - type: TWITTER
+    url: https://twitter.com/gruenenk
 ---
 country: DE
 district: St. Wendel

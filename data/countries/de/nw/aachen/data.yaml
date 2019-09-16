@@ -23,6 +23,8 @@ urls:
     url: https://www.gruene-aachen.de/
   - type: FACEBOOK
     url: https://www.facebook.com/gruene.aachen
+  - type: INSTAGRAM
+    url: https://www.instagram.com/grueneaachen/
 ---
 city: Alsdorf
 country: DE

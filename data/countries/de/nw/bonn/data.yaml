@@ -10,7 +10,11 @@ urls:
   - type: WEBSITE
     url: https://gruene-bonn.de/
   - type: FACEBOOK
-    url: https://de-de.facebook.com/gruenebonn
+    url: https://www.facebook.com/gruenebonn
+  - type: INSTAGRAM
+    url: https://www.instagram.com/gruene_bonn/
+  - type: TWITTER
+    url: https://twitter.com/gruene_bonn
 ---
 city: Bonn-Bad Godesberg
 country: DE

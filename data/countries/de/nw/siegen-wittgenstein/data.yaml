@@ -11,6 +11,8 @@ urls:
     url: http://www.gruene-siegen-wittgenstein.de/
   - type: FACEBOOK
     url: https://www.facebook.com/gruenesiwi/
+  - type: INSTAGRAM
+    url: https://www.instagram.com/gruene_si_wi/
 ---
 city: Bad Berleburg
 country: DE

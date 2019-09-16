@@ -49,6 +49,8 @@ district: Altenkirchen
 urls:
   - type: WEBSITE
     url: https://gruene-ak.de/
+  - type: FACEBOOK
+    url: https://www.facebook.com/GR%C3%9CNE-Altenkirchen-265142994208077/
 emails:
   - address: kv-altenkirchen@gruene-rlp.de
 ---
@@ -88,6 +90,12 @@ district: Cochem-Zell
 urls:
   - type: WEBSITE
     url: http://www.gruene-cochemzell.de/
+  - type: FACEBOOK
+    url: https://www.facebook.com/GrueneCochemZell/
+  - type: TWITTER
+    url: https://twitter.com/GrueneCochemZ
+  - type: INSTAGRAM
+    url: https://www.instagram.com/gruene_cochemzell/
 emails:
   - address: kv-cochem-zell@gruene-rlp.de
 ---
@@ -99,6 +107,8 @@ district: Donnersbergkreis
 urls:
   - type: WEBSITE
     url: https://gruene-donnersberg.de/
+  - type: FACEBOOK
+    url: https://www.facebook.com/Gr%C3%BCne-Donnersberg-473610109430963/
 emails:
   - address: kv-donnersbergkreis@gruene-rlp.de
 ---
@@ -114,6 +124,8 @@ urls:
     url: https://www.facebook.com/GrueneFT/
   - type: TWITTER
     url: https://twitter.com/GrueneFT/
+  - type: INSTAGRAM
+    url: https://www.instagram.com/grueneft/
 emails:
   - address: kv-frankenthal@gruene-rlp.de
 ---
@@ -125,6 +137,12 @@ district: Kaiserslautern
 urls:
   - type: WEBSITE
     url: https://gruene-kl.de/
+  - type: FACEBOOK
+    url: https://www.facebook.com/gruene.kl/
+  - type: TWITTER
+    url: https://twitter.com/gruene_kl
+  - type: INSTAGRAM
+    url: https://www.instagram.com/gruene_kaiserslautern/
 emails:
   - address: kv-kaiserslautern@gruene-rlp.de
 ---
@@ -153,6 +171,12 @@ district: Kusel
 urls:
   - type: WEBSITE
     url: http://gruene-kusel.de/
+  - type: FACEBOOK
+    url: https://www.facebook.com/Gr%C3%BCne-Kusel-407630392667824/
+  - type: TWITTER
+    url: https://twitter.com/Gruene_Kusel
+  - type: INSTAGRAM
+    url: https://www.instagram.com/die_gruenen_kusel/
 emails:
   - address: kv-kusel@gruene-rlp.de
 ---
@@ -168,6 +192,8 @@ urls:
     url: https://www.facebook.com/GrueneLandau/
   - type: TWITTER
     url: https://www.twitter.com/GrueneLandau
+  - type: INSTAGRAM
+    url: https://www.instagram.com/gruenelandau/
 emails:
   - address: kv-landau@gruene-rlp.de
 ---
@@ -181,6 +207,8 @@ urls:
     url: https://www.gruene-lu.de/
   - type: FACEBOOK
     url: https://www.facebook.com/grueneludwigshafen/
+  - type: TWITTER
+    url: https://twitter.com/gruenelu
 emails:
   - address: kv-ludwigshafen@gruene-rlp.de
 ---
@@ -198,6 +226,8 @@ urls:
     url: https://twitter.com/gruene_mainz/
   - type: YOUTUBE
     url: https://www.youtube.com/channel/UCzKHniJxYiWASDumPVZhbCw/
+  - type: INSTAGRAM
+    url: https://www.instagram.com/gruene_mainz/
 emails:
   - address: kv-mainz@gruene-rlp.de
 ---
@@ -211,6 +241,8 @@ urls:
     url: https://gruene-nw.de/
   - type: FACEBOOK
     url: https://www.facebook.com/GrueneNW/
+  - type: TWITTER
+    url: https://twitter.com/GrueneNw
 emails:
   - address: kv-neustadt@gruene-rlp.de
 ---
@@ -263,6 +295,8 @@ urls:
     url: https://www.facebook.com/GrueneKVTrier/
   - type: TWITTER
     url: https://twitter.com/GrueneKVTrier/
+  - type: INSTAGRAM
+    url: https://www.instagram.com/gruenetrier/
 emails:
   - address: kv-trier@gruene-rlp.de
 ---
@@ -274,6 +308,8 @@ district: Trier-Saarburg
 urls:
   - type: WEBSITE
     url: https://gruene-trier-saarburg.de/
+  - type: FACEBOOK
+    url: https://www.facebook.com/GRUENE.TRIER.SAARBURG/
 emails:
   - address: kv-trier-saarburg@gruene-rlp.de
 ---
@@ -300,6 +336,10 @@ urls:
     url: http://www.gruene-ww.de/
   - type: FACEBOOK
     url: https://www.facebook.com/gruenewesterwald/
+  - type: TWITTER
+    url: https://twitter.com/GrueneWw
+  - type: INSTAGRAM
+    url: https://www.instagram.com/gruene_westerwald/
 emails:
   - address: kv-westerwald@gruene-rlp.de
 ---
@@ -315,6 +355,8 @@ urls:
     url: https://www.facebook.com/B%C3%BCndnis-90Die-Gr%C3%BCnen-Worms-881940381832585/
   - type: TWITTER
     url: https://twitter.com/gruene_worms/
+  - type: INSTAGRAM
+    url: https://www.instagram.com/grueneworms/
 emails:
   - address: kv-worms@gruene-rlp.de
 ---
@@ -326,6 +368,8 @@ district: Zweibrücken
 urls:
   - type: WEBSITE
     url: https://gruene-zweibruecken.de/
+  - type: FACEBOOK
+    url: https://www.facebook.com/gruenezw/
 emails:
   - address: kv-zweibruecken@gruene-rlp.de
 ---

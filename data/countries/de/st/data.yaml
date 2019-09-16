@@ -88,6 +88,8 @@ emails:
 urls:
   - type: WEBSITE
     url: http://gruene-blk.de/startseite/
+  - type: FACEBOOK
+    url: https://www.facebook.com/B%C3%BCndnis-90-Die-Gr%C3%BCnen-Burgenlandkreis-625775127898248/
 ---
 type: REGIONAL_CHAPTER
 level: DE:KREISVERBAND
@@ -99,6 +101,8 @@ urls:
     url: http://www.gruene-dessau.de/
   - type: FACEBOOK
     url: https://www.facebook.com/Gr%C3%BCne-Dessau-Ro%C3%9Flau-868426873174817/
+  - type: INSTAGRAM
+    url: https://www.instagram.com/gruene_dessau_rosslau/
 emails:
   - address: kv.dessau@gruene.de
 ---
@@ -114,6 +118,8 @@ urls:
     url: https://www.facebook.com/gruene.halle/
   - type: TWITTER
     url: https://twitter.com/GrueneHAL
+  - type: INSTAGRAM
+    url: https://www.instagram.com/gruene_halle/
 emails:
   - address: kontakt@gruene-in-halle.de
 ---
@@ -127,6 +133,8 @@ urls:
     url: http://www.gruene-harz.de/
   - type: FACEBOOK
     url: https://www.facebook.com/GR%C3%9CNE-im-Harz-192125564141111/
+  - type: INSTAGRAM
+    url: https://www.instagram.com/grueneharz/
 emails:
   - address: info@gruene-harz.de
 ---
@@ -138,6 +146,8 @@ district: Jerichower Land
 urls:
   - type: WEBSITE
     url: http://gruene-jerichower-land.de/
+  - type: FACEBOOK
+    url: https://www.facebook.com/gruene.jerichower.land/
 ---
 type: REGIONAL_CHAPTER
 level: DE:KREISVERBAND
@@ -155,6 +165,8 @@ urls:
     url: https://www.flickr.com/photos/59592941@N07/
   - type: YOUTUBE
     url: https://www.youtube.com/user/GRUENEMD
+  - type: INSTAGRAM
+    url: https://www.instagram.com/gruene_md/
 emails:
   - address: info@gruene-magdeburg.de
 ---
@@ -209,3 +221,5 @@ emails:
 urls:
   - type: WEBSITE
     url: http://www.gruene-wittenberg.de/
+  - type: FACEBOOK
+    url: https://www.facebook.com/B%C3%9CNDNIS-90-DIE-GR%C3%9CNEN-KV-Wittenberg-364740310775403/

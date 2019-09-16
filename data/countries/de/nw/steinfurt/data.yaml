@@ -11,6 +11,8 @@ urls:
     url: http://www.gruene-kreis-steinfurt.de/
   - type: FACEBOOK
     url: https://www.facebook.com/GrueneKST
+  - type: TWITTER
+    url: https://twitter.com/GSteinfurt
 ---
 city: Altenberge
 country: DE
@@ -181,6 +183,8 @@ type: REGIONAL_CHAPTER
 urls:
   - type: WEBSITE
     url: http://www.gruene-steinfurt.de/
+  - type: INSTAGRAM
+    url: https://www.instagram.com/gruenesteinfurt/
 ---
 city: Tecklenburg
 country: DE

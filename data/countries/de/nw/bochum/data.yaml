@@ -10,7 +10,7 @@ urls:
   - type: WEBSITE
     url: http://www.gruene-bochum.de/
   - type: FACEBOOK
-    url: https://de-de.facebook.com/gruene.bochum
+    url: https://www.facebook.com/gruene.bochum
   - type: TWITTER
     url: https://twitter.com/gruenebochum
 ---
