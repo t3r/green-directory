@@ -45,6 +45,10 @@ district: Altenburg
 urls:
   - type: WEBSITE
     url: https://gruene-abgland.de/
+  - type: FACEBOOK
+    url: https://www.facebook.com/GrueneAltenburg/
+  - type: INSTAGRAM
+    url: https://www.instagram.com/gruene_abg_land/
 ---
 country: DE
 state: Thüringen
@@ -56,6 +60,8 @@ urls:
     url: http://www.eichsfeldgruene.de/
   - type: FACEBOOK
     url: https://www.facebook.com/Eichsfeldgruene/
+  - type: INSTAGRAM
+    url: https://www.instagram.com/gruene_eichsfeld/
 ---
 country: DE
 state: Thüringen
@@ -67,6 +73,10 @@ urls:
     url: http://www.gruenestadterfurt.de/
   - type: FACEBOOK
     url: https://www.facebook.com/GrueneStadtErfurt/
+  - type: INSTAGRAM
+    url: https://www.instagram.com/gruene.stadt.erfurt/
+  - type: TWITTER
+    url: https://twitter.com/gruene_erfurt
 ---
 type: YOUTH_ORGANIZATION
 level: DE:KREISVERBAND
@@ -93,6 +103,8 @@ urls:
     url: https://gruene-gera.de/
   - type: FACEBOOK
     url: https://www.facebook.com/GrueneGera/
+  - type: INSTAGRAM
+    url: https://www.instagram.com/gruenegera/
 ---
 country: DE
 state: Thüringen
@@ -115,6 +127,8 @@ urls:
     url: https://gruene-greiz.de/
   - type: FACEBOOK
     url: https://www.facebook.com/Gr%C3%BCne-Kreisverband-Greiz-892417057456102/
+  - type: TWITTER
+    url: https://twitter.com/GreizGrune
 ---
 country: DE
 state: Thüringen
@@ -135,6 +149,8 @@ urls:
     url: https://gruene-jena.de/
   - type: FACEBOOK
     url: https://www.facebook.com/Buendnis90.DieGruenen.Jena
+  - type: INSTAGRAM
+    url: https://www.instagram.com/gruene_jena/
 ---
 type: YOUTH_ORGANIZATION
 level: DE:KREISVERBAND
@@ -163,6 +179,8 @@ urls:
     url: https://www.gruene-kyffhaeuserkreis.de/
   - type: FACEBOOK
     url: https://www.facebook.com/grune.kreisverbandkyffhauserkreis/
+  - type: INSTAGRAM
+    url: https://www.instagram.com/gruenekyf/
 ---
 country: DE
 state: Thüringen
@@ -191,6 +209,9 @@ state: Thüringen
 type: REGIONAL_CHAPTER
 level: DE:KREISVERBAND
 district: Saale-Holzland
+urls:
+  - type: FACEBOOK
+    url: https://www.facebook.com/GrueneSHK/
 ---
 country: DE
 state: Thüringen
@@ -241,6 +262,8 @@ urls:
     url: https://www.facebook.com/GrueneWeimar/
   - type: TWITTER
     url: https://twitter.com/Gruene_WE
+  - type: INSTAGRAM
+    url: https://www.instagram.com/grueneweimar/
 ---
 country: DE
 state: Thüringen

@@ -13,6 +13,8 @@ urls:
     url: https://twitter.com/gruenerheinsieg
   - type: FACEBOOK
     url: https://www.facebook.com/gruenerheinsieg/
+  - type: INSTAGRAM
+    url: https://www.instagram.com/gruene_rheinsieg/
 ---
 type: REGIONAL_CHAPTER
 level: DE:ORTSVERBAND

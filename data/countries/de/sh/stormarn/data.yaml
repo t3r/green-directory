@@ -9,6 +9,8 @@ urls:
     url: https://gruene-stormarn.de/
   - type: FACEBOOK
     url: https://www.facebook.com/Gruene.Stormarn/
+  - type: INSTAGRAM
+    url: https://www.instagram.com/b90.gruene.stormarn/
 emails:
   - address: kv.stormarn@gruene.de
 ---

@@ -11,6 +11,8 @@ urls:
     url: https://gruene-dueren.de/
   - type: FACEBOOK
     url: https://www.facebook.com/GrueneDueren
+  - type: TWITTER
+    url: https://twitter.com/GrueneDueren
 ---
 city: Düren
 country: DE

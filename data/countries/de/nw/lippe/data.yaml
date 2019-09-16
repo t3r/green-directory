@@ -9,6 +9,10 @@ type: REGIONAL_CHAPTER
 urls:
   - type: WEBSITE
     url: https://xn--grne-lippe-beb.de/
+  - type: FACEBOOK
+    url: https://www.facebook.com/gruenelippe/
+  - type: INSTAGRAM
+    url: https://www.instagram.com/gruenelippe/
 ---
 city: Bad Salzuflen
 country: DE

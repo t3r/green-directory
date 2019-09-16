@@ -51,6 +51,10 @@ type: REGIONAL_CHAPTER
 urls:
   - type: WEBSITE
     url: http://www.gruene-bautzen.de
+  - type: FACEBOOK
+    url: https://www.facebook.com/grueneKVBZ/
+  - type: INSTAGRAM
+    url: https://www.instagram.com/gruenebautzen/
 emails:
   - address: info@gruene-bautzen.de
 ---
@@ -62,6 +66,10 @@ type: REGIONAL_CHAPTER
 urls:
   - type: WEBSITE
     url: https://gruene-chemnitz.de/
+  - type: FACEBOOK
+    url: https://www.facebook.com/GrueneChemnitz/
+  - type: INSTAGRAM
+    url: https://www.instagram.com/gruenechemnitz/
 emails:
   - address: info@gruene-chemnitz.de
 ---
@@ -100,6 +108,8 @@ urls:
     url: http://www.twitter.com/erzgruen
   - type: YOUTUBE
     url: http://www.youtube.com/erzgruentv
+  - type: INSTAGRAM
+    url: https://www.instagram.com/erzgruen/
 emails:
   - address: info@gruene-erzgebirge.de
 ---
@@ -111,6 +121,8 @@ type: REGIONAL_CHAPTER
 urls:
   - type: WEBSITE
     url: http://www.gruene-goerlitz.de
+  - type: FACEBOOK
+    url: https://www.facebook.com/GrueneOstsachsen/
 emails:
   - address: info@gruene-goerlitz.de
 ---
@@ -139,6 +151,8 @@ type: REGIONAL_CHAPTER
 urls:
   - type: WEBSITE
     url: http://www.gruene-landkreis-leipzig.de
+  - type: FACEBOOK
+    url: https://www.facebook.com/grueneLandkreisLeipzig/
 emails:
   - address: info@gruene-landkreis-leipzig.de
 ---
@@ -150,6 +164,10 @@ type: REGIONAL_CHAPTER
 urls:
   - type: WEBSITE
     url: http://www.gruene-meissen.de
+  - type: FACEBOOK
+    url: https://www.facebook.com/GrueneMeissen/
+  - type: INSTAGRAM
+    url: https://twitter.com/GRUENEMeissen
 emails:
   - address: info@gruene-meissen.de
 ---
@@ -161,6 +179,12 @@ type: REGIONAL_CHAPTER
 urls:
   - type: WEBSITE
     url: http://www.gruene-mittelsachsen.de
+  - type: FACEBOOK
+    url: https://www.facebook.com/B%C3%BCndnis-90Die-Gr%C3%BCnen-Mittelsachsen-156839244392425/
+  - type: INSTAGRAM
+    url: https://www.instagram.com/gruene_mittelsachsen/
+  - type: TWITTER
+    url: https://twitter.com/gruene_freiberg
 emails:
   - address: info@gruene-mittelsachsen.de
 ---
@@ -172,6 +196,12 @@ type: REGIONAL_CHAPTER
 urls:
   - type: WEBSITE
     url: http://www.gruene-dto.de/
+  - type: FACEBOOK
+    url: https://www.facebook.com/grune.nordsachsen/
+  - type: INSTAGRAM
+    url: https://www.instagram.com/gruene_nordsachsen/
+  - type: TWITTER
+    url: https://twitter.com/GNordsachsen
 emails:
   - address: info@gruene-tdo.info
 ---
@@ -213,5 +243,7 @@ urls:
     url: https://www.facebook.com/pages/B%C3%BCndnis90Die-Gr%C3%BCnen-Kreis-Zwickau/220708441342885
   - type: TWITTER
     url: https://twitter.com/GrueneZwickau
+  - type: INSTAGRAM
+    url: https://www.instagram.com/gruenezwickau/
 emails:
   - address: vorstand@gruene-zwickau.de

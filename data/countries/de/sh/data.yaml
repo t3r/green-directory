@@ -83,6 +83,8 @@ urls:
     url: https://www.facebook.com/grune.herzogtumlauenburg
   - type: TWITTER
     url: https://twitter.com/gruenelauenburg
+  - type: INSTAGRAM
+    url: https://www.instagram.com/gruene_kv_lbg/
 emails:
   - address: kv.lauenburg@gruene.de
 ---

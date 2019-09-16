@@ -9,6 +9,8 @@ urls:
     url: https://gruene-rh.de/
   - type: FACEBOOK
     url: https://www.facebook.com/B%C3%BCndnis-90Die-Gr%C3%BCnen-KV-Rhein-Hunsr%C3%BCck-180599695477992/
+  - type: INSTAGRAM
+    url: https://www.instagram.com/gruene_rhein_hunsrueck/
 emails:
   - address: kv-rhein-hunsrueck@gruene-rlp.de
 ---

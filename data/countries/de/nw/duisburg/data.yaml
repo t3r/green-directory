@@ -11,6 +11,10 @@ urls:
     url: https://gruene-duisburg.de/
   - type: FACEBOOK
     url: https://www.facebook.com/grueneduisburg/
+  - type: INSTAGRAM
+    url: https://www.instagram.com/grueneduisburg/
+  - type: TWITTER
+    url: https://twitter.com/gruene_duisburg
 ---
 city: Duisburg-Mitte
 country: DE

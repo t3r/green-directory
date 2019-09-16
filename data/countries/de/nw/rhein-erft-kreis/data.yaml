@@ -11,6 +11,8 @@ urls:
     url: http://www.gruene-rek.de/
   - type: TWITTER
     url: https://twitter.com/Gruene_REK
+  - type: FACEBOOK
+    url: https://www.facebook.com/GRUENERheinErft/
 ---
 city: Bedburg
 country: DE

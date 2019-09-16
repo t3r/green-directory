@@ -8,7 +8,9 @@ urls:
   - type: WEBSITE
     url: https://www.gruene-myk.de/
   - type: FACEBOOK
-    url: https://de-de.facebook.com/GrueneKVMYK/
+    url: https://www.facebook.com/GrueneKVMYK/
+  - type: INSTAGRAM
+    url: https://www.instagram.com/gruene_myk/
 emails:
   - address: kv-mayen-koblenz@gruene-rlp.de
 ---
