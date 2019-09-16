@@ -1,0 +1,21 @@
+---
+type: REGIONAL_CHAPTER
+level: DE:KREISVERBAND
+country: DE
+state: Bayern
+district: Regensburg-Land
+urls:
+  - type: WEBSITE
+    url: https://gruene-regensburg-land.de/
+  - type: FACEBOOK
+    url: https://www.facebook.com/grueneregensburgland/
+---
+type: REGIONAL_CHAPTER
+level: DE:ORTSVERBAND
+country: DE
+state: Bayern
+district: Regensburg-Land
+city: Obertraubling
+urls:
+  - type: WEBSITE
+    url: https://gruene-obertraubling.eu/
