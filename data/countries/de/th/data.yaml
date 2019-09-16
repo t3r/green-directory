@@ -47,6 +47,8 @@ urls:
     url: https://gruene-abgland.de/
   - type: FACEBOOK
     url: https://www.facebook.com/GrueneAltenburg/
+  - type: INSTAGRAM
+    url: https://www.instagram.com/gruene_abg_land/
 ---
 country: DE
 state: Thüringen
