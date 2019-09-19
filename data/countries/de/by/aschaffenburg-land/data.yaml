@@ -104,3 +104,27 @@ family_name: Meidhof
 urls:
   - type: WEBSITE
     url: https://frank-meidhof.de/
+---
+city: Johannesberg
+country: DE
+district: Aschaffenburg-Land
+level: DE:ORTSVERBAND
+state: Bayern
+type: REGIONAL_CHAPTER
+urls:
+  - type: WEBSITE
+    url: https://gruene-johannesberg.de/
+  - type: FACEBOOK
+    url: https://www.facebook.com/gruene.johannesberg
+---
+city: Großostheim
+country: DE
+district: Aschaffenburg-Land
+level: DE:ORTSVERBAND
+state: Bayern
+type: REGIONAL_CHAPTER
+urls:
+  - type: WEBSITE
+    url: https://gruene-grossostheim.de/
+  - type: FACEBOOK
+    url: https://www.facebook.com/Die-Gr%C3%BCnen-Gro%C3%9Fostheim-2375313466078559/
