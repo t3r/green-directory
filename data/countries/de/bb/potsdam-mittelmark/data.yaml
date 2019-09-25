@@ -89,3 +89,15 @@ type: REGIONAL_CHAPTER
 urls:
   - type: WEBSITE
     url: https://www.gruene-werder.de/
+---
+city: Treuenbrietzen
+country: DE
+district: Potsdam-Mittelmark
+level: DE:ORTSVERBAND
+state: Brandenburg
+type: REGIONAL_CHAPTER
+urls:
+  - type: WEBSITE
+    url: https://xn--grne-treuenbrietzen-69b.de/
+  - type: FACEBOOK
+    url: https://www.facebook.com/GrueneTreuenbrietzen/
