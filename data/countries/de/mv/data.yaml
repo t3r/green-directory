@@ -41,19 +41,6 @@ type: REGIONAL_CHAPTER
 level: DE:KREISVERBAND
 country: DE
 state: Mecklenburg-Vorpommern
-district: Landkreis Rostock
-urls:
-  - type: WEBSITE
-    url: http://www.gruene-landkreis-rostock.de
-  - type: FACEBOOK
-    url: https://www.facebook.com/GrueneLRO/
-emails:
-  - address: kv@gruene-landkreis-rostock.de
----
-type: REGIONAL_CHAPTER
-level: DE:KREISVERBAND
-country: DE
-state: Mecklenburg-Vorpommern
 district: Ludwigslust-Parchim
 urls:
   - type: WEBSITE

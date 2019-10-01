@@ -1,0 +1,23 @@
+---
+type: REGIONAL_CHAPTER
+level: DE:KREISVERBAND
+country: DE
+state: Mecklenburg-Vorpommern
+district: Landkreis Rostock
+urls:
+  - type: WEBSITE
+    url: http://www.gruene-landkreis-rostock.de
+  - type: FACEBOOK
+    url: https://www.facebook.com/GrueneLRO/
+emails:
+  - address: kv@gruene-landkreis-rostock.de
+---
+city: Güstrow
+country: DE
+district: Landkreis Rostock
+level: DE:ORTSVERBAND
+state: Mecklenburg-Vorpommern
+type: REGIONAL_CHAPTER
+urls:
+  - type: WEBSITE
+    url: https://gruene-guestrow.de/
