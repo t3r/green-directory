@@ -127,3 +127,15 @@ urls:
     url: https://gruene-gelnhausen.de/
   - type: FACEBOOK
     url: https://www.facebook.com/GrueneGelnhausen/
+---
+city: Hammersbach
+country: DE
+district: Main-Kinzig
+level: DE:ORTSVERBAND
+state: Hessen
+type: REGIONAL_CHAPTER
+urls:
+  - type: WEBSITE
+    url: https://www.gruene-hammersbach.de/
+  - type: FACEBOOK
+    url: https://www.facebook.com/GrueneHammersbach
