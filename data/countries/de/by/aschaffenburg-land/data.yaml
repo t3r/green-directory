@@ -128,3 +128,16 @@ urls:
     url: https://gruene-grossostheim.de/
   - type: FACEBOOK
     url: https://www.facebook.com/Die-Gr%C3%BCnen-Gro%C3%9Fostheim-2375313466078559/
+---
+city: Schöllkrippen
+country: DE
+district: Aschaffenburg-Land
+level: DE:ORTSVERBAND
+state: Bayern
+type: PERSON
+name: Marco Melges
+given_name: Marco
+family_name: Melges
+urls:
+  - type: WEBSITE
+    url: https://marco-melges.de/
