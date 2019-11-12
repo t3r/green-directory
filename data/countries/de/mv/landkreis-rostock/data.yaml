@@ -21,3 +21,47 @@ type: REGIONAL_CHAPTER
 urls:
   - type: WEBSITE
     url: https://gruene-guestrow.de/
+---
+city: Schwaan
+country: DE
+district: Landkreis Rostock
+level: DE:ORTSVERBAND
+state: Mecklenburg-Vorpommern
+type: REGIONAL_CHAPTER
+urls:
+  - type: WEBSITE
+    url: https://gruene-schwaan.de/
+---
+city: Amt Warnow West
+country: DE
+district: Landkreis Rostock
+level: DE:ORTSVERBAND
+state: Mecklenburg-Vorpommern
+type: REGIONAL_CHAPTER
+urls:
+  - type: WEBSITE
+    url: http://gruene-warnowwest.de/
+---
+city: Ostseebad Nienhagen
+country: DE
+district: Landkreis Rostock
+level: DE:ORTSVERBAND
+state: Mecklenburg-Vorpommern
+type: REGIONAL_CHAPTER
+urls:
+  - type: WEBSITE
+    url: https://gruene-ostseebad-nienhagen.de/
+  - type: TWITTER
+    url: https://twitter.com/@GrueneNienhagen
+  - type: FACEBOOK
+    url: https://www.facebook.com/gruene.nienhagen/
+---
+city: Kühlungsborn
+country: DE
+district: Landkreis Rostock
+level: DE:ORTSVERBAND
+state: Mecklenburg-Vorpommern
+type: REGIONAL_CHAPTER
+urls:
+  - type: WEBSITE
+    url: https://www.gruene-kuehlungsborn.de/
