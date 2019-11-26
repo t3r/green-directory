@@ -54,7 +54,9 @@ state: Nordrhein-Westfalen
 type: REGIONAL_CHAPTER
 urls:
   - type: WEBSITE
-    url: http://gruene-nettetal.de/
+    url: https://www.gruene-nettetal.de/
+  - type: FACEBOOK
+    url: https://www.facebook.com/GrueneNettetal/
 ---
 city: Schwalmtal
 country: DE

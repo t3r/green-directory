@@ -64,7 +64,7 @@ emails:
   - address: info@gruene-eitorf.de
 urls:
   - type: WEBSITE
-    url: http://www.gruene-eitorf.de/
+    url: https://gruene-eitorf.de/
   - type: FACEBOOK
     url: https://www.facebook.com/Buendnis90DieGruenenEitorf
 ---

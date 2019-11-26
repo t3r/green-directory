@@ -187,7 +187,11 @@ state: Bayern
 type: REGIONAL_CHAPTER
 urls:
   - type: WEBSITE
-    url: http://gruene-ush.de/
+    url: https://gruene-ush.de/
+  - type: FACEBOOK
+    url: https://www.facebook.com/GrueneUsh
+  - type: INSTAGRAM
+    url: https://www.instagram.com/grueneunterschleissheim/
 ---
 city: Haar
 country: DE

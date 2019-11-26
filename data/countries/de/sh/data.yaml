@@ -48,7 +48,7 @@ state: Schleswig-Holstein
 district: Dithmarschen
 urls:
   - type: WEBSITE
-    url: http://www.gruene-dithmarschen.de/
+    url: https://www.gruene-dithmarschen.de/
   - type: FACEBOOK
     url: https://www.facebook.com/Gr%C3%BCne-Dithmarschen-352289358205392
 emails:

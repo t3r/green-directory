@@ -8,7 +8,7 @@ state: Baden-Württemberg
 type: REGIONAL_CHAPTER
 urls:
   - type: WEBSITE
-    url: http://gruene-ortenau.de/
+    url: https://gruene-ortenau.de/
   - type: FACEBOOK
     url: https://www.facebook.com/KreisverbandOrtenau/
   - type: INSTAGRAM

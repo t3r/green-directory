@@ -80,7 +80,7 @@ state: Berlin
 district: Lichtenberg
 urls:
   - type: WEBSITE
-    url: http://gruene-lichtenberg.de/
+    url: https://gruene-lichtenberg.de/
   - type: TWITTER
     url: https://twitter.com/gruene_lbg
   - type: FACEBOOK
@@ -138,7 +138,7 @@ state: Berlin
 district: Pankow
 urls:
   - type: WEBSITE
-    url: http://gruene-pankow.de/home/
+    url: https://gruene-pankow.de/
   - type: INSTAGRAM
     url: https://www.instagram.com/gruenepankow/
   - type: TWITTER
@@ -207,8 +207,10 @@ state: Berlin
 district: Treptow-Köpenick
 urls:
   - type: WEBSITE
-    url: http://www.gruene-treptow-koepenick.de/
+    url: https://gruene-treptow-koepenick.de/
   - type: INSTAGRAM
     url: https://www.instagram.com/gruene_tk/
   - type: FACEBOOK
     url: https://www.facebook.com/GrueneTreptowKoepenick/
+  - type: TWITTER
+    url: https://twitter.com/Gruene_TK

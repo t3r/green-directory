@@ -18,7 +18,9 @@ district: Emsland-Süd
 city: Meppen
 urls:
   - type: WEBSITE
-    url: http://die-gruenen-meppen.de/
+    url: https://die-gruenen-meppen.de/
+  - type: FACEBOOK
+    url: https://www.facebook.com/gruene.el.mitte
 ---
 type: REGIONAL_CHAPTER
 level: DE:ORTSVERBAND

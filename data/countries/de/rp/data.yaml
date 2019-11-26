@@ -264,7 +264,7 @@ state: Rheinland-Pfalz
 district: Südwestpfalz
 urls:
   - type: WEBSITE
-    url: http://gruene-suedwestpfalz.de/
+    url: https://gruene-suedwestpfalz.de/
   - type: FACEBOOK
     url: https://www.facebook.com/grueneswp/
 emails:

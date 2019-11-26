@@ -371,7 +371,7 @@ state: Nordrhein-Westfalen
 type: REGIONAL_CHAPTER
 urls:
   - type: WEBSITE
-    url: http://www.gruene-solingen.de/
+    url: https://gruene-solingen.de/
   - type: FACEBOOK
     url: https://www.facebook.com/SolingerGRUENE/
   - type: INSTAGRAM

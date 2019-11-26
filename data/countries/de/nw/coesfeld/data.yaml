@@ -32,7 +32,7 @@ state: Nordrhein-Westfalen
 type: REGIONAL_CHAPTER
 urls:
   - type: WEBSITE
-    url: http://www.gruene-havixbeck.de
+    url: https://gruene-havixbeck.de/
 ---
 city: "L\xFCdinghausen"
 country: DE

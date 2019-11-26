@@ -8,7 +8,7 @@ state: Nordrhein-Westfalen
 type: REGIONAL_CHAPTER
 urls:
   - type: WEBSITE
-    url: http://www.gruene-en.de/
+    url: https://gruene-en.de/
   - type: FACEBOOK
     url: https://www.facebook.com/grune.enneperuhr
 ---
@@ -20,7 +20,7 @@ state: Nordrhein-Westfalen
 type: REGIONAL_CHAPTER
 urls:
   - type: WEBSITE
-    url: http://gruene-en.de/ortsverbaende/ov-breckerfeld/home/
+    url: https://gruene-en.de/ortsverbaende/ov-breckerfeld/home/
 ---
 city: Ennepetal
 country: DE
@@ -40,7 +40,7 @@ state: Nordrhein-Westfalen
 type: REGIONAL_CHAPTER
 urls:
   - type: WEBSITE
-    url: http://gruene-en.de/ortsverbaende/ov-gevelsberg/startseite/
+    url: https://gruene-en.de/ortsverbaende/ov-gevelsberg/startseite/
 ---
 city: Hattingen
 country: DE
@@ -90,7 +90,7 @@ state: Nordrhein-Westfalen
 type: REGIONAL_CHAPTER
 urls:
   - type: WEBSITE
-    url: http://gruene-en.de/ortsverbaende/ov-wetter/startseite/
+    url: https://gruene-en.de/ortsverbaende/ov-wetter/startseite/
 ---
 city: Witten
 country: DE
@@ -100,4 +100,4 @@ state: Nordrhein-Westfalen
 type: REGIONAL_CHAPTER
 urls:
   - type: WEBSITE
-    url: http://gruene-en.de/ortsverbaende/ortsverband-witten/ortsverband-witten0/
+    url: https://gruene-en.de/ortsverbaende/ortsverband-witten/ortsverband-witten0/

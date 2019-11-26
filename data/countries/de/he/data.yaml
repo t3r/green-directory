@@ -148,7 +148,7 @@ state: Hessen
 district: Werra-Meißner
 urls:
   - type: WEBSITE
-    url: http://www.gruene-werra-meissner.de/
+    url: https://gruene-werra-meissner.de/
   - type: FACEBOOK
     url: https://www.facebook.com/GrueneWMK
 emails:

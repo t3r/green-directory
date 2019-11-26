@@ -62,7 +62,7 @@ state: Nordrhein-Westfalen
 type: REGIONAL_CHAPTER
 urls:
   - type: WEBSITE
-    url: http://www.gruene-erftstadt.de
+    url: https://gruene-erftstadt.de/
 ---
 city: Frechen
 country: DE

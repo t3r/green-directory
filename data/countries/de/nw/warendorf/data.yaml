@@ -72,7 +72,13 @@ state: Nordrhein-Westfalen
 type: REGIONAL_CHAPTER
 urls:
   - type: WEBSITE
-    url: http://www.gruene-ostbevern.de
+    url: https://gruene-ostbevern.de/home/
+  - type: FACEBOOK
+    url: https://www.facebook.com/grueneostbevern/
+  - type: INSTAGRAM
+    url: https://www.instagram.com/grueneostbevern/
+  - type: TWITTER
+    url: https://twitter.com/grueneostbevern
 ---
 city: Sassenberg
 country: DE

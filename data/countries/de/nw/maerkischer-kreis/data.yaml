@@ -77,4 +77,8 @@ state: Nordrhein-Westfalen
 type: REGIONAL_CHAPTER
 urls:
   - type: WEBSITE
-    url: http://www.gruene-meinerzhagen.de
+    url: https://gruene-meinerzhagen.de/
+  - type: FACEBOOK
+    url: https://www.facebook.com/B%C3%BCndnis-90-Die-Gr%C3%BCnen-Meinerzhagen-595632767231426/
+  - type: INSTAGRAM
+    url: https://www.instagram.com/gruenemeinerzhagen/

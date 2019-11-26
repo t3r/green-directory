@@ -151,7 +151,7 @@ state: Niedersachsen
 district: Lüchow-Dannenberg
 urls:
   - type: WEBSITE
-    url: http://www.gruene-luechow-dannenberg.de/
+    url: https://www.gruene-luechow-dannenberg.de/
 ---
 type: REGIONAL_CHAPTER
 level: DE:ORTSVERBAND
@@ -167,7 +167,7 @@ state: Niedersachsen
 district: Oldenburg-Stadt
 urls:
   - type: WEBSITE
-    url: http://www.gruene-oldenburg.de/home/
+    url: https://www.gruene-oldenburg.de/
   - type: FACEBOOK
     url: https://www.facebook.com/grueneoldenburg
   - type: TWITTER
@@ -199,7 +199,7 @@ state: Niedersachsen
 district: Salzgitter
 urls:
   - type: WEBSITE
-    url: http://gruene-salzgitter.de/aktuelles/
+    url: https://gruene-salzgitter.de/
   - type: FACEBOOK
     url: https://www.facebook.com/GrueneSalzgitter
 ---

@@ -70,7 +70,7 @@ state: Bayern
 district: Würzburg-Stadt
 urls:
   - type: WEBSITE
-    url: http://gj-wuerzburg.de/
+    url: https://gj-wuerzburg.de/
   - type: FACEBOOK
     url: https://www.facebook.com/gjwuerzburg/
   - type: TWITTER

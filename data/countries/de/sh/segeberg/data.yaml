@@ -6,7 +6,7 @@ state: Schleswig-Holstein
 district: Segeberg
 urls:
   - type: WEBSITE
-    url: http://gruene-se-kv.de/
+    url: https://gruene-se-kv.de/
   - type: FACEBOOK
     url: https://www.facebook.com/grn.kv.segeberg
   - type: INSTAGRAM

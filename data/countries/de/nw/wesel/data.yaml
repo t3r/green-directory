@@ -74,7 +74,9 @@ state: Nordrhein-Westfalen
 type: REGIONAL_CHAPTER
 urls:
   - type: WEBSITE
-    url: http://www.gruene-moers.de/
+    url: https://www.gruene-moers.de/
+  - type: FACEBOOK
+    url: https://www.facebook.com/gruene.moers/
 ---
 city: Neukirchen-Vluyn
 country: DE

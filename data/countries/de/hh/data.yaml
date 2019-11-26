@@ -82,7 +82,7 @@ state: Hamburg
 district: Eimsbüttel
 urls:
   - type: WEBSITE
-    url: http://www.gruene-eimsbuettel.de/
+    url: https://gruene-eimsbuettel.de/
   - type: FACEBOOK
     url: https://www.facebook.com/eimsbuettelgruen
   - type: TWITTER

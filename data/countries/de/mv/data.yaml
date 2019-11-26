@@ -74,7 +74,7 @@ state: Mecklenburg-Vorpommern
 district: Rostock
 urls:
   - type: WEBSITE
-    url: http://www.gruene-rostock.de
+    url: https://gruene-rostock.de/
   - type: TWITTER
     url: https://twitter.com/GrueneRostock
   - type: FACEBOOK
@@ -89,7 +89,7 @@ state: Mecklenburg-Vorpommern
 district: Nordwestmecklenburg
 urls:
   - type: WEBSITE
-    url: http://www.gruene-nordwestmecklenburg.de
+    url: https://gruene-nordwestmecklenburg.de/
   - type: FACEBOOK
     url: https://www.facebook.com/Gruene.NWM.HWI
   - type: TWITTER
@@ -132,12 +132,14 @@ state: Mecklenburg-Vorpommern
 district: Vorpommern-Greifswald
 urls:
   - type: WEBSITE
-    url: http://www.gruene-vorpommern-greifswald.de
+    url: https://gruene-vorpommern-greifswald.de/
   - type: FACEBOOK
     url: http://www.facebook.com/gruenevg
   - type: INSTAGRAM
     url: https://www.instagram.com/gruene_vg/
   - type: TWITTER
     url: https://twitter.com/GRUENE_VG
+  - type: WEBSITE
+    url: http://blog.gruene-vorpommern-greifswald.de/
 emails:
   - address: info@gruene-greifswald.de

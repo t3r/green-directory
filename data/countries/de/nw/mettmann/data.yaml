@@ -20,7 +20,7 @@ state: Nordrhein-Westfalen
 type: REGIONAL_CHAPTER
 urls:
   - type: WEBSITE
-    url: http://www.gruene-erkrath.de/
+    url: https://www.gruene-erkrath.de/
 ---
 city: Heiligenhaus
 country: DE
@@ -90,7 +90,13 @@ state: Nordrhein-Westfalen
 type: REGIONAL_CHAPTER
 urls:
   - type: WEBSITE
-    url: http://www.gruene-velbert.de/
+    url: https://www.gruene-velbert.de/
+  - type: TWITTER
+    url: https://twitter.com/gruene_velbert
+  - type: FACEBOOK
+    url: https://www.facebook.com/gruenevelbert/
+  - type: INSTAGRAM
+    url: https://www.instagram.com/gruene_velbert/
 ---
 city: Mettmann
 country: DE

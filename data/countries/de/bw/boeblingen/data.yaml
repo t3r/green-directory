@@ -73,7 +73,13 @@ state: Baden-Württemberg
 type: REGIONAL_CHAPTER
 urls:
   - type: WEBSITE
-    url: http://www.gruene-sindelfingen.de/
+    url: https://www.gruene-sindelfingen.de/
+  - type: TWITTER
+    url: https://twitter.com/gruene_sifi
+  - type: FACEBOOK
+    url: https://facebook.com/gruene.sifi
+  - type: INSTAGRAM
+    url: https://www.instagram.com/gruene_sifi
 ---
 city: Weil der Stadt
 country: DE
