@@ -33,3 +33,17 @@ city: Bergzabern
 urls:
   - type: WEBSITE
     url: http://www.gruene-bad-bergzabern.de/
+---
+type: REGIONAL_CHAPTER
+level: DE:ORTSVERBAND
+country: DE
+state: Rheinland-Pfalz
+district: Südliche Weinstraße
+city: Edenkoben / Maikammer
+urls:
+  - type: WEBSITE
+    url: https://gruene-edenkoben-maikammer.de/
+  - type: FACEBOOK
+    url: https://www.facebook.com/GrueneEdenkobenMaikammer/
+emails:
+  - address: peter.sanner@gruene-edenkoben-maikammer.de
