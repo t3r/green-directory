@@ -214,3 +214,5 @@ urls:
     url: https://www.facebook.com/GrueneTreptowKoepenick/
   - type: TWITTER
     url: https://twitter.com/Gruene_TK
+  - type: MASTODON
+    url: https://gruene.social/@gruene_tk
