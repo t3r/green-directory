@@ -129,6 +129,18 @@ urls:
   - type: FACEBOOK
     url: https://www.facebook.com/Die-Gr%C3%BCnen-Gro%C3%9Fostheim-2375313466078559/
 ---
+city: Mömbris
+country: DE
+district: Aschaffenburg-Land
+level: DE:ORTSVERBAND
+state: Bayern
+type: REGIONAL_CHAPTER
+urls:
+  - type: WEBSITE
+    url: https://gruene-moembris.de/
+  - type: FACEBOOK
+    url: https://www.facebook.com/Gr%C3%BCne-M%C3%B6mbris-100822851347461/
+---
 city: Schöllkrippen
 country: DE
 district: Aschaffenburg-Land
