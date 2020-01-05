@@ -20,7 +20,7 @@ state: Nordrhein-Westfalen
 type: REGIONAL_CHAPTER
 urls:
   - type: WEBSITE
-    url: http://gruene-breckerfeld.de/
+    url: https://gruenebreckerfeld.de
 ---
 city: Ennepetal
 country: DE
