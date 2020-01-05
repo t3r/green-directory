@@ -20,7 +20,7 @@ state: Nordrhein-Westfalen
 type: REGIONAL_CHAPTER
 urls:
   - type: WEBSITE
-    url: https://gruene-en.de/ortsverbaende/ov-breckerfeld/home/
+    url: http://gruene-breckerfeld.de/
 ---
 city: Ennepetal
 country: DE
