@@ -18,7 +18,7 @@ state: Bayern
 type: REGIONAL_CHAPTER
 urls:
   - type: WEBSITE
-    url: http://gruene-bubenreuth.de/
+    url: https://gruene-bubenreuth.de/
 ---
 city: Herzogenaurach
 country: DE
