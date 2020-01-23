@@ -64,6 +64,16 @@ urls:
   - type: WEBSITE
     url: https://gruene-felde.de/
 ---
+city: Fleckeby
+country: DE
+district: Rendsburg-Eckernförde
+level: DE:ORTSVERBAND
+state: Schleswig-Holstein
+type: REGIONAL_CHAPTER
+urls:
+  - type: WEBSITE
+    url: https://gruene-fleckeby.de/
+---
 city: Gettorf
 country: DE
 district: Rendsburg-Eckernförde
