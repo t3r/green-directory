@@ -85,3 +85,13 @@ type: REGIONAL_CHAPTER
 urls:
   - type: WEBSITE
     url: https://gruene-urbach.de/
+---
+city: Murrhardt, Sulzbach, Oppenweiler, Großerlach & Spiegelberg
+country: DE
+district: Rems/Murr
+level: DE:ORTSVERBAND
+state: Baden-Württemberg
+type: REGIONAL_CHAPTER
+urls:
+  - type: WEBSITE
+    url: https://gruene-oberes-murrtal.de/
