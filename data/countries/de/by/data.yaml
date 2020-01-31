@@ -208,9 +208,15 @@ state: Bayern
 district: Bamberg-Stadt
 urls:
   - type: WEBSITE
-    url: http://www.gal-bamberg.de/
+    url: https://www.gruenes-bamberg.de/
   - type: TWITTER
-    url: https://twitter.com/GAL_Bamberg
+    url: https://twitter.com/GRUENES_BAMBERG
+  - type: YOUTUBE
+    url: https://www.youtube.com/channel/UCo6aFQhw03Cc0W4LWSBUjNw
+  - type: INSTAGRAM
+    url: https://www.instagram.com/gruenes_bamberg/
+  - type: FACEBOOK
+    url: https://www.facebook.com/gruenes.bamberg
 ---
 type: REGIONAL_CHAPTER
 level: DE:KREISVERBAND
