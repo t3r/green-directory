@@ -1,0 +1,29 @@
+---
+type: REGIONAL_CHAPTER
+level: DE:KREISVERBAND
+country: DE
+state: Hessen
+district: Frankfurt
+urls:
+  - type: WEBSITE
+    url: https://www.gruene-frankfurt.de/
+  - type: INSTAGRAM
+    url: https://www.instagram.com/grueneffm/
+  - type: TWITTER
+    url: https://twitter.com/grueneffm
+  - type: FACEBOOK
+    url: https://www.facebook.com/gruene.frankfurt/
+emails:
+  - address: kreisverband@gruene-frankfurt.de
+---
+city: Bockenheim, Westend, Kuhwald
+country: DE
+district: Frankfurt
+level: DE:ORTSVERBAND
+state: Hessen
+type: REGIONAL_CHAPTER
+urls:
+  - type: WEBSITE
+    url: https://gruene-bockenheim.de/
+  - type: FACEBOOK
+    url: https://www.facebook.com/Gruene.Bockenheim.Westend/
