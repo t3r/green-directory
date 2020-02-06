@@ -22,7 +22,7 @@ state: Hessen
 type: REGIONAL_CHAPTER
 urls:
   - type: WEBSITE
-    url: http://gruene-kirchhain.de/
+    url: https://gruene-kirchhain.de/
   - type: FACEBOOK
     url: https://www.facebook.com/GrueneKirchhain/
 ---
@@ -37,16 +37,6 @@ urls:
     url: http://www.gruene-lahntal.de/
   - type: FACEBOOK
     url: https://www.facebook.com/GrueneLahntal/
----
-city: Marburg
-country: DE
-district: Marburg-Biedenkopf
-level: DE:ORTSVERBAND
-state: Hessen
-type: REGIONAL_CHAPTER
-urls:
-  - type: WEBSITE
-    url: https://www.gruene-marburg.de/marburg/
 ---
 city: Cölbe
 country: DE
