@@ -1,0 +1,29 @@
+---
+type: REGIONAL_CHAPTER
+level: DE:KREISVERBAND
+country: DE
+state: Bayern
+district: Bayreuth-Land
+urls:
+  - type: WEBSITE
+    url: https://gruene-bayreuth-land.de/
+  - type: FACEBOOK
+    url: https://www.facebook.com/GrueneBayreuthLand
+---
+type: REGIONAL_CHAPTER
+level: DE:ORTSVERBAND
+country: DE
+state: Bayern
+district: Bayreuth-Land
+city: Bindlach
+urls:
+  - type: WEBSITE
+    url: https://gruene-bindlach.de/
+  - type: FACEBOOK
+    url: https://www.facebook.com/gruenebindlach
+  - type: TWITTER
+    url: https://twitter.com/gruenebindlach
+  - type: INSTAGRAM
+    url: https://www.instagram.com/gruenebindlach/
+emails:
+  - address: mail@gruene-bindlach.de
