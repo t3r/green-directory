@@ -222,17 +222,6 @@ type: REGIONAL_CHAPTER
 level: DE:KREISVERBAND
 country: DE
 state: Bayern
-district: Bayreuth-Land
-urls:
-  - type: WEBSITE
-    url: https://gruene-bayreuth-land.de/
-  - type: FACEBOOK
-    url: https://www.facebook.com/GrueneBayreuthLand
----
-type: REGIONAL_CHAPTER
-level: DE:KREISVERBAND
-country: DE
-state: Bayern
 district: Bayreuth-Stadt
 urls:
   - type: WEBSITE
@@ -891,17 +880,6 @@ urls:
     url: https://gruene-weiden.de/
   - type: FACEBOOK
     url: https://www.facebook.com/B%C3%BCndnis-90-Die-Gr%C3%BCnen-KV-Neustadt-ad-Waldnaab-und-Weiden-i-d-Opf-105519059607000
----
-type: REGIONAL_CHAPTER
-level: DE:KREISVERBAND
-country: DE
-state: Bayern
-district: Weißenburg-Gunzenhausen
-urls:
-  - type: WEBSITE
-    url: https://gruene-weissenburg.de/
-  - type: FACEBOOK
-    url: https://www.facebook.com/gruene.weissenburg/
 ---
 type: REGIONAL_CHAPTER
 level: DE:KREISVERBAND
