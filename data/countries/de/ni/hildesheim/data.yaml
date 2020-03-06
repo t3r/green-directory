@@ -22,7 +22,7 @@ district: Hildesheim
 city: Nordstemmen
 urls:
   - type: WEBSITE
-    url: https://www.gruene-hildesheim.de/kreisverband/ortsverband-nordstemmen/
+    url: https://gruene-nordstemmen.de/
 ---
 type: REGIONAL_CHAPTER
 level: DE:ORTSVERBAND
