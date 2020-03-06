@@ -1,0 +1,25 @@
+---
+type: REGIONAL_CHAPTER
+level: DE:KREISVERBAND
+country: DE
+state: Bayern
+district: Weißenburg-Gunzenhausen
+urls:
+  - type: WEBSITE
+    url: https://gruene-weissenburg.de/
+  - type: FACEBOOK
+    url: https://www.facebook.com/gruene.weissenburg/
+---
+type: REGIONAL_CHAPTER
+level: DE:ORTSVERBAND
+country: DE
+state: Bayern
+district: Weißenburg-Gunzenhausen
+city: Pleinfeld
+urls:
+  - type: WEBSITE
+    url: https://gruene-pleinfeld.de/
+  - type: FACEBOOK
+    url: https://www.facebook.com/gruenepleinfeld/
+emails:
+  - address: info@gruene-pleinfeld.de
