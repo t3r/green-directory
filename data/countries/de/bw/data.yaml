@@ -175,7 +175,7 @@ state: Baden-Württemberg
 type: REGIONAL_CHAPTER
 urls:
   - type: WEBSITE
-    url: http://www.gruene-hardt.de/
+    url: https://www.gruene-kurpfalz-hardt.de/
   - type: FACEBOOK
     url: https://www.facebook.com/GrueneKH/
 ---
