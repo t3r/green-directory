@@ -44,7 +44,7 @@ state: Bremen
 district: Bremerhaven
 urls:
   - type: WEBSITE
-    url: http://www.gruene-bremerhaven.de/
+    url: https://gruene-bremerhaven.de/
   - type: FACEBOOK
     url: https://www.facebook.com/gruenebhv
   - type: TWITTER
