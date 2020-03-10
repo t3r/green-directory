@@ -6,7 +6,7 @@ state: Nordrhein-Westfalen
 district: Rheinisch-Bergischer Kreis
 urls:
   - type: WEBSITE
-    url: http://www.gruene-kreisrheinberg.de/
+    url: https://www.gruene-kreisrheinberg.de/
   - type: FACEBOOK
     url: https://www.facebook.com/gruene.kreisrheinberg/
   - type: INSTAGRAM
