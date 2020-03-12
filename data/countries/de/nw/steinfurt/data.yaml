@@ -102,7 +102,7 @@ state: Nordrhein-Westfalen
 type: REGIONAL_CHAPTER
 urls:
   - type: WEBSITE
-    url: http://www.gruenelaer.de/
+    url: https://gruenelaer.de/
 ---
 city: Lengerich
 country: DE
