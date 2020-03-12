@@ -6,7 +6,9 @@ state: Niedersachsen
 district: Aurich-Norden
 urls:
   - type: WEBSITE
-    url: https://gruene-aurich.de/
+    url: https://gruene-kv-aurich-norden.de/
+emails:
+  - address: info@gruene-kv-aurich-norden.de
 ---
 type: REGIONAL_CHAPTER
 level: DE:ORTSVERBAND
@@ -16,17 +18,21 @@ district: Aurich-Norden
 city: Aurich
 urls:
   - type: WEBSITE
-    url: http://www.gruene-ov-aurich.de/
+    url: https://gruene-aurich.org/
+  - type: FACEBOOK
+    url: https://www.facebook.com/GrueneAurich
+emails:
+  - address: info@gruene-aurich.de
 ---
 type: REGIONAL_CHAPTER
 level: DE:ORTSVERBAND
 country: DE
 state: Niedersachsen
 district: Aurich-Norden
-city: Brookmerland/Hinte/ Südbrookmerland
+city: Brookmerland, Hinte, Südbrookmerland
 urls:
   - type: WEBSITE
-    url: http://www.gruene-brookmerland-hinte-suedbrookmerland.de/
+    url: http://www.gruene-bhs.de/
 ---
 type: REGIONAL_CHAPTER
 level: DE:ORTSVERBAND
@@ -44,6 +50,8 @@ city: Krummhörn
 urls:
   - type: WEBSITE
     url: https://www.gruene-krummhoern.de/
+  - type: FACEBOOK
+    url: https://www.facebook.com/GrueneKrummhoern
 ---
 type: REGIONAL_CHAPTER
 level: DE:ORTSVERBAND
@@ -54,6 +62,8 @@ city: Norden
 urls:
   - type: WEBSITE
     url: https://gruene-norden.de/
+emails:
+  - address: kontakt@gruene-norden.de
 ---
 type: REGIONAL_CHAPTER
 level: DE:ORTSVERBAND
@@ -63,4 +73,6 @@ district: Aurich-Norden
 city: Norderney
 urls:
   - type: WEBSITE
-    url: http://www.gruene-norderney.de/
+    url: http://gruene-norderney.de/
+  - type: FACEBOOK
+    url: https://www.facebook.com/B%C3%BCndnis-90die-Gr%C3%BCnen-OV-Norderney-112406732484163/
