@@ -26,7 +26,7 @@ emails:
   - address: info@gruene-alfter.de
 urls:
   - type: WEBSITE
-    url: http://gruene-alfter.de/
+    url: https://gruene-alfter.de/
 ---
 type: REGIONAL_CHAPTER
 level: DE:ORTSVERBAND
@@ -48,7 +48,7 @@ district: Rhein-Sieg
 city: Bornheim
 urls:
   - type: WEBSITE
-    url: http://gruene-bornheim.de/
+    url: https://gruene-bornheim.de/
   - type: FACEBOOK
     url: https://www.facebook.com/Bundnis90DieGrunenBornheim
   - type: TWITTER
@@ -78,7 +78,7 @@ emails:
   - address: d.fiedrich@gruene-hennef.de
 urls:
   - type: WEBSITE
-    url: http://gruene-hennef.de/
+    url: https://gruene-hennef.de/
 ---
 type: REGIONAL_CHAPTER
 level: DE:ORTSVERBAND
@@ -124,7 +124,7 @@ emails:
   - address: partei@gruene-meckenheim.de
 urls:
   - type: WEBSITE
-    url: http://gruene-meckenheim.de/
+    url: https://gruene-meckenheim.de/
 ---
 type: REGIONAL_CHAPTER
 level: DE:ORTSVERBAND
@@ -148,7 +148,7 @@ emails:
   - address: info@gruene-nks.de
 urls:
   - type: WEBSITE
-    url: http://gruene-nks.de/
+    url: https://gruene-nks.de/
 ---
 type: REGIONAL_CHAPTER
 level: DE:ORTSVERBAND
@@ -160,7 +160,7 @@ emails:
   - address: dorothea.dohms@gmx.de
 urls:
   - type: WEBSITE
-    url: http://www.grueneniederkassel.de/
+    url: https://www.grueneniederkassel.de/
   - type: FACEBOOK
     url: https://www.facebook.com/GrueneNiederkassel
 ---
@@ -174,7 +174,7 @@ emails:
   - address: info@gruene-rheinbach.de
 urls:
   - type: WEBSITE
-    url: http://www.gruene-rheinbach.de/
+    url: https://www.gruene-rheinbach.de/
   - type: FACEBOOK
     url: https://www.facebook.com/B%C3%BCndnis90Die-Gr%C3%BCnen-Rheinbach-359243267513092/
   - type: TWITTER
@@ -190,7 +190,7 @@ emails:
   - address: gruene-ruppichteroth@gmx.de
 urls:
   - type: WEBSITE
-    url: http://gruene-ruppichteroth.de/
+    url: https://gruene-ruppichteroth.de/
 ---
 type: REGIONAL_CHAPTER
 level: DE:ORTSVERBAND
@@ -202,7 +202,7 @@ emails:
   - address: info@gruene-sanktaugustin.de
 urls:
   - type: WEBSITE
-    url: http://gruene-sanktaugustin.de/
+    url: https://gruene-sanktaugustin.de/
   - type: FACEBOOK
     url: https://www.facebook.com/Buendnis90GrueneSanktAugustin/
   - type: TWITTER
@@ -272,6 +272,6 @@ emails:
   - address: t.ritzer@gruene-windeck.de
 urls:
   - type: WEBSITE
-    url: http://gruene-windeck.de/
+    url: https://gruene-windeck.de/
   - type: FACEBOOK
     url: https://www.facebook.com/GrueneWindeck/
