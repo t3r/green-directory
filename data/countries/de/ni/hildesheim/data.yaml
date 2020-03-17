@@ -32,7 +32,7 @@ district: Hildesheim
 city: Hildesheim Südkreis
 urls:
   - type: WEBSITE
-    url: https://www.gruene-hildesheim.de/kreisverband/ortsverband-suedlicher-landkreis/
+    url: https://www.gruene-hildesheim.de/ueber-uns/ortsverband-suedlicher-landkreis/
 ---
 type: REGIONAL_CHAPTER
 level: DE:ORTSVERBAND
