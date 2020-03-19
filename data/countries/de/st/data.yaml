@@ -61,7 +61,7 @@ state: Sachsen-Anhalt
 district: Anhalt-Bitterfeld
 urls:
   - type: WEBSITE
-    url: http://www.gruene-anhalt-bitterfeld.de/
+    url: https://www.gruene-anhalt-bitterfeld.de/
   - type: FACEBOOK
     url: https://www.facebook.com/Buendnis90DieGruenenKreisverbandAnhaltBitterfeld/
 emails:
