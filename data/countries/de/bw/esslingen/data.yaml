@@ -40,7 +40,7 @@ state: Baden-Württemberg
 type: REGIONAL_CHAPTER
 urls:
   - type: WEBSITE
-    url: http://www.gruene-filderstadt.de
+    url: https://www.gruene-filderstadt.de/
 ---
 city: Kirchheim/Teck
 country: DE
@@ -50,7 +50,7 @@ state: Baden-Württemberg
 type: REGIONAL_CHAPTER
 urls:
   - type: WEBSITE
-    url: http://www.gruene-kirchheim-teck.de
+    url: https://www.gruene-kirchheim-teck.de/
 ---
 city: Leinfelden/Echterdingen
 country: DE
@@ -60,7 +60,7 @@ state: Baden-Württemberg
 type: REGIONAL_CHAPTER
 urls:
   - type: WEBSITE
-    url: http://gruene-le.de
+    url: https://gruene-le.de/
 ---
 city: Ostfildern
 country: DE
@@ -70,7 +70,7 @@ state: Baden-Württemberg
 type: REGIONAL_CHAPTER
 urls:
   - type: WEBSITE
-    url: http://www.gruene-ostfildern.de
+    url: https://www.gruene-ostfildern.de/
 ---
 city: Schurwald
 country: DE
@@ -90,4 +90,4 @@ state: Baden-Württemberg
 type: REGIONAL_CHAPTER
 urls:
   - type: WEBSITE
-    url: http://www.gruene-wendlingen.de/home/
+    url: https://www.gruene-wendlingen.de/

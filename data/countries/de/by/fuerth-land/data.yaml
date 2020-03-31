@@ -10,9 +10,9 @@ urls:
   - type: TWITTER
     url: https://twitter.com/gruene_fue_land
   - type: FACEBOOK
-    url: http://www.facebook.com/Gruene.LkFuerth
+    url: https://www.facebook.com/Gruene.LkFuerth
   - type: YOUTUBE
-    url: http://www.youtube.com/channel/UCoq6tBpL4RSS9xve53e03yw/videos
+    url: https://www.youtube.com/channel/UCoq6tBpL4RSS9xve53e03yw/videos
 ---
 city: Cadolzburg
 country: DE

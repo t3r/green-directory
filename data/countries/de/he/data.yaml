@@ -13,7 +13,7 @@ urls:
   - type: FACEBOOK
     url: https://www.facebook.com/gruenehessen
   - type: TWITTER
-    url: http://twitter.com/gruenehessen
+    url: https://twitter.com/gruenehessen
   - type: INSTAGRAM
     url: https://www.instagram.com/gruenehessen/
   - type: FLICKR

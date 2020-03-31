@@ -45,7 +45,7 @@ state: Brandenburg
 district: Barnim
 urls:
   - type: WEBSITE
-    url: http://www.gruene-barnim.de/
+    url: https://www.gruene-barnim.de/
 ---
 type: REGIONAL_CHAPTER
 level: DE:KREISVERBAND
@@ -119,7 +119,7 @@ urls:
   - type: WEBSITE
     url: https://www.gruene-havelland.de/
   - type: FACEBOOK
-    url: http://www.facebook.com/gruenehvl
+    url: https://www.facebook.com/gruenehvl
   - type: INSTAGRAM
     url: https://www.instagram.com/gruene.hvl/
   - type: TWITTER

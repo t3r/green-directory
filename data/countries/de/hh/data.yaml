@@ -13,7 +13,7 @@ urls:
   - type: FACEBOOK
     url: https://www.facebook.com/gruene.hamburg/
   - type: TWITTER
-    url: http://twitter.com/GRUENE_Hamburg/
+    url: https://twitter.com/GRUENE_Hamburg/
   - type: INSTAGRAM
     url: https://www.instagram.com/gruene_hamburg/
   - type: FLICKR

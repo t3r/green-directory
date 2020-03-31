@@ -107,7 +107,7 @@ urls:
   - type: TWITTER
     url: http://www.twitter.com/erzgruen
   - type: YOUTUBE
-    url: http://www.youtube.com/erzgruentv
+    url: https://www.youtube.com/erzgruentv
   - type: INSTAGRAM
     url: https://www.instagram.com/erzgruen/
 emails:

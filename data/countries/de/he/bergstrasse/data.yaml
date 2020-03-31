@@ -132,7 +132,7 @@ urls:
   - type: WEBSITE
     url: https://gruene-lindenfels.de/
   - type: FACEBOOK
-    url: http://www.facebook.com/gruene.lindenfels
+    url: https://www.facebook.com/gruene.lindenfels
 ---
 city: Rimbach
 country: DE

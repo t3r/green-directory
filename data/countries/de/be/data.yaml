@@ -50,7 +50,7 @@ state: Berlin
 district: Charlottenburg-Wilmersdorf
 urls:
   - type: WEBSITE
-    url: http://gruene-cw.de/aktuelles/
+    url: https://gruene-cw.de/
   - type: TWITTER
     url: https://twitter.com/Gruene_CW
   - type: FACEBOOK
@@ -153,7 +153,7 @@ state: Berlin
 district: Reinickendorf
 urls:
   - type: WEBSITE
-    url: http://gruene-reinickendorf.de/startseite/
+    url: https://gruene-reinickendorf.de/
   - type: TWITTER
     url: https://twitter.com/fuchsgruen
   - type: FACEBOOK
@@ -168,7 +168,7 @@ state: Berlin
 district: Spandau
 urls:
   - type: WEBSITE
-    url: http://gruene-spandau.de/
+    url: https://www.gruene-spandau.de/
   - type: TWITTER
     url: https://twitter.com/GrueneSpandau
   - type: FACEBOOK
@@ -192,7 +192,7 @@ state: Berlin
 district: Tempelhof-Schöneberg
 urls:
   - type: WEBSITE
-    url: http://www.gruene-ts.de/
+    url: https://gruene-ts.de/
   - type: TWITTER
     url: https://twitter.com/GrueneTS
   - type: FACEBOOK

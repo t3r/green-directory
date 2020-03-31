@@ -8,7 +8,7 @@ urls:
   - type: WEBSITE
     url: https://gruene-augsburgland.de/
   - type: TWITTER
-    url: http://twitter.com/GrueneAugsLand
+    url: https://twitter.com/GrueneAugsLand
   - type: FACEBOOK
     url: https://www.facebook.com/GrueneAugsburgLand
 ---

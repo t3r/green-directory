@@ -169,7 +169,7 @@ urls:
   - type: WEBSITE
     url: https://gruene-augsburg.de/
   - type: TWITTER
-    url: http://twitter.com/gruene_augsburg
+    url: https://twitter.com/gruene_augsburg
   - type: FACEBOOK
     url: https://www.facebook.com/gruene.augsburg
   - type: YOUTUBE
@@ -840,7 +840,7 @@ urls:
   - type: WEBSITE
     url: https://gruenetir.de/
   - type: FACEBOOK
-    url: http://www.facebook.com/gruene.tirschenreuth
+    url: https://www.facebook.com/gruene.tirschenreuth
   - type: INSTAGRAM
     url: https://www.instagram.com/gruenetir/
 ---

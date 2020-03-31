@@ -59,7 +59,7 @@ urls:
   - type: WEBSITE
     url: http://www.gruene-seenplatte.de
   - type: FACEBOOK
-    url: http://www.facebook.com/gruene.seenplatte/
+    url: https://www.facebook.com/gruene.seenplatte/
   - type: INSTAGRAM
     url: https://www.instagram.com/gruene.seenplatte/
   - type: TWITTER
@@ -78,7 +78,7 @@ urls:
   - type: TWITTER
     url: https://twitter.com/GrueneRostock
   - type: FACEBOOK
-    url: http://www.facebook.com/kv.rostock
+    url: https://www.facebook.com/kv.rostock
 emails:
   - address: info@gruene-rostock.de
 ---
@@ -134,7 +134,7 @@ urls:
   - type: WEBSITE
     url: https://gruene-vorpommern-greifswald.de/
   - type: FACEBOOK
-    url: http://www.facebook.com/gruenevg
+    url: https://www.facebook.com/gruenevg
   - type: INSTAGRAM
     url: https://www.instagram.com/gruene_vg/
   - type: TWITTER

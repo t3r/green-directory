@@ -53,7 +53,7 @@ state: Baden-Württemberg
 type: REGIONAL_CHAPTER
 urls:
   - type: WEBSITE
-    url: http://www.gruene-renningen.de
+    url: https://www.gruene-renningen.de/
 ---
 city: Schönaich
 country: DE

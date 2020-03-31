@@ -13,7 +13,7 @@ urls:
   - type: FACEBOOK
     url: https://www.facebook.com/gruenesh
   - type: TWITTER
-    url: http://twitter.com/gruene_sh
+    url: https://twitter.com/gruene_sh
   - type: YOUTUBE
     url: https://www.youtube.com/user/GrueneSH
   - type: INSTAGRAM
@@ -114,7 +114,7 @@ urls:
   - type: WEBSITE
     url: http://www.gruene-luebeck.de/
   - type: FACEBOOK
-    url: http://www.facebook.com/Gruene.Luebeck
+    url: https://www.facebook.com/Gruene.Luebeck
   - type: TWITTER
     url: https://twitter.com/LuebeckGruene
   - type: INSTAGRAM
@@ -131,6 +131,6 @@ urls:
   - type: WEBSITE
     url: http://gruene-neumuenster.de/
   - type: FACEBOOK
-    url: http://www.facebook.com/gruene.nms
+    url: https://www.facebook.com/gruene.nms
   - type: TWITTER
     url: https://twitter.com/gruene_nms

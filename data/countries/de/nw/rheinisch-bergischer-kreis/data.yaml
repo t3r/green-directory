@@ -73,6 +73,8 @@ urls:
     url: https://gruene-roesrath.de/
   - type: FACEBOOK
     url: https://www.facebook.com/gruene.roesrath/
+  - type: MASTODON
+    url: https://gruene.social/@roesrath
 emails:
   - address: info@gruene-roesrath.de
 ---

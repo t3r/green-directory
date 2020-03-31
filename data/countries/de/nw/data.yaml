@@ -84,7 +84,7 @@ urls:
   - type: WEBSITE
     url: http://gruene-ruhr.de/
   - type: FACEBOOK
-    url: http://www.facebook.com/groups/56823719818/
+    url: https://www.facebook.com/groups/56823719818/
   - type: TWITTER
     url: https://twitter.com/GrueneRuhr
 ---

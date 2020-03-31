@@ -8,7 +8,7 @@ state: Baden-Württemberg
 type: REGIONAL_CHAPTER
 urls:
   - type: WEBSITE
-    url: http://www.gruene-goeppingen.de/
+    url: https://gruene-gp.de/
   - type: FACEBOOK
     url: https://www.facebook.com/GrueneGP
   - type: TWITTER
@@ -22,4 +22,4 @@ state: Baden-Württemberg
 type: REGIONAL_CHAPTER
 urls:
   - type: WEBSITE
-    url: http://www.gruene-goeppingen.de/suessen/
+    url: https://gruene-gp.de/wahl-19/suessen/

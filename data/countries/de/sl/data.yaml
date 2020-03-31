@@ -269,7 +269,7 @@ urls:
   - type: WEBSITE
     url: https://gruene-saarwellingen.de/
   - type: FACEBOOK
-    url: http://www.facebook.com/groups/gruene.saarwellignen/
+    url: https://www.facebook.com/groups/gruene.saarwellignen/
 ---
 type: REGIONAL_CHAPTER
 level: DE:ORTSVERBAND
