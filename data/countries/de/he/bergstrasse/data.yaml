@@ -20,7 +20,7 @@ state: Hessen
 type: REGIONAL_CHAPTER
 urls:
   - type: WEBSITE
-    url: http://gruene-bensheim.de/
+    url: https://gruene-bensheim.de/
   - type: TWITTER
     url: https://twitter.com/gruenebensheim
   - type: FACEBOOK
@@ -58,7 +58,7 @@ state: Hessen
 type: REGIONAL_CHAPTER
 urls:
   - type: WEBSITE
-    url: http://gl-lautertal.de/
+    url: https://www.gl-lautertal.de/
 ---
 city: Lorsch
 country: DE

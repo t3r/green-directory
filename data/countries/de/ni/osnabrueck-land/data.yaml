@@ -58,7 +58,7 @@ district: Osnabrück-Land
 city: Bad Rothenfelde
 urls:
   - type: WEBSITE
-    url: http://gruene-bad-rothenfelde.de/
+    url: https://gruene-bad-rothenfelde.de/
 ---
 type: REGIONAL_CHAPTER
 level: DE:ORTSVERBAND

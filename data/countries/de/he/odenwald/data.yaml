@@ -20,7 +20,7 @@ state: Hessen
 type: REGIONAL_CHAPTER
 urls:
   - type: WEBSITE
-    url: http://erbach.gruene-odenwald.de/
+    url: https://erbach.gruene-odenwald.de/
 ---
 city: Reichelsheim
 country: DE

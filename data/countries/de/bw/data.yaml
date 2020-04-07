@@ -18,6 +18,8 @@ urls:
     url: https://www.instagram.com/gruenebw/
   - type: WIKIDATA
     url: https://www.wikidata.org/wiki/Q1020834
+  - type: YOUTUBE
+    url: https://www.youtube.com/user/GrueneBW
 emails:
   - address: landesverband@gruene-bw.de
 ---

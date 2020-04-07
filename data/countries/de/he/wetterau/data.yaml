@@ -64,7 +64,7 @@ state: Hessen
 type: REGIONAL_CHAPTER
 urls:
   - type: WEBSITE
-    url: http://gruene-bad-nauheim.de/
+    url: https://gruene-bad-nauheim.de/
 ---
 city: Echzell
 country: DE

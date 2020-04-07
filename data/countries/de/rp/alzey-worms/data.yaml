@@ -6,7 +6,7 @@ state: Rheinland-Pfalz
 district: Alzey-Worms
 urls:
   - type: WEBSITE
-    url: http://gruene-alzey-worms.de/
+    url: https://gruene-alzey-worms.de/
   - type: FACEBOOK
     url: https://www.facebook.com/Bundnis90DieGrunenAlzeyWorms/
 emails:

@@ -61,7 +61,7 @@ state: Rheinland-Pfalz
 district: Birkenfeld
 urls:
   - type: WEBSITE
-    url: http://gruene-birkenfeld.de/
+    url: https://gruene-birkenfeld.de/
   - type: FACEBOOK
     url: https://www.facebook.com/Bundnis90DieGrunenKvBirkenfeld/
   - type: TWITTER
