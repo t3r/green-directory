@@ -6,7 +6,7 @@ state: Brandenburg
 district: Potsdam-Mittelmark
 urls:
   - type: WEBSITE
-    url: https://gruene-potsdam-mittelmark.de/
+    url: https://gruene-potsdam-mittelmark.de/home/
   - type: FACEBOOK
     url: https://www.facebook.com/B%C3%9CNDNIS-90-DIE-GR%C3%9CNEN-Kreisverband-Potsdam-Mittelmark-1434045933475301/
 ---
@@ -18,7 +18,7 @@ state: Brandenburg
 type: REGIONAL_CHAPTER
 urls:
   - type: WEBSITE
-    url: https://gruene-nuthetal.de/
+    url: https://gruene-nuthetal.de/home/
 ---
 city: Beelitz
 country: DE
@@ -28,7 +28,7 @@ state: Brandenburg
 type: REGIONAL_CHAPTER
 urls:
   - type: WEBSITE
-    url: https://www.gruene-beelitz.de/
+    url: https://www.gruene-beelitz.de/politik-mit-biss/
 ---
 city: Kleinmachnow
 country: DE
@@ -38,7 +38,7 @@ state: Brandenburg
 type: REGIONAL_CHAPTER
 urls:
   - type: WEBSITE
-    url: https://www.gruene-kleinmachnow.de/
+    url: https://www.gruene-kleinmachnow.de/herzlich-willkommen-bei-buendnis-90die-gruenen-kleinmachnow/
 ---
 city: Michendorf
 country: DE
@@ -48,7 +48,7 @@ state: Brandenburg
 type: REGIONAL_CHAPTER
 urls:
   - type: WEBSITE
-    url: https://www.gruene-michendorf.de/
+    url: https://www.gruene-michendorf.de/home/
 ---
 city: Schwielowsee
 country: DE
@@ -58,7 +58,7 @@ state: Brandenburg
 type: REGIONAL_CHAPTER
 urls:
   - type: WEBSITE
-    url: https://gruene-schwielowsee.de/
+    url: https://gruene-schwielowsee.de/start/
 ---
 city: Stahnsdorf
 country: DE
@@ -68,7 +68,7 @@ state: Brandenburg
 type: REGIONAL_CHAPTER
 urls:
   - type: WEBSITE
-    url: https://www.gruene-stahnsdorf.de/
+    url: https://www.gruene-stahnsdorf.de/start/
 ---
 city: Teltow
 country: DE
@@ -88,7 +88,7 @@ state: Brandenburg
 type: REGIONAL_CHAPTER
 urls:
   - type: WEBSITE
-    url: https://www.gruene-werder.de/
+    url: https://www.gruene-werder.de/home/
 ---
 city: Treuenbrietzen
 country: DE

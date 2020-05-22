@@ -10,7 +10,7 @@ country: DE
 state: Brandenburg
 urls:
   - type: WEBSITE
-    url: https://gruene-brandenburg.de/
+    url: https://gruene-brandenburg.de/startseite/
   - type: FACEBOOK
     url: https://www.facebook.com/gruenebrandenburg
   - type: TWITTER
@@ -28,7 +28,7 @@ country: DE
 state: Brandenburg
 urls:
   - type: WEBSITE
-    url: https://gj-bb.de/
+    url: https://www.gj-bb.de/
   - type: FACEBOOK
     url: https://www.facebook.com/GJBBG/
   - type: TWITTER
@@ -54,7 +54,7 @@ state: Brandenburg
 district: Brandenburg/Havel
 urls:
   - type: WEBSITE
-    url: https://gruene-kv-brb.de/
+    url: https://gruene-brandenburg-havel.de/home/
   - type: FACEBOOK
     url: https://www.facebook.com/Gruene.Brandenburg.Havel/
   - type: INSTAGRAM
@@ -67,7 +67,7 @@ state: Brandenburg
 district: Cottbus
 urls:
   - type: WEBSITE
-    url: https://www.gruene-cottbus.de/
+    url: https://www.gruene-cottbus.de/home/
   - type: FACEBOOK
     url: https://www.facebook.com/GrueneCottbus/
   - type: INSTAGRAM
@@ -80,7 +80,7 @@ state: Brandenburg
 district: Dahme-Spreewald
 urls:
   - type: WEBSITE
-    url: https://www.gruene-dahme-spreewald.de/
+    url: https://www.gruene-dahme-spreewald.de/aktuelles/
   - type: FACEBOOK
     url: https://www.facebook.com/gruenelds/
   - type: INSTAGRAM
@@ -93,7 +93,7 @@ state: Brandenburg
 district: Elbe-Elster
 urls:
   - type: WEBSITE
-    url: https://gruene-lausitz.org/ee/aktuelles/
+    url: https://gruene-lausitz.org/startseite/ee/aktuelles/
   - type: FACEBOOK
     url: https://www.facebook.com/B%C3%BCndnis-90-Die-Gr%C3%BCnen-Elbe-Elster-2412831312287026/
 ---
@@ -104,7 +104,7 @@ state: Brandenburg
 district: Frankfurt (Oder)
 urls:
   - type: WEBSITE
-    url: https://www.gruene-frankfurt-oder.de/
+    url: https://www.gruene-frankfurt-oder.de/start/
   - type: FACEBOOK
     url: https://www.facebook.com/grueneffo/
   - type: INSTAGRAM
@@ -117,7 +117,7 @@ state: Brandenburg
 district: Havelland
 urls:
   - type: WEBSITE
-    url: https://www.gruene-havelland.de/
+    url: https://www.gruene-havelland.de/startseite/
   - type: FACEBOOK
     url: https://www.facebook.com/gruenehvl
   - type: INSTAGRAM
@@ -132,7 +132,7 @@ state: Brandenburg
 district: Märkisch-Oderland
 urls:
   - type: WEBSITE
-    url: https://www.gruene-mol.de/
+    url: https://www.gruene-mol.de/startseite/
   - type: FACEBOOK
     url: https://www.facebook.com/gruenemol/
 ---
@@ -143,7 +143,7 @@ state: Brandenburg
 district: Oberhavel
 urls:
   - type: WEBSITE
-    url: https://www.gruene-ohv.de/
+    url: https://www.gruene-ohv.de/home/
   - type: FACEBOOK
     url: https://www.facebook.com/gruene.kvohv
 ---
@@ -154,7 +154,7 @@ state: Brandenburg
 district: Oberspreewald-Lausitz
 urls:
   - type: WEBSITE
-    url: https://gruene-lausitz.org/
+    url: https://gruene-lausitz.org/startseite/
   - type: FACEBOOK
     url: https://www.facebook.com/GR%C3%9CNE-Lausitz-338183503210687/
 ---
@@ -165,7 +165,7 @@ state: Brandenburg
 district: Ostprignitz-Ruppin
 urls:
   - type: WEBSITE
-    url: https://www.buendnisgruenes-opr.de/
+    url: https://www.buendnisgruenes-opr.de/home/
 ---
 type: REGIONAL_CHAPTER
 level: DE:KREISVERBAND
@@ -174,7 +174,7 @@ state: Brandenburg
 district: Potsdam
 urls:
   - type: WEBSITE
-    url: https://gruene-potsdam.de/
+    url: https://gruene-potsdam.de/home/
   - type: FACEBOOK
     url: https://www.facebook.com/gruenekvpotsdam/
   - type: INSTAGRAM
@@ -189,7 +189,7 @@ state: Brandenburg
 district: Prignitz
 urls:
   - type: WEBSITE
-    url: https://www.grueneprignitz.de/
+    url: https://www.grueneprignitz.de/aktuelles/
   - type: TWITTER
     url: https://twitter.com/grueneprignitz
 ---
@@ -200,7 +200,7 @@ state: Brandenburg
 district: Spree-Neisse
 urls:
   - type: WEBSITE
-    url: https://gruene-lausitz.org/spn/aktuelles/
+    url: https://gruene-lausitz.org/startseite/spn/aktuelles/
 ---
 type: REGIONAL_CHAPTER
 level: DE:KREISVERBAND
@@ -209,7 +209,7 @@ state: Brandenburg
 district: Teltow-Fläming
 urls:
   - type: WEBSITE
-    url: https://gruene-teltow-flaeming.de/
+    url: https://gruene-teltow-flaeming.de/startseite/
 ---
 type: REGIONAL_CHAPTER
 level: DE:KREISVERBAND
@@ -218,7 +218,7 @@ state: Brandenburg
 district: Uckermark
 urls:
   - type: WEBSITE
-    url: https://www.gruene-um.de/
+    url: https://www.gruene-um.de/aktuelles/
   - type: FACEBOOK
     url: https://www.facebook.com/B%C3%BCndnis-90-Die-Gr%C3%BCnen-Uckermark-247133728649040/
   - type: INSTAGRAM
@@ -243,7 +243,7 @@ country: DE
 state: Brandenburg
 urls:
   - type: WEBSITE
-    url: https://benjamin-raschke.de/
+    url: https://benjamin-raschke.de/startseite/
   - type: TWITTER
     url: https://twitter.com/ben_raschke
   - type: FACEBOOK
@@ -265,7 +265,7 @@ country: DE
 state: Brandenburg
 urls:
   - type: WEBSITE
-    url: https://petra-budke.de/
+    url: https://petra-budke.de/startseite/
   - type: TWITTER
     url: https://twitter.com/petrabudke
   - type: FACEBOOK
