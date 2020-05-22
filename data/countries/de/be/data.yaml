@@ -95,7 +95,7 @@ state: Berlin
 district: Marzahn-Hellersdorf
 urls:
   - type: WEBSITE
-    url: http://www.gruenemarzahnhellersdorf.de/
+    url: https://www.gruenemarzahnhellersdorf.de/
   - type: TWITTER
     url: https://twitter.com/gruenemahe
   - type: FACEBOOK
@@ -138,7 +138,7 @@ state: Berlin
 district: Pankow
 urls:
   - type: WEBSITE
-    url: https://gruene-pankow.de/
+    url: https://gruene-pankow.de/home/
   - type: INSTAGRAM
     url: https://www.instagram.com/gruenepankow/
   - type: TWITTER
