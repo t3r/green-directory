@@ -6,7 +6,7 @@ state: Mecklenburg-Vorpommern
 district: Landkreis Rostock
 urls:
   - type: WEBSITE
-    url: http://www.gruene-landkreis-rostock.de
+    url: https://gruene-landkreis-rostock.de/startseite/
   - type: FACEBOOK
     url: https://www.facebook.com/GrueneLRO/
 emails:

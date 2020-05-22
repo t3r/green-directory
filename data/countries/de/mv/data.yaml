@@ -9,7 +9,7 @@ country: DE
 state: Mecklenburg-Vorpommern
 urls:
   - type: WEBSITE
-    url: https://gruene-mv.de/
+    url: https://gruene-mv.de/start/
   - type: FACEBOOK
     url: https://www.facebook.com/gruenemv
   - type: TWITTER
@@ -44,7 +44,7 @@ state: Mecklenburg-Vorpommern
 district: Ludwigslust-Parchim
 urls:
   - type: WEBSITE
-    url: http://www.gruene-ludwigslust-parchim.de
+    url: https://gruene-ludwigslust-parchim.de/startseite/
   - type: FACEBOOK
     url: https://www.facebook.com/B%C3%BCndnis-90-Die-Gr%C3%BCnen-Ludwigslust-Parchim-211125665678181/
 emails:
@@ -57,7 +57,7 @@ state: Mecklenburg-Vorpommern
 district: Mecklenburgische Seenplatte
 urls:
   - type: WEBSITE
-    url: http://www.gruene-seenplatte.de
+    url: https://gruene-seenplatte.de/startseite/
   - type: FACEBOOK
     url: https://www.facebook.com/gruene.seenplatte/
   - type: INSTAGRAM
@@ -74,7 +74,7 @@ state: Mecklenburg-Vorpommern
 district: Rostock
 urls:
   - type: WEBSITE
-    url: https://gruene-rostock.de/
+    url: https://gruene-rostock.de/startseite/
   - type: TWITTER
     url: https://twitter.com/GrueneRostock
   - type: FACEBOOK
@@ -89,7 +89,7 @@ state: Mecklenburg-Vorpommern
 district: Nordwestmecklenburg
 urls:
   - type: WEBSITE
-    url: https://gruene-nordwestmecklenburg.de/
+    url: https://gruene-nordwestmecklenburg.de/startseite/
   - type: FACEBOOK
     url: https://www.facebook.com/Gruene.NWM.HWI
   - type: TWITTER
@@ -104,7 +104,7 @@ state: Mecklenburg-Vorpommern
 district: Schwerin
 urls:
   - type: WEBSITE
-    url: http://www.gruene-schwerin.de
+    url: https://www.grnsn.de/
   - type: FACEBOOK
     url: https://www.facebook.com/gruene.schwerin
   - type: INSTAGRAM
@@ -119,7 +119,7 @@ state: Mecklenburg-Vorpommern
 district: Vorpommern-Rügen
 urls:
   - type: WEBSITE
-    url: http://www.gruene-vorpommern-ruegen.de
+    url: https://gruene-vorpommern-ruegen.de/startseite/
   - type: FACEBOOK
     url: https://www.facebook.com/GrueneVR/
 emails:
@@ -132,7 +132,7 @@ state: Mecklenburg-Vorpommern
 district: Vorpommern-Greifswald
 urls:
   - type: WEBSITE
-    url: https://gruene-vorpommern-greifswald.de/
+    url: https://gruene-vorpommern-greifswald.de/startseite/
   - type: FACEBOOK
     url: https://www.facebook.com/gruenevg
   - type: INSTAGRAM
