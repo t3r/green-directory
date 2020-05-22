@@ -61,7 +61,7 @@ state: Bremen
 district: Mitte - Östliche Vorstadt
 urls:
   - type: WEBSITE
-    url: https://www.gruene-bremen-mitte.de/
+    url: https://www.gruene-bremen-mitte.de/startseite/
   - type: FACEBOOK
     url: https://www.facebook.com/gruenebremenmoev/
 emails:
@@ -74,7 +74,7 @@ state: Bremen
 district: Nord
 urls:
   - type: WEBSITE
-    url: http://www.gruene-bremen-nord.de/
+    url: https://gruene-bremen-nord.de/startseite/
 ---
 type: REGIONAL_CHAPTER
 level: DE:KREISVERBAND
@@ -83,7 +83,7 @@ state: Bremen
 district: Nordost
 urls:
   - type: WEBSITE
-    url: http://gruene-bremen-nordost.de/
+    url: https://gruene-bremen-nordost.de/home/
   - type: FACEBOOK
     url: https://www.facebook.com/gruenebremennordost
 ---
@@ -94,7 +94,7 @@ state: Bremen
 district: Ost
 urls:
   - type: WEBSITE
-    url: http://gruene-bremen-ost.de/
+    url: https://gruene-bremen-ost.de/startseite/
 emails:
   - address: kreisverband@gruene-bremen-ost.de
 ---
