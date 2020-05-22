@@ -24,6 +24,6 @@ district: Mansfeld-Südharz
 city: Eisleben
 urls:
   - type: WEBSITE
-    url: http://gruene-eisleben.de/
+    url: https://gruene-eisleben.de/
 emails:
   - address: kontakt@gruene-eisleben.de

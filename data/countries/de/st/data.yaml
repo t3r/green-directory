@@ -98,7 +98,7 @@ state: Sachsen-Anhalt
 district: Dessau-Roßlau
 urls:
   - type: WEBSITE
-    url: http://www.gruene-dessau.de/
+    url: https://www.gruene-dessau.de/
   - type: FACEBOOK
     url: https://www.facebook.com/Gr%C3%BCne-Dessau-Ro%C3%9Flau-868426873174817/
   - type: INSTAGRAM
@@ -113,7 +113,7 @@ state: Sachsen-Anhalt
 district: Halle (Saale)
 urls:
   - type: WEBSITE
-    url: http://www.gruene-in-halle.de/
+    url: https://www.gruene-in-halle.de/
   - type: FACEBOOK
     url: https://www.facebook.com/gruene.halle/
   - type: TWITTER
@@ -130,7 +130,7 @@ state: Sachsen-Anhalt
 district: Harz
 urls:
   - type: WEBSITE
-    url: http://www.gruene-harz.de/
+    url: https://gruene-harz.de/willkommen/
   - type: FACEBOOK
     url: https://www.facebook.com/GR%C3%9CNE-im-Harz-192125564141111/
   - type: INSTAGRAM
@@ -145,7 +145,7 @@ state: Sachsen-Anhalt
 district: Jerichower Land
 urls:
   - type: WEBSITE
-    url: http://gruene-jerichower-land.de/
+    url: https://gruene-jerichower-land.de/
   - type: FACEBOOK
     url: https://www.facebook.com/gruene.jerichower.land/
 ---
@@ -156,7 +156,7 @@ state: Sachsen-Anhalt
 district: Magdeburg
 urls:
   - type: WEBSITE
-    url: http://gruene-magdeburg.de/
+    url: https://gruene-magdeburg.de/start/
   - type: FACEBOOK
     url: https://www.facebook.com/gruene.md/
   - type: TWITTER
@@ -177,7 +177,7 @@ state: Sachsen-Anhalt
 district: Saalekreis
 urls:
   - type: WEBSITE
-    url: http://www.gruene-saalekreis.de/
+    url: https://www.gruene-saalekreis.de/
   - type: FACEBOOK
     url: https://www.facebook.com/Gr%C3%BCne_Saalekreis-183875094970068/
 emails:
@@ -220,6 +220,6 @@ emails:
   - address: info@gruene-wittenberg.de
 urls:
   - type: WEBSITE
-    url: http://www.gruene-wittenberg.de/
+    url: https://gruenewittenberg.de/
   - type: FACEBOOK
     url: https://www.facebook.com/B%C3%9CNDNIS-90-DIE-GR%C3%9CNEN-KV-Wittenberg-364740310775403/
