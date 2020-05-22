@@ -48,7 +48,7 @@ state: Hamburg
 district: Altona
 urls:
   - type: WEBSITE
-    url: https://gruene-altona.de/
+    url: https://www.gruene-altona.de/
   - type: FACEBOOK
     url: https://www.facebook.com/gruenealtona
   - type: TWITTER
@@ -65,7 +65,7 @@ state: Hamburg
 district: Bergedorf
 urls:
   - type: WEBSITE
-    url: https://www.gruene-bergedorf.de/
+    url: https://www.gruene-bergedorf.de/home/
   - type: FACEBOOK
     url: https://www.facebook.com/GrueneBergedorf/
   - type: INSTAGRAM
@@ -82,7 +82,7 @@ state: Hamburg
 district: Eimsbüttel
 urls:
   - type: WEBSITE
-    url: https://gruene-eimsbuettel.de/
+    url: https://gruene-eimsbuettel.de/home/
   - type: FACEBOOK
     url: https://www.facebook.com/eimsbuettelgruen
   - type: TWITTER
@@ -131,7 +131,7 @@ state: Hamburg
 district: Nord
 urls:
   - type: WEBSITE
-    url: http://www.gruene-nord.de/
+    url: https://gruene-nord.de/home/
   - type: FACEBOOK
     url: https://www.facebook.com/gruenenord
   - type: TWITTER
@@ -148,7 +148,7 @@ state: Hamburg
 district: Wandsbek
 urls:
   - type: WEBSITE
-    url: http://www.gruene-wandsbek.de/
+    url: https://www.gruene-wandsbek.de/
   - type: FACEBOOK
     url: https://www.facebook.com/gruenewandsbek
   - type: TWITTER
