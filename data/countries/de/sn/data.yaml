@@ -50,7 +50,7 @@ state: Sachsen
 type: REGIONAL_CHAPTER
 urls:
   - type: WEBSITE
-    url: http://www.gruene-bautzen.de
+    url: https://www.gruene-bautzen.de/startseite/
   - type: FACEBOOK
     url: https://www.facebook.com/grueneKVBZ/
   - type: INSTAGRAM
@@ -65,7 +65,7 @@ state: Sachsen
 type: REGIONAL_CHAPTER
 urls:
   - type: WEBSITE
-    url: https://gruene-chemnitz.de/
+    url: https://gruene-chemnitz.de/start/
   - type: FACEBOOK
     url: https://www.facebook.com/GrueneChemnitz/
   - type: INSTAGRAM
@@ -80,7 +80,7 @@ state: Sachsen
 type: REGIONAL_CHAPTER
 urls:
   - type: WEBSITE
-    url: https://gruenedresden.de/
+    url: https://gruenedresden.de/startseite/
   - type: TWITTER
     url: https://twitter.com/gruene_dresden
   - type: FACEBOOK
@@ -101,7 +101,7 @@ state: Sachsen
 type: REGIONAL_CHAPTER
 urls:
   - type: WEBSITE
-    url: http://www.gruene-erzgebirge.de
+    url: https://www.gruene-erzgebirge.de/startseite/
   - type: FACEBOOK
     url: http://www.facebook.de/erzgruen
   - type: TWITTER
@@ -120,7 +120,7 @@ state: Sachsen
 type: REGIONAL_CHAPTER
 urls:
   - type: WEBSITE
-    url: http://www.gruene-goerlitz.de
+    url: https://gruene-goerlitz.de/
   - type: FACEBOOK
     url: https://www.facebook.com/GrueneOstsachsen/
 emails:
@@ -133,7 +133,7 @@ state: Sachsen
 type: REGIONAL_CHAPTER
 urls:
   - type: WEBSITE
-    url: https://www.gruene-leipzig.de
+    url: https://www.gruene-leipzig.de/startseite/
   - type: INSTAGRAM
     url: https://www.instagram.com/grueneleipzig/
   - type: FACEBOOK
@@ -150,7 +150,7 @@ state: Sachsen
 type: REGIONAL_CHAPTER
 urls:
   - type: WEBSITE
-    url: http://www.gruene-landkreis-leipzig.de
+    url: https://www.gruene-landkreis-leipzig.de/startseite/
   - type: FACEBOOK
     url: https://www.facebook.com/grueneLandkreisLeipzig/
 emails:
@@ -163,7 +163,7 @@ state: Sachsen
 type: REGIONAL_CHAPTER
 urls:
   - type: WEBSITE
-    url: http://www.gruene-meissen.de
+    url: https://www.gruene-meissen.de/startseite/
   - type: FACEBOOK
     url: https://www.facebook.com/GrueneMeissen/
   - type: INSTAGRAM
@@ -178,7 +178,7 @@ state: Sachsen
 type: REGIONAL_CHAPTER
 urls:
   - type: WEBSITE
-    url: http://www.gruene-mittelsachsen.de
+    url: https://www.gruene-mittelsachsen.de/startseite/
   - type: FACEBOOK
     url: https://www.facebook.com/B%C3%BCndnis-90Die-Gr%C3%BCnen-Mittelsachsen-156839244392425/
   - type: INSTAGRAM
@@ -212,7 +212,7 @@ state: Sachsen
 type: REGIONAL_CHAPTER
 urls:
   - type: WEBSITE
-    url: http://www.gruene-elbe-weisseritz.de
+    url: https://www.gruene-elbe-weisseritz.de/startseite/
   - type: FACEBOOK
     url: https://www.facebook.com/Gruene.Elbe.Weisseritz
   - type: TWITTER
@@ -227,7 +227,7 @@ state: Sachsen
 type: REGIONAL_CHAPTER
 urls:
   - type: WEBSITE
-    url: http://www.gruene-vogtland.de
+    url: https://www.gruene-vogtland.de/startseite/
 emails:
   - address: info@gruene-vogtland.de
 ---
@@ -238,7 +238,7 @@ state: Sachsen
 type: REGIONAL_CHAPTER
 urls:
   - type: WEBSITE
-    url: http://www.gruene-zwickau.de
+    url: https://www.gruene-zwickau.de/startseite/
   - type: FACEBOOK
     url: https://www.facebook.com/pages/B%C3%BCndnis90Die-Gr%C3%BCnen-Kreis-Zwickau/220708441342885
   - type: TWITTER
