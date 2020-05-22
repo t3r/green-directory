@@ -6,7 +6,7 @@ state: Rheinland-Pfalz
 district: Bad Dürkheim
 urls:
   - type: WEBSITE
-    url: https://www.gruene-duew.de/
+    url: https://www.gruene-duew.de/startseite/
   - type: FACEBOOK
     url: https://www.facebook.com/grueneduew/
   - type: TWITTER
@@ -32,4 +32,4 @@ district: Bad Dürkheim
 city: Freinsheim
 urls:
   - type: WEBSITE
-    url: https://gruene-freinsheim.de/
+    url: https://gruene-freinsheim.de/startseite/

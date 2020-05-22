@@ -6,7 +6,7 @@ state: Rheinland-Pfalz
 district: Neuwied
 urls:
   - type: WEBSITE
-    url: https://gruene-neuwied.de/
+    url: https://gruene-neuwied.de/home/
   - type: FACEBOOK
     url: https://www.facebook.com/gruene.neuwied/
 emails:
@@ -20,4 +20,4 @@ district: Bad Kreuznach
 city: Neuwied
 urls:
   - type: WEBSITE
-    url: https://gruene-stadt-neuwied.de/
+    url: https://gruene-stadt-neuwied.de/home/

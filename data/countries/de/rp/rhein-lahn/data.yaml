@@ -6,7 +6,7 @@ state: Rheinland-Pfalz
 district: Rhein-Lahn
 urls:
   - type: WEBSITE
-    url: https://www.gruene-rhein-lahn.de/
+    url: https://www.gruene-rhein-lahn.de/home/
   - type: FACEBOOK
     url: https://www.facebook.com/GRUENE.RLK/
 emails:
@@ -20,7 +20,7 @@ district: Rhein-Lahn
 city: Bad Ems-Nassau
 urls:
   - type: WEBSITE
-    url: https://gruene-bad-ems.de/
+    url: https://gruene-bad-ems.de/aktuelles/
 ---
 type: REGIONAL_CHAPTER
 level: DE:ORTSVERBAND

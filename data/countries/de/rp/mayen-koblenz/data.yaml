@@ -6,7 +6,7 @@ state: Rheinland-Pfalz
 district: Mayen-Koblenz
 urls:
   - type: WEBSITE
-    url: https://www.gruene-myk.de/
+    url: https://www.gruene-myk.de/home/
   - type: FACEBOOK
     url: https://www.facebook.com/GrueneKVMYK/
   - type: INSTAGRAM
@@ -42,7 +42,7 @@ district: Mayen-Koblenz
 city: Andernach
 urls:
   - type: WEBSITE
-    url: https://www.gruene-andernach.de/
+    url: https://www.gruene-andernach.de/home/
 ---
 type: REGIONAL_CHAPTER
 level: DE:ORTSVERBAND

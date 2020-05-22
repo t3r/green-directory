@@ -20,7 +20,7 @@ district: Alzey-Worms
 city: Wörrstadt
 urls:
   - type: WEBSITE
-    url: https://gruene-vgwoerrstadt.de/
+    url: https://gruene-vgwoerrstadt.de/startseite/
   - type: FACEBOOK
     url: https://www.facebook.com/B%C3%BCndnis-90-Die-Gr%C3%BCnen-VG-W%C3%B6rrstadt-118547591563974/
 ---
@@ -32,7 +32,7 @@ district: Alzey-Worms
 city: Wöllstein
 urls:
   - type: WEBSITE
-    url: https://gruene-vg-woellstein.de/
+    url: https://gruene-vg-woellstein.de/home/
 ---
 type: REGIONAL_CHAPTER
 level: DE:ORTSVERBAND
@@ -62,6 +62,6 @@ district: Alzey-Worms
 city: Wonnegau
 urls:
   - type: WEBSITE
-    url: https://gruene-wonnegau.de/
+    url: https://gruene-wonnegau.de/startseite/
   - type: FACEBOOK
     url: https://www.facebook.com/gruene.wonnegau/

@@ -9,7 +9,7 @@ country: DE
 state: Rheinland-Pfalz
 urls:
   - type: WEBSITE
-    url: https://gruene-rlp.de/
+    url: https://gruene-rlp.de/startseite/
   - type: FACEBOOK
     url: https://www.facebook.com/gruenerlp/
   - type: TWITTER
@@ -48,7 +48,7 @@ state: Rheinland-Pfalz
 district: Altenkirchen
 urls:
   - type: WEBSITE
-    url: https://gruene-ak.de/
+    url: https://gruene-ak.de/home/
   - type: FACEBOOK
     url: https://www.facebook.com/GR%C3%9CNE-Altenkirchen-265142994208077/
 emails:
@@ -76,7 +76,7 @@ state: Rheinland-Pfalz
 district: Bitburg-Prüm
 urls:
   - type: WEBSITE
-    url: https://www.gruene-bitburg-pruem.de/
+    url: https://www.gruene-bitburg-pruem.de/startseite/
   - type: FACEBOOK
     url: https://www.facebook.com/B%C3%BCndnis-90-Die-Gr%C3%BCnen-Kreisverband-Bitburg-Pr%C3%BCm-495696547223250/
 emails:
@@ -119,7 +119,7 @@ state: Rheinland-Pfalz
 district: Frankenthal
 urls:
   - type: WEBSITE
-    url: https://gruene-frankenthal.de/
+    url: https://gruene-frankenthal.de/home/
   - type: FACEBOOK
     url: https://www.facebook.com/GrueneFT/
   - type: TWITTER
@@ -136,7 +136,7 @@ state: Rheinland-Pfalz
 district: Kaiserslautern
 urls:
   - type: WEBSITE
-    url: https://gruene-kl.de/
+    url: https://gruene-kl.de/home-aktuelles/
   - type: FACEBOOK
     url: https://www.facebook.com/gruene.kl/
   - type: TWITTER
@@ -153,7 +153,7 @@ state: Rheinland-Pfalz
 district: Koblenz
 urls:
   - type: WEBSITE
-    url: https://gruene-koblenz.de/
+    url: https://gruene-koblenz.de/home/
   - type: FACEBOOK
     url: https://www.facebook.com/gruene.kv.koblenz/
   - type: TWITTER
@@ -170,7 +170,7 @@ state: Rheinland-Pfalz
 district: Kusel
 urls:
   - type: WEBSITE
-    url: http://gruene-kusel.de/
+    url: https://gruene-kusel.de/willkommen/
   - type: FACEBOOK
     url: https://www.facebook.com/Gr%C3%BCne-Kusel-407630392667824/
   - type: TWITTER
@@ -204,7 +204,7 @@ state: Rheinland-Pfalz
 district: Ludwigshafen
 urls:
   - type: WEBSITE
-    url: https://www.gruene-lu.de/
+    url: https://www.gruene-lu.de/home/
   - type: FACEBOOK
     url: https://www.facebook.com/grueneludwigshafen/
   - type: TWITTER
@@ -238,7 +238,7 @@ state: Rheinland-Pfalz
 district: Neustadt an der Weinstraße
 urls:
   - type: WEBSITE
-    url: https://gruene-nw.de/
+    url: https://gruene-nw.de/home/
   - type: FACEBOOK
     url: https://www.facebook.com/GrueneNW/
   - type: TWITTER
@@ -253,7 +253,7 @@ state: Rheinland-Pfalz
 district: Pirmasens
 urls:
   - type: WEBSITE
-    url: https://gruene-pirmasens.de/
+    url: https://gruene-pirmasens.de/home/
 emails:
   - address: kv-pirmasens@gruene-rlp.de
 ---
@@ -264,7 +264,7 @@ state: Rheinland-Pfalz
 district: Südwestpfalz
 urls:
   - type: WEBSITE
-    url: https://gruene-suedwestpfalz.de/
+    url: https://gruene-suedwestpfalz.de/startseite/
   - type: FACEBOOK
     url: https://www.facebook.com/grueneswp/
 emails:
@@ -290,7 +290,7 @@ state: Rheinland-Pfalz
 district: Trier
 urls:
   - type: WEBSITE
-    url: https://uns-gruener-trier.de/
+    url: https://uns-gruener-trier.de/startseite/
   - type: FACEBOOK
     url: https://www.facebook.com/GrueneKVTrier/
   - type: TWITTER
@@ -333,7 +333,7 @@ state: Rheinland-Pfalz
 district: Westerwald
 urls:
   - type: WEBSITE
-    url: http://www.gruene-ww.de/
+    url: https://www.gruene-ww.de/
   - type: FACEBOOK
     url: https://www.facebook.com/gruenewesterwald/
   - type: TWITTER
@@ -350,7 +350,7 @@ state: Rheinland-Pfalz
 district: Worms
 urls:
   - type: WEBSITE
-    url: https://www.gruene-worms.de/
+    url: https://www.gruene-worms.de/start/
   - type: FACEBOOK
     url: https://www.facebook.com/B%C3%BCndnis-90Die-Gr%C3%BCnen-Worms-881940381832585/
   - type: TWITTER
@@ -367,7 +367,7 @@ state: Rheinland-Pfalz
 district: Zweibrücken
 urls:
   - type: WEBSITE
-    url: https://gruene-zweibruecken.de/
+    url: https://gruene-zweibruecken.de/startseite/
   - type: FACEBOOK
     url: https://www.facebook.com/gruenezw/
 emails:
@@ -420,7 +420,7 @@ country: DE
 state: Rheinland-Pfalz
 urls:
   - type: WEBSITE
-    url: https://blatzheim-roegler.de/
+    url: https://blatzheim-roegler.de/startseite/
   - type: FACEBOOK
     url: https://facebook.com/juttablatzheimroegler
   - type: WIKIDATA

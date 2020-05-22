@@ -6,7 +6,7 @@ state: Rheinland-Pfalz
 district: Rhein-Hunsrück
 urls:
   - type: WEBSITE
-    url: https://gruene-rh.de/
+    url: https://gruene-rh.de/home/
   - type: FACEBOOK
     url: https://www.facebook.com/B%C3%BCndnis-90Die-Gr%C3%BCnen-KV-Rhein-Hunsr%C3%BCck-180599695477992/
   - type: INSTAGRAM

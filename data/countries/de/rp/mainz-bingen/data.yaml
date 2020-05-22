@@ -6,7 +6,7 @@ state: Rheinland-Pfalz
 district: Mainz-Bingen
 urls:
   - type: WEBSITE
-    url: https://www.gruene-mainz-bingen.de/
+    url: https://www.gruene-mainz-bingen.de/home/
   - type: FACEBOOK
     url: https://www.facebook.com/gruenemzbi
 emails:
@@ -20,7 +20,7 @@ district: Mainz-Bingen
 city: Bingen
 urls:
   - type: WEBSITE
-    url: https://gruene-bingen.de/
+    url: https://gruene-bingen.de/startseite/
 ---
 type: REGIONAL_CHAPTER
 level: DE:ORTSVERBAND
@@ -50,7 +50,7 @@ district: Mainz-Bingen
 city: Gau-Algesheim
 urls:
   - type: WEBSITE
-    url: https://gruene-gau-algesheim.de/
+    url: https://gruene-gau-algesheim.de/startseite/
 ---
 type: REGIONAL_CHAPTER
 level: DE:ORTSVERBAND
@@ -60,7 +60,7 @@ district: Mainz-Bingen
 city: Heidesheim
 urls:
   - type: WEBSITE
-    url: https://www.gruene-in-der-vg-heidesheim.de/
+    url: https://www.gruene-in-der-vg-heidesheim.de/ortsverband-wackernheim/
 ---
 type: REGIONAL_CHAPTER
 level: DE:ORTSVERBAND
@@ -70,7 +70,7 @@ district: Mainz-Bingen
 city: Ingelheim
 urls:
   - type: WEBSITE
-    url: https://gruene-ingelheim.de/
+    url: https://gruene-ingelheim.de/home/
 ---
 type: REGIONAL_CHAPTER
 level: DE:ORTSVERBAND
@@ -80,4 +80,4 @@ district: Mainz-Bingen
 city: Rhein-Nahe
 urls:
   - type: WEBSITE
-    url: https://gruene-rhein-nahe.de/
+    url: https://gruene-rhein-nahe.de/startseite/

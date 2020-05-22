@@ -22,7 +22,7 @@ district: Südliche Weinstraße
 city: Annweiler
 urls:
   - type: WEBSITE
-    url: http://www.gruene-annweiler.de/
+    url: https://www.gruene-annweiler.de/
 ---
 type: REGIONAL_CHAPTER
 level: DE:ORTSVERBAND

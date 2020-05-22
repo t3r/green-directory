@@ -6,7 +6,7 @@ state: Rheinland-Pfalz
 district: Germersheim
 urls:
   - type: WEBSITE
-    url: https://gruene-ger.de/
+    url: https://gruene-ger.de/home/
   - type: FACEBOOK
     url: https://www.facebook.com/GrueneKVGermersheim/
   - type: TWITTER
@@ -22,7 +22,7 @@ district: Germersheim
 city: Kandel
 urls:
   - type: WEBSITE
-    url: https://www.gruene-kandel.de/
+    url: https://www.gruene-kandel.de/home/
 ---
 type: REGIONAL_CHAPTER
 level: DE:ORTSVERBAND
@@ -32,7 +32,7 @@ district: Germersheim
 city: Rülzheim
 urls:
   - type: WEBSITE
-    url: https://gruene-vg-ruelzheim.de/
+    url: https://gruene-vg-ruelzheim.de/startseite/
 ---
 type: REGIONAL_CHAPTER
 level: DE:ORTSVERBAND
@@ -42,4 +42,4 @@ district: Germersheim
 city: Wörth
 urls:
   - type: WEBSITE
-    url: https://www.gruene-woerth.de/
+    url: https://www.gruene-woerth.de/home/

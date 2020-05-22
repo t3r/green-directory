@@ -56,7 +56,7 @@ district: Rhein-Pfalz
 city: Dannstadter Höhe
 urls:
   - type: WEBSITE
-    url: https://gruene-dannstadter-hoehe.de/
+    url: https://gruene-dannstadter-hoehe.de/willkommen/
 ---
 type: REGIONAL_CHAPTER
 level: DE:ORTSVERBAND
@@ -78,7 +78,7 @@ district: Rhein-Pfalz
 city: Lambsheim
 urls:
   - type: WEBSITE
-    url: https://gruene-lambsheim.de/
+    url: https://gruene-lambsheim.de/startseite/
   - type: FACEBOOK
     url: https://www.facebook.com/GrueneLambsheim/
   - type: TWITTER
@@ -94,7 +94,7 @@ district: Rhein-Pfalz
 city: Limburgerhof
 urls:
   - type: WEBSITE
-    url: https://gruene-limburgerhof.de/
+    url: https://gruene-limburgerhof.de/startseite/
 ---
 type: REGIONAL_CHAPTER
 level: DE:ORTSVERBAND
@@ -104,7 +104,7 @@ district: Rhein-Pfalz
 city: Maxdorf
 urls:
   - type: WEBSITE
-    url: https://gruenemaxdorf.de/
+    url: https://gruenemaxdorf.de/startseite/
   - type: FACEBOOK
     url: https://www.facebook.com/GRUENEOVMaxdorf/
   - type: TWITTER
@@ -140,4 +140,4 @@ district: Rhein-Pfalz
 city: Schifferstadt
 urls:
   - type: WEBSITE
-    url: https://gruene-schifferstadt.de/
+    url: https://gruene-schifferstadt.de/startseite/

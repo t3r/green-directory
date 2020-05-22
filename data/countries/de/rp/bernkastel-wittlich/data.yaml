@@ -6,7 +6,7 @@ state: Rheinland-Pfalz
 district: Bernkastel-Wittlich
 urls:
   - type: WEBSITE
-    url: https://gruene-bernkastel-wittlich.de/
+    url: https://gruene-bernkastel-wittlich.de/startseite/
 emails:
   - address: kv-bernkastel-wittlich@gruene-rlp.de
 ---
@@ -18,6 +18,6 @@ district: Bernkastel-Wittlich
 city: Wittlich
 urls:
   - type: WEBSITE
-    url: http://www.gruene-wittlich.de
+    url: https://gruene-wittlich.de/aktuelles/
   - type: FACEBOOK
     url: https://www.facebook.com/GrueneWittlich/
