@@ -6,7 +6,7 @@ state: Bayern
 district: Erlangen-Land
 urls:
   - type: WEBSITE
-    url: https://www.gruene-erlangen-land.de/
+    url: https://www.gruene-erlangen-land.de/home/
   - type: FACEBOOK
     url: https://www.facebook.com/DieGruenenERH
 ---

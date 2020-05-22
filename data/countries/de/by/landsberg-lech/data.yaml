@@ -18,7 +18,7 @@ district: Landsberg am Lech
 city: Landsberg
 urls:
   - type: WEBSITE
-    url: http://www.gruene-landsberg.de/
+    url: https://www.gruene-landsberg.org
 ---
 type: REGIONAL_CHAPTER
 level: DE:ORTSVERBAND
@@ -70,4 +70,4 @@ district: Landsberg am Lech
 city: Utting
 urls:
   - type: WEBSITE
-    url: https://www.gal-utting.de/
+    url: https://gal-utting.de/

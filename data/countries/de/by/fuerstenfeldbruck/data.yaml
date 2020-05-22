@@ -22,7 +22,7 @@ district: Fürstenfeldbruck
 city: Fürstenfeldbruck
 urls:
   - type: WEBSITE
-    url: http://gruene-ffb.de/
+    url: https://gruene-ffb.de/
 ---
 city: Gröbenzell
 country: DE
@@ -32,7 +32,7 @@ state: Bayern
 type: REGIONAL_CHAPTER
 urls:
   - type: WEBSITE
-    url: https://www.gruene-groebenzell.de/
+    url: https://www.gruene-groebenzell.de/home/
 ---
 city: Olching
 country: DE
@@ -52,7 +52,7 @@ state: Bayern
 type: REGIONAL_CHAPTER
 urls:
   - type: WEBSITE
-    url: http://gruene-eichenau.de/
+    url: https://www.gruene-eichenau.de/
 ---
 city: Germering
 country: DE
@@ -62,7 +62,7 @@ state: Bayern
 type: REGIONAL_CHAPTER
 urls:
   - type: WEBSITE
-    url: https://www.gruene-germering.de/
+    url: https://www.gruene-germering.de/home/
 ---
 city: Grafrath
 country: DE
@@ -82,7 +82,7 @@ state: Bayern
 type: REGIONAL_CHAPTER
 urls:
   - type: WEBSITE
-    url: https://www.gruene-maisach.de/
+    url: https://xn--grne-maisach-elb.de/
 ---
 city: Puchheim
 country: DE
@@ -92,4 +92,4 @@ state: Bayern
 type: REGIONAL_CHAPTER
 urls:
   - type: WEBSITE
-    url: https://www.gruene-puchheim.de/
+    url: https://www.gruene-puchheim.de/home/

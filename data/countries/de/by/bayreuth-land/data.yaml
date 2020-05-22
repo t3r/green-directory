@@ -6,7 +6,7 @@ state: Bayern
 district: Bayreuth-Land
 urls:
   - type: WEBSITE
-    url: https://gruene-bayreuth-land.de/
+    url: https://gruene-bayreuth-land.de/startseite/
   - type: FACEBOOK
     url: https://www.facebook.com/GrueneBayreuthLand
 ---

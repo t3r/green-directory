@@ -6,7 +6,7 @@ state: Bayern
 district: Rosenheim
 urls:
   - type: WEBSITE
-    url: https://www.gruene-rosenheim.de/
+    url: https://www.gruene-rosenheim.de/aktuell/
   - type: TWITTER
     url: https://twitter.com/RosenheimGruene
   - type: FACEBOOK

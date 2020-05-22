@@ -18,7 +18,7 @@ state: Bayern
 type: REGIONAL_CHAPTER
 urls:
   - type: WEBSITE
-    url: https://gruene-ml.de/wordpress/aying/
+    url: https://gruene-ml.de/aying/
 ---
 city: Baierbrunn
 country: DE
@@ -28,7 +28,7 @@ state: Bayern
 type: REGIONAL_CHAPTER
 urls:
   - type: WEBSITE
-    url: https://gruene-ml.de/wordpress/baierbrunn/
+    url: https://gruene-baierbrunn.de/
 ---
 city: Garching
 country: DE
@@ -38,7 +38,7 @@ state: Bayern
 type: REGIONAL_CHAPTER
 urls:
   - type: WEBSITE
-    url: https://gruene-ml.de/wordpress/garching/
+    url: https://gruene-garching.de/
 ---
 city: Gräfelfing
 country: DE
@@ -48,7 +48,7 @@ state: Bayern
 type: REGIONAL_CHAPTER
 urls:
   - type: WEBSITE
-    url: https://gruene-ml.de/wordpress/graefelfing/
+    url: https://gruene-graefelfing.de/
 ---
 city: Höhenkirchen-Siegertsbrunn
 country: DE
@@ -58,7 +58,7 @@ state: Bayern
 type: REGIONAL_CHAPTER
 urls:
   - type: WEBSITE
-    url: https://gruene-ml.de/wordpress/hoehenkirchen/
+    url: https://gruene-hoehenkirchen.de/
 ---
 city: Ismaning
 country: DE
@@ -78,7 +78,7 @@ state: Bayern
 type: REGIONAL_CHAPTER
 urls:
   - type: WEBSITE
-    url: https://gruene-ml.de/wordpress/kirchheim/
+    url: https://gruene-ml.de/kirchheim/
 ---
 city: Neubiberg
 country: DE
@@ -88,7 +88,7 @@ state: Bayern
 type: REGIONAL_CHAPTER
 urls:
   - type: WEBSITE
-    url: https://gruene-ml.de/wordpress/neubiberg/
+    url: https://gruene-neubiberg.de/
 ---
 city: Oberhaching
 country: DE
@@ -105,7 +105,7 @@ state: Bayern
 type: REGIONAL_CHAPTER
 urls:
   - type: WEBSITE
-    url: https://gruene-ml.de/wordpress/oberschleissheim/
+    url: https://gruene-oberschleissheim.de/
 ---
 city: Ottobrunn
 country: DE
@@ -115,7 +115,7 @@ state: Bayern
 type: REGIONAL_CHAPTER
 urls:
   - type: WEBSITE
-    url: https://gruene-ml.de/wordpress/ottobrunn/
+    url: https://gruene-ottobrunn.de/
   - type: FACEBOOK
     url: https://www.facebook.com/GrueneOttobrunn/
 ---
@@ -127,7 +127,7 @@ state: Bayern
 type: REGIONAL_CHAPTER
 urls:
   - type: WEBSITE
-    url: http://pullach-gruene.de/
+    url: https://pullach-gruene.de/
 ---
 city: Putzbrunn
 country: DE
@@ -137,7 +137,7 @@ state: Bayern
 type: REGIONAL_CHAPTER
 urls:
   - type: WEBSITE
-    url: https://gruene-ml.de/wordpress/putzbrunn/
+    url: https://gruene-putzbrunn.de/
 ---
 city: Sauerlach
 country: DE
@@ -147,7 +147,7 @@ state: Bayern
 type: REGIONAL_CHAPTER
 urls:
   - type: WEBSITE
-    url: https://gruene-ml.de/wordpress/sauerlach/
+    url: https://gruene-sauerlach.de/
 ---
 city: Schäftlarn
 country: DE
@@ -157,7 +157,7 @@ state: Bayern
 type: REGIONAL_CHAPTER
 urls:
   - type: WEBSITE
-    url: https://gruene-ml.de/wordpress/schaeftlarn/
+    url: https://gruene-schaeftlarn.de/
 ---
 city: Taufkirchen
 country: DE
@@ -167,7 +167,7 @@ state: Bayern
 type: REGIONAL_CHAPTER
 urls:
   - type: WEBSITE
-    url: http://gruene-taufkirchen.de/
+    url: https://gruene-taufkirchen.de/
 ---
 city: Unterhaching
 country: DE
@@ -177,7 +177,7 @@ state: Bayern
 type: REGIONAL_CHAPTER
 urls:
   - type: WEBSITE
-    url: https://gruene-ml.de/wordpress/unterhaching/
+    url: https://gruene-unterhaching.de/
 ---
 city: Unterschleißheim
 country: DE
@@ -201,7 +201,7 @@ state: Bayern
 type: REGIONAL_CHAPTER
 urls:
   - type: WEBSITE
-    url: https://gruene-ml.de/wordpress/haar/
+    url: https://gruene-haar.de/
 ---
 city: Neuried
 country: DE
@@ -211,7 +211,7 @@ state: Bayern
 type: REGIONAL_CHAPTER
 urls:
   - type: WEBSITE
-    url: https://gruene-ml.de/wordpress/neuried/
+    url: https://gruene-neuried.de/
 ---
 city: Unterföhring
 country: DE
@@ -221,7 +221,7 @@ state: Bayern
 type: REGIONAL_CHAPTER
 urls:
   - type: WEBSITE
-    url: https://gruene-ml.de/wordpress/unterfoehring/
+    url: https://gruene-unterfoehring.de/
 ---
 city: Hohenbrunn
 country: DE
@@ -241,7 +241,7 @@ state: Bayern
 type: REGIONAL_CHAPTER
 urls:
   - type: WEBSITE
-    url: http://gruene-brunnthal.de/
+    url: https://gruene-brunnthal.de/
 ---
 city: Feldkirchen
 country: DE
@@ -251,7 +251,7 @@ state: Bayern
 type: REGIONAL_CHAPTER
 urls:
   - type: WEBSITE
-    url: https://gruene-ml.de/wordpress/feldkirchen/
+    url: https://gruene-feldkirchen.de/
 ---
 city: Grasbrunn
 country: DE
@@ -261,7 +261,7 @@ state: Bayern
 type: REGIONAL_CHAPTER
 urls:
   - type: WEBSITE
-    url: https://gruene-ml.de/wordpress/grasbrunn/
+    url: https://gruene-grasbrunn.de/
 ---
 city: Grünwald
 country: DE
@@ -271,7 +271,7 @@ state: Bayern
 type: REGIONAL_CHAPTER
 urls:
   - type: WEBSITE
-    url: https://gruene-ml.de/wordpress/gruenwald/
+    url: https://gruene-gruenwald.de/
 ---
 city: Planegg/Martinsried
 country: DE
@@ -281,7 +281,7 @@ state: Bayern
 type: REGIONAL_CHAPTER
 urls:
   - type: WEBSITE
-    url: https://gruene-ml.de/wordpress/planegg/
+    url: https://gruene-planegg.de/
 ---
 city: Straßlach
 country: DE
@@ -291,4 +291,4 @@ state: Bayern
 type: REGIONAL_CHAPTER
 urls:
   - type: WEBSITE
-    url: https://gruene-ml.de/wordpress/strasslach/
+    url: https://gruene-strasslach.de/

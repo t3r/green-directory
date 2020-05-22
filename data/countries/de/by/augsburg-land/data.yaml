@@ -6,7 +6,7 @@ state: Bayern
 district: Augsburg-Land
 urls:
   - type: WEBSITE
-    url: https://gruene-augsburgland.de/
+    url: https://gruene-augsburgland.de/home/
   - type: TWITTER
     url: https://twitter.com/GrueneAugsLand
   - type: FACEBOOK
@@ -20,7 +20,7 @@ state: Bayern
 type: REGIONAL_CHAPTER
 urls:
   - type: WEBSITE
-    url: https://gruene-gersthofen.de/
+    url: https://gruene-gersthofen.de/startseite/
 ---
 city: Königsbrunn
 country: DE
@@ -30,7 +30,7 @@ state: Bayern
 type: REGIONAL_CHAPTER
 urls:
   - type: WEBSITE
-    url: https://gruene-koenigsbrunn.de/
+    url: https://gruene-koenigsbrunn.de/startseite/
 ---
 city: Diedorf
 country: DE
@@ -40,7 +40,7 @@ state: Bayern
 type: REGIONAL_CHAPTER
 urls:
   - type: WEBSITE
-    url: https://gruene-diedorf.de/
+    url: https://gruene-diedorf.de/startseite/
 ---
 city: Neusäß
 country: DE
@@ -50,7 +50,7 @@ state: Bayern
 type: REGIONAL_CHAPTER
 urls:
   - type: WEBSITE
-    url: https://www.gruene-neusaess.de/
+    url: https://www.gruene-neusaess.de/home/
 ---
 city: Stauden
 country: DE
@@ -60,7 +60,7 @@ state: Bayern
 type: REGIONAL_CHAPTER
 urls:
   - type: WEBSITE
-    url: https://gruene-stauden.de/
+    url: https://www.gruene-fischach.de/
 ---
 city: Bobingen
 country: DE
@@ -70,7 +70,7 @@ state: Bayern
 type: REGIONAL_CHAPTER
 urls:
   - type: WEBSITE
-    url: https://gruene-bobingen.de/
+    url: https://gruene-bobingen.de/startseite/
 ---
 city: Stadtbergen
 country: DE
@@ -80,7 +80,7 @@ state: Bayern
 type: REGIONAL_CHAPTER
 urls:
   - type: WEBSITE
-    url: https://gruenestadtbergen.de/
+    url: https://gruenestadtbergen.de/startseite/
 ---
 city: Bonstetten
 country: DE
@@ -100,7 +100,7 @@ state: Bayern
 type: REGIONAL_CHAPTER
 urls:
   - type: WEBSITE
-    url: https://gruene-lechfeld.de/
+    url: https://gruene-lechfeld.de/start/
 ---
 city: Meitingen
 country: DE
@@ -110,4 +110,4 @@ state: Bayern
 type: REGIONAL_CHAPTER
 urls:
   - type: WEBSITE
-    url: https://gruene-meitingen.de/
+    url: https://gruene-meitingen.de/startseite/

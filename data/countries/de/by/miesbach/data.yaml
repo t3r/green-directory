@@ -6,6 +6,6 @@ state: Bayern
 district: Miesbach
 urls:
   - type: WEBSITE
-    url: https://gruene-miesbach.de/
+    url: https://www.gruenemiesbach.de/
   - type: FACEBOOK
     url: https://www.facebook.com/gruenemiesbach

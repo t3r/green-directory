@@ -6,7 +6,7 @@ state: Bayern
 district: Weißenburg-Gunzenhausen
 urls:
   - type: WEBSITE
-    url: https://gruene-weissenburg.de/
+    url: https://gruene-weissenburg.de/home/
   - type: FACEBOOK
     url: https://www.facebook.com/gruene.weissenburg/
 ---

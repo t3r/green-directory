@@ -53,7 +53,7 @@ state: Bayern
 district: Würzburg-Stadt
 urls:
   - type: WEBSITE
-    url: https://gruene-wuerzburg.de/
+    url: https://gruene-wuerzburg.de/cms/
   - type: FACEBOOK
     url: https://www.facebook.com/gruene.wuerzburg/
   - type: TWITTER

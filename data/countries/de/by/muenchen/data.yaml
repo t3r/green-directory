@@ -32,7 +32,7 @@ state: Bayern
 type: REGIONAL_CHAPTER
 urls:
   - type: WEBSITE
-    url: http://www.gruene-muenchen-giesing.de/
+    url: https://www.gruene-muenchen.de/partei/ortsverbaende/giesing-harlaching/
 ---
 city: Haidhausen
 country: DE
@@ -42,7 +42,7 @@ state: Bayern
 type: REGIONAL_CHAPTER
 urls:
   - type: WEBSITE
-    url: http://www.gruene-muenchen-au-haidhausen.de/
+    url: https://www.gruene-muenchen.de/partei/ortsverbaende/au-haidhausen/
 ---
 city: München-Nord
 country: DE
@@ -52,7 +52,7 @@ state: Bayern
 type: REGIONAL_CHAPTER
 urls:
   - type: WEBSITE
-    url: http://www.gruene-muenchen-nord.de/
+    url: https://www.gruene-muenchen.de/partei/ortsverbaende/nord/
 ---
 city: Pasing-Obermenzing-Aubing
 country: DE
@@ -62,7 +62,7 @@ state: Bayern
 type: REGIONAL_CHAPTER
 urls:
   - type: WEBSITE
-    url: http://www.gruene-muenchen-pasing.de/
+    url: https://www.gruene-muenchen.de/partei/ortsverbaende/pasing-aubing/
 ---
 city: Ramersdorf-Perlach
 country: DE
@@ -72,7 +72,7 @@ state: Bayern
 type: REGIONAL_CHAPTER
 urls:
   - type: WEBSITE
-    url: http://www.gruene-muenchen-perlach.de/
+    url: https://www.gruene-muenchen.de/partei/ortsverbaende/ramersdorfperlach/
 ---
 city: Schwabing
 country: DE
@@ -82,7 +82,7 @@ state: Bayern
 type: REGIONAL_CHAPTER
 urls:
   - type: WEBSITE
-    url: http://www.gruene-schwabing.de/
+    url: https://www.gruene-muenchen.de/partei/ortsverbaende/schwabing/
 ---
 city: Sendling
 country: DE
@@ -92,7 +92,7 @@ state: Bayern
 type: REGIONAL_CHAPTER
 urls:
   - type: WEBSITE
-    url: http://www.gruene-muenchen-sendling.de/
+    url: https://www.gruene-muenchen.de/partei/ortsverbaende/sendling/
   - type: FACEBOOK
     url: https://www.facebook.com/gruene.sendling.westpark/
 ---
@@ -104,7 +104,7 @@ state: Bayern
 type: REGIONAL_CHAPTER
 urls:
   - type: WEBSITE
-    url: http://www.gruene-muenchen-stoff.de/
+    url: https://www.gruene-muenchen.de/partei/ortsverbaende/stoff/
 ---
 city: Westend/Laim
 country: DE
@@ -114,7 +114,7 @@ state: Bayern
 type: REGIONAL_CHAPTER
 urls:
   - type: WEBSITE
-    url: http://www.gruene-muenchen-westend.de/
+    url: https://www.gruene-muenchen.de/partei/ortsverbaende/westend-laim/
 ---
 city: Zentral
 country: DE
@@ -124,4 +124,4 @@ state: Bayern
 type: REGIONAL_CHAPTER
 urls:
   - type: WEBSITE
-    url: http://www.gruene-muenchen-zentral.de/
+    url: https://www.gruene-muenchen.de/partei/ortsverbaende/zentral/

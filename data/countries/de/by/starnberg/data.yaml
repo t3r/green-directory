@@ -6,7 +6,7 @@ state: Bayern
 district: Starnberg
 urls:
   - type: WEBSITE
-    url: https://gruene-starnberg.de/
+    url: https://gruene-starnberg.de/home/
   - type: FACEBOOK
     url: https://www.facebook.com/Gr%C3%BCne-Kreisverband-Starnberg-152190608236782/
   - type: INSTAGRAM

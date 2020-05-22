@@ -6,7 +6,7 @@ state: Bayern
 district: Weilheim-Schongau
 urls:
   - type: WEBSITE
-    url: https://www.gruene-weilheim.de/
+    url: https://gruene-weilheim.de/startseite/
   - type: TWITTER
     url: https://twitter.com/GWeilheim
   - type: FACEBOOK
@@ -20,6 +20,6 @@ state: Bayern
 type: REGIONAL_CHAPTER
 urls:
   - type: WEBSITE
-    url: https://gruene-penzberg.de/
+    url: https://gruene-weilheim.de/gruene-vor-ort/ortsverband-penzberg/
   - type: FACEBOOK
     url: https://www.facebook.com/gruenepenzberg

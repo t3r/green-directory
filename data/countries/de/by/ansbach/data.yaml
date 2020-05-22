@@ -22,7 +22,7 @@ state: Bayern
 type: REGIONAL_CHAPTER
 urls:
   - type: WEBSITE
-    url: http://www.gruene-dinkelsbuehl.de
+    url: https://www.gruene-ansbach.de/vor-ort/dinkelsbuehl/
 ---
 city: Heilsbronn
 country: DE
@@ -46,4 +46,4 @@ state: Bayern
 type: REGIONAL_CHAPTER
 urls:
   - type: WEBSITE
-    url: http://www.gruene-feuchtwangen.de
+    url: https://wirfuerfeuchtwangen.de/

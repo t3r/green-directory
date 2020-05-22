@@ -6,7 +6,7 @@ state: Bayern
 district: Bad Tölz/Wolfratshausen
 urls:
   - type: WEBSITE
-    url: https://gruene-toelz-wor.de/
+    url: https://gruene-toelz-wor.de/home/
   - type: INSTAGRAM
     url: https://www.instagram.com/gruenetoelz/
 ---
@@ -18,7 +18,7 @@ state: Bayern
 type: REGIONAL_CHAPTER
 urls:
   - type: WEBSITE
-    url: https://gruene-toelz-wor.de/gruene-vor-ort/bad-heilbrunn/
+    url: https://gruene-toelz-wor.de/home/gruene-vor-ort/bad-heilbrunn/
 ---
 city: Geretsried
 country: DE
@@ -28,7 +28,7 @@ state: Bayern
 type: REGIONAL_CHAPTER
 urls:
   - type: WEBSITE
-    url: https://gruene-toelz-wor.de/gruene-vor-ort/geretsried/
+    url: https://gruene-toelz-wor.de/home/gruene-vor-ort/geretsried/
 ---
 city: Wolfratshausen
 country: DE
@@ -38,7 +38,7 @@ state: Bayern
 type: REGIONAL_CHAPTER
 urls:
   - type: WEBSITE
-    url: https://gruene-toelz-wor.de/gruene-vor-ort/wolfratshausen/
+    url: https://gruene-toelz-wor.de/home/gruene-vor-ort/wolfratshausen/
 ---
 city: Eurasburg
 country: DE
@@ -48,7 +48,7 @@ state: Bayern
 type: REGIONAL_CHAPTER
 urls:
   - type: WEBSITE
-    url: https://gruene-toelz-wor.de/gruene-vor-ort/eurasburg/
+    url: https://gruene-toelz-wor.de/home/gruene-vor-ort/eurasburg/
 ---
 city: Bad Tölz
 country: DE
@@ -58,7 +58,7 @@ state: Bayern
 type: REGIONAL_CHAPTER
 urls:
   - type: WEBSITE
-    url: https://gruene-toelz-wor.de/gruene-vor-ort/bad-toelz/
+    url: https://gruene-toelz-wor.de/home/gruene-vor-ort/bad-toelz/
 ---
 city: Dietramszell
 country: DE
@@ -68,4 +68,4 @@ state: Bayern
 type: REGIONAL_CHAPTER
 urls:
   - type: WEBSITE
-    url: https://gruene-toelz-wor.de/gruene-vor-ort/dietramszell/
+    url: https://gruene-toelz-wor.de/home/gruene-vor-ort/dietramszell/

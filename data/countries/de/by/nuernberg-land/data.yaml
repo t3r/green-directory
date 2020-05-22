@@ -6,7 +6,7 @@ state: Bayern
 district: Nürnberger Land
 urls:
   - type: WEBSITE
-    url: https://gruene-nuernberger-land.de/
+    url: https://gruene-nuernberger-land.de/startseite/
 ---
 city: Altdorf
 country: DE
@@ -16,7 +16,7 @@ state: Bayern
 type: REGIONAL_CHAPTER
 urls:
   - type: WEBSITE
-    url: https://gruene-nuernberger-land.de/ortsverbaende/ov-altdorf/
+    url: https://gruene-nuernberger-land.de/startseite/ortsverbaende/ov-altdorf/
 ---
 city: Burgthann
 country: DE
@@ -26,7 +26,7 @@ state: Bayern
 type: REGIONAL_CHAPTER
 urls:
   - type: WEBSITE
-    url: https://gruene-nuernberger-land.de/ortsverbaende/ov-burgthann/
+    url: https://gruene-nuernberger-land.de/startseite/ortsverbaende/ov-burgthann/
 ---
 city: Feucht
 country: DE
@@ -36,7 +36,7 @@ state: Bayern
 type: REGIONAL_CHAPTER
 urls:
   - type: WEBSITE
-    url: https://gruene-nuernberger-land.de/ortsverbaende/ov-feucht/
+    url: https://gruene-nuernberger-land.de/startseite/ortsverbaende/ov-feucht/
 ---
 city: Hersbrucker Land
 country: DE
@@ -46,7 +46,7 @@ state: Bayern
 type: REGIONAL_CHAPTER
 urls:
   - type: WEBSITE
-    url: https://gruene-nuernberger-land.de/ortsverbaende/ov-hersbruck/
+    url: https://gruene-nuernberger-land.de/startseite/ortsverbaende/ov-hersbruck/
 ---
 city: Lauf
 country: DE
@@ -56,7 +56,7 @@ state: Bayern
 type: REGIONAL_CHAPTER
 urls:
   - type: WEBSITE
-    url: https://gruene-nuernberger-land.de/ortsverbaende/ov-lauf-an-der-pegnitz/
+    url: https://gruene-nuernberger-land.de/startseite/ortsverbaende/ov-lauf-an-der-pegnitz/
 ---
 city: Schwarzenbruck
 country: DE
@@ -66,7 +66,7 @@ state: Bayern
 type: REGIONAL_CHAPTER
 urls:
   - type: WEBSITE
-    url: https://gruene-nuernberger-land.de/ortsverbaende/ov-schwarzenbruck/
+    url: https://gruene-nuernberger-land.de/startseite/ortsverbaende/ov-schwarzenbruck/
 ---
 city: Winkelhaid
 country: DE
@@ -76,7 +76,7 @@ state: Bayern
 type: REGIONAL_CHAPTER
 urls:
   - type: WEBSITE
-    url: https://gruene-nuernberger-land.de/ortsverbaende/ov-winkelhaid/
+    url: https://gruene-nuernberger-land.de/startseite/ortsverbaende/ov-winkelhaid/
 ---
 city: Röthenbach
 country: DE
@@ -86,4 +86,4 @@ state: Bayern
 type: REGIONAL_CHAPTER
 urls:
   - type: WEBSITE
-    url: https://gruene-nuernberger-land.de/ortsverbaende/ov-roethenbachpegnitz/
+    url: https://gruene-nuernberger-land.de/startseite/ortsverbaende/ov-roethenbachpegnitz/

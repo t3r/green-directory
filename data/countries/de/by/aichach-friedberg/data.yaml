@@ -6,7 +6,7 @@ state: Bayern
 district: Aichach-Friedberg
 urls:
   - type: WEBSITE
-    url: https://gruene-aichach-friedberg.de/
+    url: https://gruene-aichach-friedberg.de/startseite/
   - type: FACEBOOK
     url: https://www.facebook.com/GrueneAichachFriedberg/
 ---
@@ -18,4 +18,4 @@ district: Aichach-Friedberg
 city: Kissing
 urls:
   - type: WEBSITE
-    url: https://gruene-kissing.de/
+    url: http://gruene-kissing.de/

@@ -5,7 +5,7 @@ country: DE
 state: Bayern
 urls:
   - type: WEBSITE
-    url: https://gruene-bayern.de/
+    url: https://www.gruene-bayern.de/
   - type: FACEBOOK
     url: https://www.facebook.com/gruenebayern
   - type: TWITTER
@@ -23,7 +23,7 @@ country: DE
 state: Bayern
 urls:
   - type: WEBSITE
-    url: https://gj-bayern.de/
+    url: https://www.gj-bayern.de/
   - type: FACEBOOK
     url: https://www.facebook.com/gruenejugendbayern/
   - type: TWITTER
@@ -46,7 +46,7 @@ state: Bayern
 region: Unterfranken
 urls:
   - type: WEBSITE
-    url: https://gruene-unterfranken.de/
+    url: https://gruene-unterfranken.de/startseite/
 ---
 type: REGIONAL_CHAPTER
 level: DE:BEZIRKSVERBAND
@@ -55,7 +55,7 @@ state: Bayern
 region: Oberfranken
 urls:
   - type: WEBSITE
-    url: https://gruene-oberfranken.de/
+    url: https://gruene-oberfranken.de/startseite/
   - type: FACEBOOK
     url: https://www.facebook.com/grueneoberfranken/
   - type: INSTAGRAM
@@ -68,7 +68,7 @@ state: Bayern
 region: Mittelfranken
 urls:
   - type: WEBSITE
-    url: https://gruene-mittelfranken.de/
+    url: https://gruene-mittelfranken.de/startseite/
   - type: FACEBOOK
     url: https://www.facebook.com/gruenemittelfranken/
 ---
@@ -79,7 +79,7 @@ state: Bayern
 region: Oberpfalz
 urls:
   - type: WEBSITE
-    url: http://gruene-oberpfalz.de/
+    url: https://gruene-oberpfalz.de/
 ---
 type: REGIONAL_CHAPTER
 level: DE:BEZIRKSVERBAND
@@ -88,7 +88,7 @@ state: Bayern
 region: Niederbayern
 urls:
   - type: WEBSITE
-    url: https://gruene-niederbayern.de/
+    url: https://gruene-niederbayern.de/aktuelles/
   - type: FACEBOOK
     url: https://www.facebook.com/GrueneNiederbayern
 ---
@@ -99,7 +99,7 @@ state: Bayern
 region: Schwaben
 urls:
   - type: WEBSITE
-    url: https://gruene-schwaben.de/
+    url: https://gruene-schwaben.de/startseite/nachrichten/
   - type: FACEBOOK
     url: https://www.facebook.com/grueneschwaben/
 ---
@@ -130,7 +130,7 @@ state: Bayern
 district: Amberg-Stadt
 urls:
   - type: WEBSITE
-    url: https://gruene-amberg.de/
+    url: https://gruene-amberg.de/startseite/
   - type: FACEBOOK
     url: https://www.facebook.com/Gr%C3%BCne-Amberg-1422646964642679/
 ---
@@ -141,7 +141,7 @@ state: Bayern
 district: Amberg-Sulzbach
 urls:
   - type: WEBSITE
-    url: https://gruene-amberg-sulzbach.de/
+    url: https://gruene-amberg-sulzbach.de/personen/
   - type: FACEBOOK
     url: https://www.facebook.com/Gruene.LKAS/
 ---
@@ -152,7 +152,7 @@ state: Bayern
 district: Aschaffenburg-Stadt
 urls:
   - type: WEBSITE
-    url: https://gruene-ab.de/
+    url: https://gruene-ab.de/die-gruenen-aschaffenburg/
   - type: FACEBOOK
     url: https://www.facebook.com/Die.Gruenen.Aschaffenburg
   - type: INSTAGRAM
@@ -167,7 +167,7 @@ state: Bayern
 district: Augsburg-Stadt
 urls:
   - type: WEBSITE
-    url: https://gruene-augsburg.de/
+    url: https://gruene-augsburg.de/home/
   - type: TWITTER
     url: https://twitter.com/gruene_augsburg
   - type: FACEBOOK
@@ -195,7 +195,7 @@ state: Bayern
 district: Bamberg-Land
 urls:
   - type: WEBSITE
-    url: https://gruene-bamberg-land.de/
+    url: https://gruene-bamberg-land.de/themen/
   - type: FACEBOOK
     url: https://www.facebook.com/gruenebambergland/
   - type: INSTAGRAM
@@ -225,7 +225,7 @@ state: Bayern
 district: Bayreuth-Stadt
 urls:
   - type: WEBSITE
-    url: https://www.gruene-bayreuth.de/
+    url: https://www.gruene-bayreuth.de/kv-bayreuth-stadt/
   - type: FACEBOOK
     url: https://www.facebook.com/GrueneBayreuthStadt/
   - type: TWITTER
@@ -247,7 +247,7 @@ state: Bayern
 district: Cham
 urls:
   - type: WEBSITE
-    url: https://gruene-cham.de/
+    url: https://gruene-cham.de/aktuelles/
   - type: FACEBOOK
     url: https://www.facebook.com/Gr%C3%BCne-Cham-350465798380888/
   - type: INSTAGRAM
@@ -260,7 +260,7 @@ state: Bayern
 district: Coburg-Land
 urls:
   - type: WEBSITE
-    url: https://gruene-coburg-land.de/
+    url: https://gruene-coburg-land.de/startseite/
 ---
 type: REGIONAL_CHAPTER
 level: DE:KREISVERBAND
@@ -269,7 +269,7 @@ state: Bayern
 district: Coburg-Stadt
 urls:
   - type: WEBSITE
-    url: https://gruene-coburg.de/
+    url: https://gruene-coburg.de/start/
   - type: FACEBOOK
     url: https://www.facebook.com/gruene.coburg/
   - type: INSTAGRAM
@@ -282,7 +282,7 @@ state: Bayern
 district: Dachau
 urls:
   - type: WEBSITE
-    url: http://gruene-dachau.de/
+    url: https://gruene-dachau.de/
   - type: FACEBOOK
     url: https://www.facebook.com/B%C3%BCndnis-90-Die-Gr%C3%BCnen-KV-Dachau-216344461717040/
   - type: INSTAGRAM
@@ -295,7 +295,7 @@ state: Bayern
 district: Deggendorf
 urls:
   - type: WEBSITE
-    url: http://xn--grne-deggendorf-0vb.de/
+    url: https://xn--grne-deggendorf-0vb.de/
 ---
 type: REGIONAL_CHAPTER
 level: DE:KREISVERBAND
@@ -317,7 +317,7 @@ state: Bayern
 district: Dingolfing-Landau
 urls:
   - type: WEBSITE
-    url: https://gruene-dgf-lan.de/
+    url: https://gruene-dgf-lan.de/home/
   - type: FACEBOOK
     url: https://www.facebook.com/GrueneDingolfingLandau
 ---
@@ -339,7 +339,7 @@ state: Bayern
 district: Eichstätt
 urls:
   - type: WEBSITE
-    url: https://www.gruene-eichstaett.de/
+    url: https://www.gruene-eichstaett.de/home/
 ---
 type: REGIONAL_CHAPTER
 level: DE:KREISVERBAND
@@ -348,7 +348,7 @@ state: Bayern
 district: Erding
 urls:
   - type: WEBSITE
-    url: https://www.gruene-erding.de/
+    url: https://www.gruene-erding.de/home/
   - type: FACEBOOK
     url: https://www.facebook.com/gruene.erding/
 ---
@@ -359,7 +359,7 @@ state: Bayern
 district: Erlangen-Stadt
 urls:
   - type: WEBSITE
-    url: https://gruene-erlangen.de/
+    url: https://gruene-erlangen.de/start/
   - type: INSTAGRAM
     url: https://www.instagram.com/gruene.erlangen/
   - type: FACEBOOK
@@ -374,7 +374,7 @@ state: Bayern
 district: Freising
 urls:
   - type: WEBSITE
-    url: https://gruene-freising.de/
+    url: https://gruene-freising.de/kreisverband/
   - type: INSTAGRAM
     url: https://www.instagram.com/gruene.freising/
   - type: FACEBOOK
@@ -387,7 +387,7 @@ state: Bayern
 district: Freyung-Grafenau
 urls:
   - type: WEBSITE
-    url: https://www.gruene-frg.de/
+    url: https://www.gruene-frg.de/wahlen-und-kandidaten/kommunalwahl-2020/
 ---
 type: REGIONAL_CHAPTER
 level: DE:KREISVERBAND
@@ -409,7 +409,7 @@ state: Bayern
 district: Garmisch-Partenkirchen
 urls:
   - type: WEBSITE
-    url: https://gruene-gap.de/
+    url: https://gruene-gap.de/startseite/
   - type: TWITTER
     url: https://twitter.com/Gruene_Garmisch
   - type: FACEBOOK
@@ -435,7 +435,7 @@ state: Bayern
 district: Haßberge
 urls:
   - type: WEBSITE
-    url: https://gruene-hassberge.de/
+    url: https://gruene-hassberge.de/home/
   - type: INSTAGRAM
     url: https://www.instagram.com/gruenehassberge/
   - type: FACEBOOK
@@ -448,7 +448,7 @@ state: Bayern
 district: Hof
 urls:
   - type: WEBSITE
-    url: https://gruene-hof.de/
+    url: https://gruene-hof.de/home/
   - type: FACEBOOK
     url: https://www.facebook.com/grune.hof
   - type: TWITTER
@@ -463,7 +463,7 @@ state: Bayern
 district: Ingolstadt
 urls:
   - type: WEBSITE
-    url: https://ingolstadt-gruene.de/
+    url: http://gruene-ingolstadt.info
   - type: INSTAGRAM
     url: https://www.instagram.com/grueneingolstadt/
   - type: FACEBOOK
@@ -478,7 +478,7 @@ state: Bayern
 district: Kempten
 urls:
   - type: WEBSITE
-    url: https://gruene-kempten.de/
+    url: https://gruene-kempten.de/home/
   - type: FACEBOOK
     url: https://www.facebook.com/Gruene.Kempten
 ---
@@ -489,7 +489,7 @@ state: Bayern
 district: Kitzingen
 urls:
   - type: WEBSITE
-    url: https://www.gruene-kitzingen.de/
+    url: https://www.gruene-kitzingen.de/home/
   - type: FACEBOOK
     url: https://www.facebook.com/gruene.kitzingen/
   - type: INSTAGRAM
@@ -526,7 +526,7 @@ state: Bayern
 district: Landshut-Land
 urls:
   - type: WEBSITE
-    url: https://gruene-landshut.de/
+    url: https://gruene-landshut.de/home/
   - type: FACEBOOK
     url: https://www.facebook.com/DieGrunenLandshutLand/
 ---
@@ -537,7 +537,7 @@ state: Bayern
 district: Landshut-Stadt
 urls:
   - type: WEBSITE
-    url: https://www.gruene-btw-landshut.de/
+    url: https://www.gruene-btw-landshut.de/willkommen-bei-den-landshuter-gruenen/
   - type: TWITTER
     url: https://twitter.com/grueneLA
   - type: FACEBOOK
@@ -550,7 +550,7 @@ state: Bayern
 district: Lichtenfels
 urls:
   - type: WEBSITE
-    url: https://gruene-lichtenfels.de/
+    url: https://gruene-lichtenfels.de/home/
   - type: FACEBOOK
     url: https://www.facebook.com/gruenelichtenfels/
   - type: TWITTER
@@ -574,7 +574,7 @@ state: Bayern
 district: Main-Spessart
 urls:
   - type: WEBSITE
-    url: https://www.gruenemsp.de/
+    url: https://www.gruenemsp.de/startseite/
 ---
 type: REGIONAL_CHAPTER
 level: DE:KREISVERBAND
@@ -605,7 +605,7 @@ state: Bayern
 district: Mühldorf
 urls:
   - type: WEBSITE
-    url: https://gruene-muehldorf.de/
+    url: https://gruene-muehldorf.de/home/
   - type: TWITTER
     url: https://twitter.com/GrueneMuehldorf
   - type: FACEBOOK
@@ -648,7 +648,7 @@ state: Bayern
 district: Neumarkt
 urls:
   - type: WEBSITE
-    url: https://gruene-neumarkt.de/
+    url: https://gruene-neumarkt.de/startseite/
   - type: FACEBOOK
     url: https://www.facebook.com/GrueneNeumarkt/
   - type: INSTAGRAM
@@ -661,7 +661,7 @@ state: Bayern
 district: Weiden - Neustadt a.d. Waldnaab
 urls:
   - type: WEBSITE
-    url: https://gruene-weiden.de/startseite/
+    url: https://gruene-weiden.de/startseite/startseite/
 ---
 type: REGIONAL_CHAPTER
 level: DE:KREISVERBAND
@@ -670,7 +670,7 @@ state: Bayern
 district: Neustadt-Aisch
 urls:
   - type: WEBSITE
-    url: http://www.gruene-neustadt-aisch.de/
+    url: https://www.gruene-neustadt-aisch.de/
   - type: FACEBOOK
     url: https://www.facebook.com/GRUENE.Kreis.NEA
 ---
@@ -681,7 +681,7 @@ state: Bayern
 district: Nürnberg-Stadt
 urls:
   - type: WEBSITE
-    url: http://www.gruene-nuernberg.de
+    url: https://www.gruene-nbg.de/
   - type: FACEBOOK
     url: https://www.facebook.com/gruene.nuernberg/
   - type: TWITTER
@@ -729,7 +729,7 @@ state: Bayern
 district: Pfaffenhofen
 urls:
   - type: WEBSITE
-    url: https://gruene-pfaffenhofen.de/
+    url: https://gruene-pfaffenhofen.de/startseite/
   - type: TWITTER
     url: https://twitter.com/Gruene_PAF
   - type: FACEBOOK
@@ -742,7 +742,7 @@ state: Bayern
 district: Regen
 urls:
   - type: WEBSITE
-    url: https://gruene-regen.de/
+    url: https://gruene-regen.de/home/
   - type: FACEBOOK
     url: https://www.facebook.com/Die-Gr%C3%BCnen-Landkreis-Regen-694668227565426/
 ---
@@ -753,7 +753,7 @@ state: Bayern
 district: Regensburg
 urls:
   - type: WEBSITE
-    url: http://www.gruene-regensburg.de/
+    url: https://www.gruene-regensburg.de/
   - type: FACEBOOK
     url: https://www.facebook.com/gruene.regensburg/
   - type: INSTAGRAM
@@ -766,7 +766,7 @@ state: Bayern
 district: Rhön-Grabfeld
 urls:
   - type: WEBSITE
-    url: https://www.gruene-rhoen-grabfeld.de/
+    url: https://www.gruene-rhoen-grabfeld.de/home/
   - type: FACEBOOK
     url: https://www.facebook.com/grueneNES/
 ---
@@ -777,7 +777,7 @@ state: Bayern
 district: Roth
 urls:
   - type: WEBSITE
-    url: https://www.gruene-roth.de/
+    url: https://www.gruene-roth.de/startseite/
   - type: FACEBOOK
     url: https://www.facebook.com/gruenekvroth/
 ---
@@ -788,7 +788,7 @@ state: Bayern
 district: Rottal-Inn
 urls:
   - type: WEBSITE
-    url: https://www.gruene-rottal-inn.de/
+    url: https://gruene-rottal-inn.de/
   - type: FACEBOOK
     url: https://www.facebook.com/B%C3%BCndnis-90-Die-Gr%C3%BCnen-Rottal-Inn-372189986210448/
   - type: INSTAGRAM
@@ -801,7 +801,7 @@ state: Bayern
 district: Schwabach
 urls:
   - type: WEBSITE
-    url: https://www.gruene-schwabach.de/
+    url: https://www.gruene-schwabach.de/home/
   - type: FACEBOOK
     url: https://www.facebook.com/gruene.schwabach/
 ---
@@ -812,7 +812,7 @@ state: Bayern
 district: Schwandorf
 urls:
   - type: WEBSITE
-    url: https://gruene-schwandorf.de/
+    url: https://gruene-schwandorf.de/startseite/
   - type: FACEBOOK
     url: https://www.facebook.com/GrueneImLandkreisSchwandorf
   - type: TWITTER
@@ -825,7 +825,7 @@ state: Bayern
 district: Straubing-Bogen
 urls:
   - type: WEBSITE
-    url: https://www.gruene-straubing-bogen.de/
+    url: https://www.gruene-straubing-bogen.de/home/
   - type: FACEBOOK
     url: https://www.facebook.com/GrueneStraubingBogen
   - type: TWITTER
@@ -838,7 +838,7 @@ state: Bayern
 district: Tirschenreuth
 urls:
   - type: WEBSITE
-    url: https://gruenetir.de/
+    url: https://gruenetir.de/startseite/
   - type: FACEBOOK
     url: https://www.facebook.com/gruene.tirschenreuth
   - type: INSTAGRAM
@@ -866,7 +866,7 @@ state: Bayern
 district: Unterallgäu
 urls:
   - type: WEBSITE
-    url: https://www.gruene-unterallgaeu.de/
+    url: https://gruene-unterallgaeu.de/
   - type: FACEBOOK
     url: https://www.facebook.com/Gruene.Unterallgaeu/
 ---
@@ -877,7 +877,7 @@ state: Bayern
 district: Weiden
 urls:
   - type: WEBSITE
-    url: https://gruene-weiden.de/
+    url: https://gruene-weiden.de/startseite/
   - type: FACEBOOK
     url: https://www.facebook.com/B%C3%BCndnis-90-Die-Gr%C3%BCnen-KV-Neustadt-ad-Waldnaab-und-Weiden-i-d-Opf-105519059607000
 ---
@@ -888,7 +888,7 @@ state: Bayern
 district: Wunsiedel
 urls:
   - type: WEBSITE
-    url: http://www.gruene-fichtelgebirge.de
+    url: https://gruene-fichtelgebirge.de/home/
   - type: YOUTUBE
     url: https://www.youtube.com/user/gruenwun
   - type: TWITTER

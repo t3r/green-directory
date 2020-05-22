@@ -8,7 +8,7 @@ emails:
   - address: info@gruene-schweinfurt.de
 urls:
   - type: WEBSITE
-    url: https://www.gruene-schweinfurt.de/
+    url: https://www.gruene-schweinfurt.de/startseite/
 ---
 type: YOUTH_ORGANIZATION
 level: DE:KREISVERBAND
@@ -17,7 +17,7 @@ state: Bayern
 district: Schweinfurt
 urls:
   - type: WEBSITE
-    url: https://www.gruene-schweinfurt.de/gruene-jugend/
+    url: https://www.gruene-schweinfurt.de/startseite/gruene-jugend/
   - type: FACEBOOK
     url: https://www.facebook.com/Gr%C3%BCne-Jugend-Schweinfurt-114751321909356/
 ---
@@ -45,7 +45,7 @@ emails:
   - address: info@gruene-sennfeld.de
 urls:
   - type: WEBSITE
-    url: https://www.gruene-sennfeld.de/
+    url: https://www.gruene-sennfeld.de/aktuelles/
 ---
 city: Bergrheinfeld
 country: DE
