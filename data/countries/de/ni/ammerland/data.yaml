@@ -6,7 +6,7 @@ state: Niedersachsen
 district: Ammerland
 urls:
   - type: WEBSITE
-    url: https://www.gruene-ammerland.de/
+    url: https://www.gruene-ammerland.de/home/
   - type: INSTAGRAM
     url: https://www.instagram.com/grueneammerland/
 ---
@@ -52,7 +52,7 @@ district: Ammerland
 city: Rastede
 urls:
   - type: WEBSITE
-    url: https://www.gruene-rastede.de/
+    url: https://www.gruene-rastede.de/home/
   - type: FACEBOOK
     url: https://www.facebook.com/gruene.rastede
 ---
@@ -64,7 +64,7 @@ district: Ammerland
 city: Westerstede
 urls:
   - type: WEBSITE
-    url: https://www.gruene-wst.de/
+    url: https://www.gruene-wst.de/home/
 ---
 type: REGIONAL_CHAPTER
 level: DE:ORTSVERBAND

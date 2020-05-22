@@ -6,7 +6,7 @@ state: Niedersachsen
 district: Nienburg
 urls:
   - type: WEBSITE
-    url: https://gruene-nienburg.de/
+    url: https://gruene-nienburg.de/herzlich-willkommen/
 ---
 type: REGIONAL_CHAPTER
 level: DE:ORTSVERBAND
@@ -16,7 +16,7 @@ district: Nienburg
 city: Heemsen
 urls:
   - type: WEBSITE
-    url: https://gruene-nienburg.de/ortsverband-heemsen/
+    url: https://gruene-nienburg.de/herzlich-willkommen/ortsverband-heemsen/
 ---
 type: REGIONAL_CHAPTER
 level: DE:ORTSVERBAND
@@ -26,7 +26,7 @@ district: Nienburg
 city: Hoya
 urls:
   - type: WEBSITE
-    url: https://www.gruene-hoya.de/
+    url: https://www.gruene-hoya.de/home/
 ---
 type: REGIONAL_CHAPTER
 level: DE:ORTSVERBAND
@@ -43,7 +43,7 @@ district: Nienburg
 city: Marklohe
 urls:
   - type: WEBSITE
-    url: https://gruene-nienburg.de/ortsverband-marklohe/
+    url: https://gruene-nienburg.de/herzlich-willkommen/ortsverband-marklohe/
 ---
 type: REGIONAL_CHAPTER
 level: DE:ORTSVERBAND
@@ -53,7 +53,7 @@ district: Nienburg
 city: Mittelweser
 urls:
   - type: WEBSITE
-    url: https://gruene-nienburg.de/ortsverband-mittelweser/
+    url: https://gruene-nienburg.de/herzlich-willkommen/ortsverband-mittelweser/
 ---
 type: REGIONAL_CHAPTER
 level: DE:ORTSVERBAND
@@ -63,7 +63,7 @@ district: Nienburg
 city: Nienburg
 urls:
   - type: WEBSITE
-    url: https://gruene-nienburg.de/ortsverband-nienburg/
+    url: https://gruene-nienburg.de/herzlich-willkommen/ortsverband-nienburg/
   - type: FACEBOOK
     url: https://www.facebook.com/GR%C3%9CNE-NienburgWeser-471078256384105/
   - type: INSTAGRAM
@@ -87,7 +87,7 @@ district: Nienburg
 city: Steimbke
 urls:
   - type: WEBSITE
-    url: https://gruene-nienburg.de/ortsverband-steimbke/
+    url: https://gruene-nienburg.de/herzlich-willkommen/ortsverband-steimbke/
 ---
 type: REGIONAL_CHAPTER
 level: DE:ORTSVERBAND
@@ -97,7 +97,7 @@ district: Nienburg
 city: Uchte
 urls:
   - type: WEBSITE
-    url: https://gruene-nienburg.de/ortsverband-uchte/
+    url: https://gruene-nienburg.de/herzlich-willkommen/ortsverband-uchte/
 ---
 type: REGIONAL_CHAPTER
 level: DE:ORTSVERBAND
@@ -107,4 +107,4 @@ district: Nienburg
 city: Steyerberg
 urls:
   - type: WEBSITE
-    url: https://gruene-nienburg.de/ortsverband-steyerberg/
+    url: https://gruene-nienburg.de/herzlich-willkommen/ortsverband-steyerberg/

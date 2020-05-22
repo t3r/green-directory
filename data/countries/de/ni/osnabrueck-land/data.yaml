@@ -6,7 +6,7 @@ state: Niedersachsen
 district: Osnabrück-Land
 urls:
   - type: WEBSITE
-    url: https://gruene-os-landkreis.de/
+    url: https://gruene-os-landkreis.de/startseite/
   - type: FACEBOOK
     url: https://www.facebook.com/gruen.os
 ---
@@ -18,7 +18,7 @@ district: Osnabrück-Land
 city: Artland
 urls:
   - type: WEBSITE
-    url: https://gruene-artland.de/
+    url: https://gruene-artland.de/startseite/
 ---
 type: REGIONAL_CHAPTER
 level: DE:ORTSVERBAND
@@ -108,7 +108,7 @@ district: Osnabrück-Land
 city: Bramsche
 urls:
   - type: WEBSITE
-    url: http://www.gruene-bramsche.de/
+    url: https://gruene-bramsche.de/startseite/
 ---
 type: REGIONAL_CHAPTER
 level: DE:ORTSVERBAND
@@ -188,7 +188,7 @@ district: Osnabrück-Land
 city: Melle
 urls:
   - type: WEBSITE
-    url: https://gruenemelle.de/
+    url: https://gruenemelle.de/wir-vor-ort/
   - type: FACEBOOK
     url: https://www.facebook.com/gruenemelle
 ---
@@ -200,7 +200,7 @@ district: Osnabrück-Land
 city: Neuenkirchen
 urls:
   - type: WEBSITE
-    url: http://www.gruene-os-neuenkirchen.de/
+    url: https://gruene-os-neuenkirchen.de/
 ---
 type: REGIONAL_CHAPTER
 level: DE:ORTSVERBAND

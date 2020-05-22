@@ -6,7 +6,7 @@ state: Niedersachsen
 district: Hildesheim
 urls:
   - type: WEBSITE
-    url: https://www.gruene-hildesheim.de/
+    url: https://www.gruene-hildesheim.de/startseite/
   - type: FACEBOOK
     url: https://www.facebook.com/HIgruen
   - type: INSTAGRAM
@@ -32,7 +32,7 @@ district: Hildesheim
 city: Hildesheim Südkreis
 urls:
   - type: WEBSITE
-    url: https://www.gruene-hildesheim.de/ueber-uns/ortsverband-suedlicher-landkreis/
+    url: https://www.gruene-hildesheim.de/startseite/ueber-uns/ortsverband-suedlicher-landkreis/
 ---
 type: REGIONAL_CHAPTER
 level: DE:ORTSVERBAND

@@ -6,7 +6,7 @@ state: Niedersachsen
 district: Celle
 urls:
   - type: WEBSITE
-    url: https://www.gruene-celle.de/
+    url: https://www.gruene-celle.de/home/
   - type: FACEBOOK
     url: https://www.facebook.com/B%C3%BCndnis-90-Die-Gr%C3%BCnen-Celle-1448422478737581/
 ---
@@ -18,7 +18,7 @@ district: Celle
 city: Winsen (Aller)/Wietze/Hambühren
 urls:
   - type: WEBSITE
-    url: https://www.gruene-celle.de/ortsverbaende/winsen-allerwietzehambuehren/
+    url: https://www.gruene-celle.de/home/ortsverbaende/winsen-allerwietzehambuehren/
 ---
 type: REGIONAL_CHAPTER
 level: DE:ORTSVERBAND
@@ -28,7 +28,7 @@ district: Celle
 city: Wathlingen/Flotwedel
 urls:
   - type: WEBSITE
-    url: https://www.gruene-celle.de/ortsverbaende/wathlingen-flotwedel/
+    url: https://www.gruene-celle.de/home/ortsverbaende/wathlingen-flotwedel/
 ---
 type: REGIONAL_CHAPTER
 level: DE:ORTSVERBAND
@@ -38,7 +38,7 @@ district: Celle
 city: Eschede/Lachendorf
 urls:
   - type: WEBSITE
-    url: https://www.gruene-celle.de/ortsverbaende/eschedelachendorf/
+    url: https://www.gruene-celle.de/home/ortsverbaende/eschedelachendorf/
 ---
 type: REGIONAL_CHAPTER
 level: DE:ORTSVERBAND
@@ -48,7 +48,7 @@ district: Celle
 city: Celle
 urls:
   - type: WEBSITE
-    url: https://www.gruene-celle.de/ortsverbaende/stadtverband-celle/
+    url: https://www.gruene-celle.de/home/ortsverbaende/stadtverband-celle/
 ---
 type: REGIONAL_CHAPTER
 level: DE:ORTSVERBAND

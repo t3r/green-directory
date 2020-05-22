@@ -62,7 +62,7 @@ district: Göttingen
 city: Altkreis Osterode am Harz
 urls:
   - type: WEBSITE
-    url: https://www.gruene-osterode.de/
+    url: https://www.gruene-osterode.de/home/
   - type: FACBOOK
     url: https://www.facebook.com/grueneoha/
 ---
@@ -94,7 +94,7 @@ district: Göttingen
 city: Gleichen
 urls:
   - type: WEBSITE
-    url: https://www.gruene-gleichen.de/
+    url: https://www.gruene-gleichen.de/home/
 ---
 type: REGIONAL_CHAPTER
 level: DE:ORTSVERBAND
@@ -124,7 +124,7 @@ district: Göttingen
 city: Bovenden
 urls:
   - type: WEBSITE
-    url: https://gruene-bovenden.de/
+    url: https://gruene-bovenden.de/startseite/
 ---
 type: REGIONAL_CHAPTER
 level: DE:ORTSVERBAND

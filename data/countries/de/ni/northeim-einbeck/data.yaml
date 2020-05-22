@@ -6,7 +6,7 @@ state: Niedersachsen
 district: Northeim/Einbeck
 urls:
   - type: WEBSITE
-    url: https://www.gruene-northeim-einbeck.de/
+    url: https://www.gruene-northeim-einbeck.de/home/
   - type: FACEBOOK
     url: https://www.facebook.com/GruneNortheimEinbeck
 ---
@@ -18,7 +18,7 @@ district: Northeim/Einbeck
 city: Northeim
 urls:
   - type: WEBSITE
-    url: https://gruene-northeim.de/
+    url: https://gruene-northeim.de/startseite/
   - type: FACEBOOK
     url: https://www.facebook.com/B%C3%BCndnis90Die-Gr%C3%BCnen-Ortsverband-Northeim-129471280471932/
 ---
@@ -30,7 +30,7 @@ district: Northeim/Einbeck
 city: Einbeck
 urls:
   - type: WEBSITE
-    url: https://www.gruene-northeim-einbeck.de/gruene-vor-ort/einbeck/
+    url: https://www.gruene-northeim-einbeck.de/home/gruene-vor-ort/einbeck/
 ---
 type: REGIONAL_CHAPTER
 level: DE:ORTSVERBAND
@@ -40,4 +40,4 @@ district: Northeim/Einbeck
 city: Dassel
 urls:
   - type: WEBSITE
-    url: https://www.gruene-northeim-einbeck.de/gruene-vor-ort/dassel/
+    url: https://www.gruene-northeim-einbeck.de/home/gruene-vor-ort/dassel/

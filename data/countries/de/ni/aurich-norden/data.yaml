@@ -61,7 +61,7 @@ district: Aurich-Norden
 city: Norden
 urls:
   - type: WEBSITE
-    url: https://gruene-norden.de/
+    url: https://gruene-norden.de/home/
 emails:
   - address: kontakt@gruene-norden.de
 ---

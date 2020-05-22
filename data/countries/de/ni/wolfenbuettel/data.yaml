@@ -6,7 +6,7 @@ state: Niedersachsen
 district: Wolfenbüttel
 urls:
   - type: WEBSITE
-    url: https://www.xn--grne-wf-o2a.de/
+    url: https://www.xn--grne-wf-o2a.de/startseite/
   - type: FACEBOOK
     url: https://www.facebook.com/GR%C3%9CNE-KV-Wolfenb%C3%BCttel-163738524190006/
   - type: INSTAGRAM
@@ -29,7 +29,7 @@ district: Wolfenbüttel
 city: Cremlingen
 urls:
   - type: WEBSITE
-    url: https://gruene-cremlingen.de/
+    url: https://gruene-cremlingen.de/startseite/
 ---
 type: REGIONAL_CHAPTER
 level: DE:ORTSVERBAND
@@ -39,7 +39,7 @@ district: Wolfenbüttel
 city: Elm-Asse-Fallstein
 urls:
   - type: WEBSITE
-    url: https://gruene-eaf.de/
+    url: https://gruene-eaf.de/startseite/
 ---
 type: REGIONAL_CHAPTER
 level: DE:ORTSVERBAND
@@ -49,7 +49,7 @@ district: Wolfenbüttel
 city: Sickte
 urls:
   - type: WEBSITE
-    url: https://gruene-sickte.de/
+    url: https://gruene-sickte.de/startseite/
 ---
 type: REGIONAL_CHAPTER
 level: DE:ORTSVERBAND

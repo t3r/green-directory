@@ -6,7 +6,7 @@ state: Niedersachsen
 district: Lüneburg
 urls:
   - type: WEBSITE
-    url: https://gruene-lueneburg.de/
+    url: https://gruene-lueneburg.de/home/
   - type: FACEBOOK
     url: https://www.facebook.com/GrueneLueneburg/
   - type: INSTAGRAM
@@ -20,7 +20,7 @@ district: Lüneburg
 city: Scharnebeck/Adendorf
 urls:
   - type: WEBSITE
-    url: https://gruene-lueneburg.de/ortsverbaende/scharnebeckadendorf/
+    url: https://gruene-lueneburg.de/home/ortsverbaende/scharnebeckadendorf/
 ---
 type: REGIONAL_CHAPTER
 level: DE:ORTSVERBAND
@@ -30,7 +30,7 @@ district: Lüneburg
 city: Ostheide
 urls:
   - type: WEBSITE
-    url: https://gruene-lueneburg.de/ortsverbaende/ostheide/
+    url: https://gruene-lueneburg.de/home/ortsverbaende/ostheide/
 ---
 type: REGIONAL_CHAPTER
 level: DE:ORTSVERBAND
@@ -40,7 +40,7 @@ district: Lüneburg
 city: Lüneburg
 urls:
   - type: WEBSITE
-    url: https://gruene-lueneburg.de/ortsverbaende/lueneburg/
+    url: https://gruene-lueneburg.de/home/ortsverbaende/lueneburg/
 ---
 type: REGIONAL_CHAPTER
 level: DE:ORTSVERBAND
@@ -67,7 +67,7 @@ district: Lüneburg
 city: Dahlenburg
 urls:
   - type: WEBSITE
-    url: https://gruene-lueneburg.de/ortsverbaende/dahlenburg/
+    url: https://gruene-lueneburg.de/home/ortsverbaende/dahlenburg/
 ---
 type: REGIONAL_CHAPTER
 level: DE:ORTSVERBAND
@@ -77,7 +77,7 @@ district: Lüneburg
 city: Bleckede
 urls:
   - type: WEBSITE
-    url: https://gruene-lueneburg.de/ortsverbaende/bleckede/
+    url: https://gruene-lueneburg.de/home/ortsverbaende/bleckede/
 ---
 type: REGIONAL_CHAPTER
 level: DE:ORTSVERBAND
@@ -87,7 +87,7 @@ district: Lüneburg
 city: Bardowick
 urls:
   - type: WEBSITE
-    url: https://gruene-lueneburg.de/ortsverbaende/bardowick/gruene-in-bardowick/
+    url: https://gruene-lueneburg.de/home/ortsverbaende/bardowick/gruene-in-bardowick/
 ---
 type: REGIONAL_CHAPTER
 level: DE:ORTSVERBAND

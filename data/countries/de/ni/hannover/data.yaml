@@ -74,7 +74,7 @@ district: Hannover
 city: Sehnde
 urls:
   - type: WEBSITE
-    url: https://www.gruene-sehnde.de/
+    url: https://www.gruene-sehnde.de/home/
 ---
 type: REGIONAL_CHAPTER
 level: DE:ORTSVERBAND
@@ -110,7 +110,7 @@ district: Hannover
 city: Pattensen
 urls:
   - type: WEBSITE
-    url: https://gruene-pattensen.de/
+    url: https://gruene-pattensen.de/aus-dem-ortsverband/
   - type: FACEBOOK
     url: https://www.facebook.com/groups/219648165081160/
 ---
@@ -148,7 +148,7 @@ district: Hannover
 city: Langenhagen
 urls:
   - type: WEBSITE
-    url: https://gruene-langenhagen.de/
+    url: https://gruene-langenhagen.de/home/
 ---
 type: REGIONAL_CHAPTER
 level: DE:ORTSVERBAND

@@ -6,7 +6,7 @@ state: Niedersachsen
 district: Emsland-Nord
 urls:
   - type: WEBSITE
-    url: https://gruene-eln.de/
+    url: https://gruene-eln.de/startseite/
 ---
 type: REGIONAL_CHAPTER
 level: DE:ORTSVERBAND

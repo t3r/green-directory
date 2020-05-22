@@ -6,7 +6,7 @@ state: Niedersachsen
 district: Wesermarsch
 urls:
   - type: WEBSITE
-    url: https://www.gruene-wesermarsch.de/
+    url: https://www.gruene-wesermarsch.de/veranstaltungen/home/
   - type: FACEBOOK
     url: https://www.facebook.com/GrueneWesermarsch
 ---
@@ -18,7 +18,7 @@ district: Wesermarsch
 city: Wesermarsch-Mitte
 urls:
   - type: WEBSITE
-    url: https://www.gruene-wesermarsch.de/ov-mitte/
+    url: https://www.gruene-wesermarsch.de/veranstaltungen/home/ov-mitte/
 ---
 type: REGIONAL_CHAPTER
 level: DE:ORTSVERBAND
@@ -28,4 +28,4 @@ district: Wesermarsch
 city: Berne/Lemwerder
 urls:
   - type: WEBSITE
-    url: https://www.gruene-wesermarsch.de/ov-bernelemwerder/
+    url: https://www.gruene-wesermarsch.de/veranstaltungen/home/ov-bernelemwerder/

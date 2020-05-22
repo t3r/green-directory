@@ -6,7 +6,7 @@ state: Niedersachsen
 district: Hameln-Pyrmont
 urls:
   - type: WEBSITE
-    url: http://www.gruene-hameln-pyrmont.de/
+    url: https://www.gruene-hameln-pyrmont.de/category/startseite/
   - type: FACEBOOK
     url: https://www.facebook.com/Gruenehamelnpyrmont/
 ---
@@ -28,7 +28,7 @@ district: Hameln-Pyrmont
 city: Hameln
 urls:
   - type: WEBSITE
-    url: http://www.gruene-hameln-pyrmont.de/category/ortsverband-hameln/
+    url: https://www.gruene-hameln-pyrmont.de/category/startseite/category/ortsverband-hameln/
 ---
 type: REGIONAL_CHAPTER
 level: DE:ORTSVERBAND
@@ -38,4 +38,4 @@ district: Hameln-Pyrmont
 city: Bad Pyrmont
 urls:
   - type: WEBSITE
-    url: http://www.gruene-hameln-pyrmont.de/category/ortsverband-bad-pyrmont/
+    url: https://www.gruene-hameln-pyrmont.de/category/startseite/category/ortsverband-bad-pyrmont/

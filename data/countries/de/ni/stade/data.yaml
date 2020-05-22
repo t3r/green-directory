@@ -6,7 +6,7 @@ state: Niedersachsen
 district: Stade
 urls:
   - type: WEBSITE
-    url: https://gruene-kv-stade.de/
+    url: https://gruene-kv-stade.de/aktuelles/
   - type: FACEBOOK
     url: https://www.facebook.com/B%C3%BCndnis-90-Die-Gr%C3%BCnen-Kreisverband-Stade-200045013356260/
 ---
@@ -18,7 +18,7 @@ district: Stade
 city: Buxtehude-Apensen
 urls:
   - type: WEBSITE
-    url: https://gruene-buxtehude.de/
+    url: https://gruene-buxtehude.de/startseite/
 ---
 type: REGIONAL_CHAPTER
 level: DE:ORTSVERBAND
@@ -58,7 +58,7 @@ district: Stade
 city: Horneburg
 urls:
   - type: WEBSITE
-    url: https://gruene-kv-stade.de/ueber-uns/ortsverbaende/ortsverband-horneburg/
+    url: https://gruene-kv-stade.de/aktuelles/ueber-uns/ortsverbaende/ortsverband-horneburg/
 ---
 type: REGIONAL_CHAPTER
 level: DE:ORTSVERBAND
@@ -88,4 +88,4 @@ district: Stade
 city: Stade
 urls:
   - type: WEBSITE
-    url: https://gruene-ov-stade.de/
+    url: https://gruene-ov-stade.de/aktuelles/

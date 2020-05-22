@@ -6,7 +6,7 @@ state: Niedersachsen
 district: Verden
 urls:
   - type: WEBSITE
-    url: http://www.gruene-verden.de/
+    url: https://www.gruene-verden.de/
   - type: FACEBOOK
     url: https://www.facebook.com/Gruene.Kreisverband.Verden/
 ---
@@ -18,7 +18,7 @@ district: Verden
 city: Achim
 urls:
   - type: WEBSITE
-    url: http://www.gruene-verden.de/ortsverbande/ortsverband-achim/
+    url: https://www.gruene-verden.de/ortsverbande/ortsverband-achim/
 ---
 type: REGIONAL_CHAPTER
 level: DE:ORTSVERBAND
@@ -28,7 +28,7 @@ district: Verden
 city: Kirchlinteln
 urls:
   - type: WEBSITE
-    url: http://www.gruene-verden.de/ortsverbande/kirchlinteln/
+    url: https://www.gruene-verden.de/ortsverbande/kirchlinteln/
 ---
 type: REGIONAL_CHAPTER
 level: DE:ORTSVERBAND
@@ -58,7 +58,7 @@ district: Verden
 city: Verden
 urls:
   - type: WEBSITE
-    url: http://www.gruene-verden.de/ortsverbande/ortsverband-verden/
+    url: https://www.gruene-verden.de/ortsverbande/ortsverband-verden/
 ---
 type: REGIONAL_CHAPTER
 level: DE:ORTSVERBAND
@@ -68,4 +68,4 @@ district: Verden
 city: Dörverden
 urls:
   - type: WEBSITE
-    url: http://www.gruene-doerverden.de/
+    url: https://www.gruene-doerverden.de/

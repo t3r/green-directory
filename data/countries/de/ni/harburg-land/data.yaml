@@ -20,7 +20,7 @@ district: Harburg-Land
 city: Winsen/Luhe-Elbmarsch
 urls:
   - type: WEBSITE
-    url: http://gruene-winsen.de/
+    url: https://gruene-winsen.de/
 ---
 type: REGIONAL_CHAPTER
 level: DE:ORTSVERBAND
@@ -30,7 +30,7 @@ district: Harburg-Land
 city: Tostedt
 urls:
   - type: WEBSITE
-    url: http://gruene-tostedt.de/
+    url: https://gruene-tostedt.de/
 ---
 type: REGIONAL_CHAPTER
 level: DE:ORTSVERBAND
@@ -40,7 +40,7 @@ district: Harburg-Land
 city: Stelle
 urls:
   - type: WEBSITE
-    url: http://gruene-stelle.de/
+    url: https://gruene-stelle.de/
 ---
 type: REGIONAL_CHAPTER
 level: DE:ORTSVERBAND
@@ -50,7 +50,7 @@ district: Harburg-Land
 city: Seevetal
 urls:
   - type: WEBSITE
-    url: https://gruene-seevetal.de/
+    url: https://gruene-seevetal.de/startseite/
 ---
 type: REGIONAL_CHAPTER
 level: DE:ORTSVERBAND
@@ -100,7 +100,7 @@ district: Harburg-Land
 city: Hollenstedt
 urls:
   - type: WEBSITE
-    url: https://gruene-hollenstedt.de/
+    url: https://gruene-hollenstedt.de/aktuelles/
 ---
 type: REGIONAL_CHAPTER
 level: DE:ORTSVERBAND
@@ -110,7 +110,7 @@ district: Harburg-Land
 city: Buchholz
 urls:
   - type: WEBSITE
-    url: https://gruene-buchholz.de/
+    url: https://gruene-buchholz.de/startseite/
   - type: FACEBOOK
     url: https://www.facebook.com/diebuchholzergruenen/
   - type: TWITTER

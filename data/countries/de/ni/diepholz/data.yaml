@@ -6,7 +6,7 @@ state: Niedersachsen
 district: Diepholz
 urls:
   - type: WEBSITE
-    url: https://www.gruene-diepholz.de/
+    url: https://www.gruene-diepholz.de/home/
 ---
 type: REGIONAL_CHAPTER
 level: DE:ORTSVERBAND
@@ -16,7 +16,7 @@ district: Diepholz
 city: Weyhe
 urls:
   - type: WEBSITE
-    url: https://www.gruene-diepholz.de/ortsverbaende-und-ortsgruppen/ortsverband-weyhe/
+    url: https://www.gruene-diepholz.de/home/ortsverbaende-und-ortsgruppen/ortsverband-weyhe/
 ---
 type: REGIONAL_CHAPTER
 level: DE:ORTSVERBAND
@@ -26,7 +26,7 @@ district: Diepholz
 city: Syke
 urls:
   - type: WEBSITE
-    url: https://www.gruene-diepholz.de/ortsverbaende-und-ortsgruppen/ortsverband-syke/
+    url: https://www.gruene-diepholz.de/home/ortsverbaende-und-ortsgruppen/ortsverband-syke/
 ---
 type: REGIONAL_CHAPTER
 level: DE:ORTSVERBAND
@@ -36,7 +36,7 @@ district: Diepholz
 city: Sulingen
 urls:
   - type: WEBSITE
-    url: https://www.gruene-diepholz.de/ortsverbaende-und-ortsgruppen/ortsverband-sulingen/
+    url: https://www.gruene-diepholz.de/home/ortsverbaende-und-ortsgruppen/ortsverband-sulingen/
 ---
 type: REGIONAL_CHAPTER
 level: DE:ORTSVERBAND
@@ -46,7 +46,7 @@ district: Diepholz
 city: Stuhr
 urls:
   - type: WEBSITE
-    url: https://www.gruene-diepholz.de/ortsverbaende-und-ortsgruppen/ortsverband-stuhr/
+    url: https://www.gruene-diepholz.de/home/ortsverbaende-und-ortsgruppen/ortsverband-stuhr/
 ---
 type: REGIONAL_CHAPTER
 level: DE:ORTSVERBAND
@@ -56,7 +56,7 @@ district: Diepholz
 city: Diepholz
 urls:
   - type: WEBSITE
-    url: https://www.gruene-diepholz.de/ortsverbaende-und-ortsgruppen/ortsverband-diepholz/
+    url: https://www.gruene-diepholz.de/home/ortsverbaende-und-ortsgruppen/ortsverband-diepholz/
 ---
 type: REGIONAL_CHAPTER
 level: DE:ORTSVERBAND
@@ -66,7 +66,7 @@ district: Diepholz
 city: Bruchhausen-Vilsen
 urls:
   - type: WEBSITE
-    url: https://www.gruene-diepholz.de/ortsverbaende-und-ortsgruppen/ortsverband-bruchhausen-vilsen/
+    url: https://www.gruene-diepholz.de/home/ortsverbaende-und-ortsgruppen/ortsverband-bruchhausen-vilsen/
 ---
 type: REGIONAL_CHAPTER
 level: DE:ORTSVERBAND
@@ -76,7 +76,7 @@ district: Diepholz
 city: Bassum
 urls:
   - type: WEBSITE
-    url: https://gruene-bassum.de/
+    url: https://gruene-bassum.de/startseite/
 ---
 type: REGIONAL_CHAPTER
 level: DE:ORTSVERBAND

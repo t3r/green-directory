@@ -67,7 +67,7 @@ state: Niedersachsen
 district: Cloppenburg
 urls:
   - type: WEBSITE
-    url: http://gruene-cloppenburg.de/home/
+    url: https://gruene-cloppenburg.de/home/
   - type: FACEBOOK
     url: https://www.facebook.com/GrueneCloppenburg
 ---
@@ -78,7 +78,7 @@ state: Niedersachsen
 district: Delmenhorst
 urls:
   - type: WEBSITE
-    url: http://www.gruenedelmenhorst.de/home/
+    url: https://www.gruenedelmenhorst.de/home/
   - type: FACEBOOK
     url: https://www.facebook.com/GRUENEDelmenhorst/
 ---
@@ -89,7 +89,7 @@ state: Niedersachsen
 district: Emden/Ostfriesland
 urls:
   - type: WEBSITE
-    url: http://www.gruene-emden.de/
+    url: https://gruene-emden.de/
   - type: FACEBOOK
     url: https://www.facebook.com/grune.emden/
 ---
@@ -100,7 +100,7 @@ state: Niedersachsen
 district: Friesland
 urls:
   - type: WEBSITE
-    url: https://www.gruene-friesland.de/
+    url: https://www.gruene-fri.de/
   - type: TWITTER
     url: https://twitter.com/gruene_fri
   - type: FACEBOOK
@@ -113,7 +113,7 @@ state: Niedersachsen
 district: Goslar
 urls:
   - type: WEBSITE
-    url: http://www.gruene-goslar.de/
+    url: https://www.gruene-goslar.de/home/
   - type: FACEBOOK
     url: https://www.facebook.com/GRUENE.GOSLAR/
 ---
@@ -142,7 +142,7 @@ state: Niedersachsen
 district: Holzminden
 urls:
   - type: WEBSITE
-    url: http://www.gruene-holzminden.de/home/
+    url: https://www.gruene-holzminden.de/home/
 ---
 type: REGIONAL_CHAPTER
 level: DE:KREISVERBAND
@@ -182,7 +182,7 @@ state: Niedersachsen
 district: Osnabrück-Stadt
 urls:
   - type: WEBSITE
-    url: https://gruene-os.de/
+    url: https://gruene-os.de/startseite/
   - type: FACEBOOK
     url: https://www.facebook.com/GrueneOS/
   - type: YOUTUBE
@@ -199,7 +199,7 @@ state: Niedersachsen
 district: Salzgitter
 urls:
   - type: WEBSITE
-    url: https://gruene-salzgitter.de/
+    url: https://gruene-salzgitter.de/aktuelles/
   - type: FACEBOOK
     url: https://www.facebook.com/GrueneSalzgitter
 ---
@@ -210,7 +210,7 @@ state: Niedersachsen
 district: Uelzen
 urls:
   - type: WEBSITE
-    url: http://gruene-uelzen.de/startseite/
+    url: https://gruene-uelzen.de/startseite/
   - type: FACEBOOK
     url: https://www.facebook.com/grune.kreisuelzen/
   - type: TWITTER
@@ -225,7 +225,7 @@ state: Niedersachsen
 district: Vechta
 urls:
   - type: WEBSITE
-    url: http://gruene-vechta.de/startseite/
+    url: https://gruene-vechta.de/startseite/
 ---
 type: REGIONAL_CHAPTER
 level: DE:ORTSVERBAND
@@ -258,6 +258,6 @@ state: Niedersachsen
 district: Wolfsburg
 urls:
   - type: WEBSITE
-    url: http://www.gruene-wolfsburg.de/aktuelles/
+    url: https://www.gruene-wolfsburg.de/aktuelles/
   - type: FACEBOOK
     url: https://www.facebook.com/Gruene.Wolfsburg

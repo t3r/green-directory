@@ -6,7 +6,7 @@ state: Niedersachsen
 district: Heidekreis
 urls:
   - type: WEBSITE
-    url: https://gruene-heidekreis.de/
+    url: https://gruene-heidekreis.de/home/
 ---
 type: REGIONAL_CHAPTER
 level: DE:ORTSVERBAND
@@ -16,7 +16,7 @@ district: Heidekreis
 city: Walsrode/Bomlitz
 urls:
   - type: WEBSITE
-    url: https://www.gruene-walsrode.de/
+    url: https://www.gruene-walsrode.de/home/
 ---
 type: REGIONAL_CHAPTER
 level: DE:ORTSVERBAND

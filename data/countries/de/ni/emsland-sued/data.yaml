@@ -6,7 +6,7 @@ state: Niedersachsen
 district: Emsland-Süd
 urls:
   - type: WEBSITE
-    url: https://www.gruene-els.de/
+    url: https://www.gruene-els.de/home/
   - type: FACEBOOK
     url: https://www.facebook.com/B%C3%BCndnis-90Die-Gr%C3%BCnen-Emsland-S%C3%BCd-534723460389775/
 ---
@@ -30,4 +30,4 @@ district: Emsland-Süd
 city: Lingen
 urls:
   - type: WEBSITE
-    url: https://www.gruene-els.de/lingen/
+    url: https://www.gruene-els.de/home/lingen/

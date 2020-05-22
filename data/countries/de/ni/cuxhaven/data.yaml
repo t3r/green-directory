@@ -16,7 +16,7 @@ district: Cuxhaven
 city: Schiffdorf-Loxstedt
 urls:
   - type: WEBSITE
-    url: http://www.gruene-loxstedt-schiffdorf.de/
+    url: https://www.gruene-loxstedt-schiffdorf.de/
   - type: FACEBOOK
     url: https://www.facebook.com/B%C3%9CNDNIS-90-DIE-GR%C3%9CNEN-OV-Loxstedt-Schiffdorf-153948451351406/
   - type: TWITTER
