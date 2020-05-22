@@ -8,7 +8,7 @@ state: Nordrhein-Westfalen
 type: REGIONAL_CHAPTER
 urls:
   - type: WEBSITE
-    url: http://www.gruene-oberberg.de/
+    url: https://gruene-oberberg.de/startseite/
   - type: FACEBOOK
     url: https://www.facebook.com/Gruene.Oberberg
 ---
@@ -20,7 +20,7 @@ state: Nordrhein-Westfalen
 type: REGIONAL_CHAPTER
 urls:
   - type: WEBSITE
-    url: http://www.gruene-engelskirchen.de
+    url: https://gruene-engelskirchen.de/startseite/
 ---
 city: Nümbrecht
 country: DE
@@ -30,7 +30,7 @@ state: Nordrhein-Westfalen
 type: REGIONAL_CHAPTER
 urls:
   - type: WEBSITE
-    url: http://gruene-nuembrecht.de
+    url: https://www.gruene-nuembrecht.de/
 ---
 city: Reichshof
 country: DE
@@ -40,7 +40,7 @@ state: Nordrhein-Westfalen
 type: REGIONAL_CHAPTER
 urls:
   - type: WEBSITE
-    url: http://gruene-reichshof.de
+    url: https://gruene-reichshof.de/startseite/
 ---
 city: Wipperfürth
 country: DE
@@ -50,4 +50,4 @@ state: Nordrhein-Westfalen
 type: REGIONAL_CHAPTER
 urls:
   - type: WEBSITE
-    url: https://gruene-wipperfuerth.de/
+    url: https://gruene-wipperfuerth.de/mit-herz-mitreden-mitmachen/

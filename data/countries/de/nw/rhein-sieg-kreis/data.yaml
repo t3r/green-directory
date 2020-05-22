@@ -48,7 +48,7 @@ district: Rhein-Sieg
 city: Bornheim
 urls:
   - type: WEBSITE
-    url: https://gruene-bornheim.de/
+    url: https://gruene-bornheim.de/home/
   - type: FACEBOOK
     url: https://www.facebook.com/Bundnis90DieGrunenBornheim
   - type: TWITTER
@@ -78,7 +78,7 @@ emails:
   - address: d.fiedrich@gruene-hennef.de
 urls:
   - type: WEBSITE
-    url: https://gruene-hennef.de/
+    url: https://gruene-hennef.de/aktuelles/
 ---
 type: REGIONAL_CHAPTER
 level: DE:ORTSVERBAND
@@ -90,7 +90,7 @@ emails:
   - address: info@gruene-koenigswinter.de
 urls:
   - type: WEBSITE
-    url: http://www.gruene-koenigswinter.de/
+    url: https://gruene-koenigswinter.de/
   - type: FACEBOOK
     url: https://www.facebook.com/gruenekoenigswinter
 ---
@@ -174,7 +174,7 @@ emails:
   - address: info@gruene-rheinbach.de
 urls:
   - type: WEBSITE
-    url: https://www.gruene-rheinbach.de/
+    url: https://www.gruene-rheinbach.de/startseite/
   - type: FACEBOOK
     url: https://www.facebook.com/B%C3%BCndnis90Die-Gr%C3%BCnen-Rheinbach-359243267513092/
   - type: TWITTER
@@ -190,7 +190,7 @@ emails:
   - address: gruene-ruppichteroth@gmx.de
 urls:
   - type: WEBSITE
-    url: https://gruene-ruppichteroth.de/
+    url: https://gruene-ruppichteroth.de/startseite/
 ---
 type: REGIONAL_CHAPTER
 level: DE:ORTSVERBAND
@@ -202,7 +202,7 @@ emails:
   - address: info@gruene-sanktaugustin.de
 urls:
   - type: WEBSITE
-    url: https://gruene-sanktaugustin.de/
+    url: https://gruene-sanktaugustin.de/home/
   - type: FACEBOOK
     url: https://www.facebook.com/Buendnis90GrueneSanktAugustin/
   - type: TWITTER
@@ -272,6 +272,6 @@ emails:
   - address: t.ritzer@gruene-windeck.de
 urls:
   - type: WEBSITE
-    url: https://gruene-windeck.de/
+    url: https://gruene-windeck.de/home/
   - type: FACEBOOK
     url: https://www.facebook.com/GrueneWindeck/

@@ -8,7 +8,7 @@ state: Nordrhein-Westfalen
 type: REGIONAL_CHAPTER
 urls:
   - type: WEBSITE
-    url: http://www.gruene-kreis-viersen.de/
+    url: https://www.gruene-kreis-viersen.de/
   - type: FACEBOOK
     url: https://www.facebook.com/DieGruenenKreisViersen
   - type: INSTAGRAM
@@ -44,7 +44,7 @@ state: Nordrhein-Westfalen
 type: REGIONAL_CHAPTER
 urls:
   - type: WEBSITE
-    url: http://www.gruene-kempen.de
+    url: https://gruene-kempen.de/
 ---
 city: Nettetal
 country: DE

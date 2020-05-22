@@ -8,7 +8,7 @@ state: Nordrhein-Westfalen
 type: REGIONAL_CHAPTER
 urls:
   - type: WEBSITE
-    url: https://gruene-bochum.de/
+    url: https://gruene-bochum.de/startseite/
   - type: FACEBOOK
     url: https://www.facebook.com/gruene.bochum
   - type: TWITTER
@@ -22,7 +22,7 @@ state: Nordrhein-Westfalen
 type: REGIONAL_CHAPTER
 urls:
   - type: WEBSITE
-    url: https://gruene-bochum.de/in-den-stadtteilen/ov-mitte/
+    url: https://gruene-bochum.de/startseite/in-den-stadtteilen/ov-mitte/
 ---
 city: Bochum-Nord
 country: DE
@@ -32,7 +32,7 @@ state: Nordrhein-Westfalen
 type: REGIONAL_CHAPTER
 urls:
   - type: WEBSITE
-    url: https://gruene-bochum.de/in-den-stadtteilen/ov-nord/
+    url: https://gruene-bochum.de/startseite/in-den-stadtteilen/ov-nord/
 ---
 city: Bochum-Ost
 country: DE
@@ -42,7 +42,7 @@ state: Nordrhein-Westfalen
 type: REGIONAL_CHAPTER
 urls:
   - type: WEBSITE
-    url: https://gruene-bochum.de/in-den-stadtteilen/ov-ost/
+    url: https://gruene-bochum.de/startseite/in-den-stadtteilen/ov-ost/
 ---
 city: Bochum-Süd
 country: DE
@@ -52,7 +52,7 @@ state: Nordrhein-Westfalen
 type: REGIONAL_CHAPTER
 urls:
   - type: WEBSITE
-    url: https://gruene-bochum.de/in-den-stadtteilen/ov-sued/
+    url: https://gruene-bochum.de/startseite/in-den-stadtteilen/ov-sued/
 ---
 city: Bochum-Wattenscheid
 country: DE
@@ -72,4 +72,4 @@ state: Nordrhein-Westfalen
 type: REGIONAL_CHAPTER
 urls:
   - type: WEBSITE
-    url: https://gruene-bochum.de/in-den-stadtteilen/ov-suedwest/
+    url: https://gruene-bochum.de/startseite/in-den-stadtteilen/ov-suedwest/

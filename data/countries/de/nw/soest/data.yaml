@@ -62,7 +62,7 @@ state: Nordrhein-Westfalen
 type: REGIONAL_CHAPTER
 urls:
   - type: WEBSITE
-    url: http://www.gruene-moehnesee.de
+    url: http://gruene-moehnesee.de/
 ---
 city: Warstein
 country: DE

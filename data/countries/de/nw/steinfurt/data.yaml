@@ -8,7 +8,7 @@ state: Nordrhein-Westfalen
 type: REGIONAL_CHAPTER
 urls:
   - type: WEBSITE
-    url: http://www.gruene-kreis-steinfurt.de/
+    url: https://www.gruene-kreis-steinfurt.de/news/
   - type: FACEBOOK
     url: https://www.facebook.com/GrueneKST
   - type: TWITTER
@@ -22,7 +22,7 @@ state: Nordrhein-Westfalen
 type: REGIONAL_CHAPTER
 urls:
   - type: WEBSITE
-    url: https://gruene-altenberge.de/
+    url: https://gruene-altenberge.de/home/
 ---
 city: Emsdetten
 country: DE
@@ -32,7 +32,7 @@ state: Nordrhein-Westfalen
 type: REGIONAL_CHAPTER
 urls:
   - type: WEBSITE
-    url: http://www.gruene-emsdetten.de/
+    url: https://gruene-emsdetten.de/home/
 ---
 city: Greven
 country: DE
@@ -42,7 +42,7 @@ state: Nordrhein-Westfalen
 type: REGIONAL_CHAPTER
 urls:
   - type: WEBSITE
-    url: http://www.gruene-greven.de/
+    url: https://gruene-greven.de/startseite/
 ---
 city: Hopsten-Schale-Halverde
 country: DE
@@ -52,7 +52,7 @@ state: Nordrhein-Westfalen
 type: REGIONAL_CHAPTER
 urls:
   - type: WEBSITE
-    url: https://gruene-hopsten.net/
+    url: https://gruene-hopsten.net/startseite/
 ---
 city: Hörstel
 country: DE
@@ -62,7 +62,7 @@ state: Nordrhein-Westfalen
 type: REGIONAL_CHAPTER
 urls:
   - type: WEBSITE
-    url: http://www.gruene-hoerstel.de/
+    url: https://gruene-hoerstel.de/aktuelles/online-plattform-hier-hilft-nur-gruen/
 ---
 city: Horstmar
 country: DE
@@ -82,7 +82,7 @@ state: Nordrhein-Westfalen
 type: REGIONAL_CHAPTER
 urls:
   - type: WEBSITE
-    url: http://www.gruene-ibbenbueren.de/
+    url: https://gruene-ibbenbueren.de/startseite/
 ---
 city: Ladbergen
 country: DE
@@ -92,7 +92,7 @@ state: Nordrhein-Westfalen
 type: REGIONAL_CHAPTER
 urls:
   - type: WEBSITE
-    url: http://www.gruene-ladbergen.de/
+    url: https://gruene-ladbergen.de/news/
 ---
 city: Laer
 country: DE
@@ -112,7 +112,7 @@ state: Nordrhein-Westfalen
 type: REGIONAL_CHAPTER
 urls:
   - type: WEBSITE
-    url: http://www.gruene-lengerich.de/
+    url: https://gruene-lengerich.de/startseite/
 ---
 city: Lotte
 country: DE
@@ -122,7 +122,7 @@ state: Nordrhein-Westfalen
 type: REGIONAL_CHAPTER
 urls:
   - type: WEBSITE
-    url: http://www.gruene-lotte.de/
+    url: https://www.gruene-lotte.de/
 ---
 city: Mettingen
 country: DE
@@ -132,7 +132,7 @@ state: Nordrhein-Westfalen
 type: REGIONAL_CHAPTER
 urls:
   - type: WEBSITE
-    url: http://gruene-mettingen.de/
+    url: https://gruene-mettingen.de/startseite/
 ---
 city: Neuenkirchen
 country: DE
@@ -142,7 +142,7 @@ state: Nordrhein-Westfalen
 type: REGIONAL_CHAPTER
 urls:
   - type: WEBSITE
-    url: http://www.gruene-neuenkirchen.de/
+    url: https://gruene-neuenkirchen.de/aktuelles/
 ---
 city: Nordwalde
 country: DE
@@ -152,7 +152,7 @@ state: Nordrhein-Westfalen
 type: REGIONAL_CHAPTER
 urls:
   - type: WEBSITE
-    url: http://www.gruene-nordwalde.de/
+    url: https://gruene-nordwalde.de/startseite/
 ---
 city: Rheine
 country: DE
@@ -162,7 +162,7 @@ state: Nordrhein-Westfalen
 type: REGIONAL_CHAPTER
 urls:
   - type: WEBSITE
-    url: http://www.gruene-rheine.de/
+    url: https://gruene-rheine.de/aktuelles/
 ---
 city: Saerbeck
 country: DE
@@ -172,7 +172,7 @@ state: Nordrhein-Westfalen
 type: REGIONAL_CHAPTER
 urls:
   - type: WEBSITE
-    url: http://www.gruene-saerbeck.de/
+    url: https://www.gruene-saerbeck.de/
 ---
 city: Steinfurt
 country: DE
@@ -182,7 +182,7 @@ state: Nordrhein-Westfalen
 type: REGIONAL_CHAPTER
 urls:
   - type: WEBSITE
-    url: http://www.gruene-steinfurt.de/
+    url: https://gruene-steinfurt.de/home/
   - type: INSTAGRAM
     url: https://www.instagram.com/gruenesteinfurt/
 ---
@@ -204,4 +204,4 @@ state: Nordrhein-Westfalen
 type: REGIONAL_CHAPTER
 urls:
   - type: WEBSITE
-    url: http://www.gruene-westerkappeln.de/
+    url: https://gruene-westerkappeln.de/home/

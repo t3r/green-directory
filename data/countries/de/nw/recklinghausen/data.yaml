@@ -8,7 +8,7 @@ state: Nordrhein-Westfalen
 type: REGIONAL_CHAPTER
 urls:
   - type: WEBSITE
-    url: http://gruene-im-vest.de/
+    url: https://gruene-im-vest.de/home/
 ---
 city: Castrop-Rauxel
 country: DE
@@ -18,7 +18,7 @@ state: Nordrhein-Westfalen
 type: REGIONAL_CHAPTER
 urls:
   - type: WEBSITE
-    url: http://www.gruene-castrop-rauxel.de/
+    url: https://www.gruene-castrop-rauxel.de/
 ---
 city: Datteln
 country: DE
@@ -28,7 +28,7 @@ state: Nordrhein-Westfalen
 type: REGIONAL_CHAPTER
 urls:
   - type: WEBSITE
-    url: http://www.gruene-datteln.de/
+    url: https://www.gruene-datteln.de/
 ---
 city: Dorsten
 country: DE
@@ -68,7 +68,7 @@ state: Nordrhein-Westfalen
 type: REGIONAL_CHAPTER
 urls:
   - type: WEBSITE
-    url: http://www.gruene-herten.de/
+    url: https://www.gruene-herten.de/
 ---
 city: Oer-Erkenschwick
 country: DE
@@ -88,7 +88,7 @@ state: Nordrhein-Westfalen
 type: REGIONAL_CHAPTER
 urls:
   - type: WEBSITE
-    url: http://www.gruene-recklinghausen.de/
+    url: https://www.gruene-recklinghausen.de/
 ---
 city: Waltrop
 country: DE

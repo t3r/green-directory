@@ -70,7 +70,7 @@ state: Nordrhein-Westfalen
 type: REGIONAL_CHAPTER
 urls:
   - type: WEBSITE
-    url: https://www.gruene-schwelm.de/
+    url: https://www.gruene-schwelm.de/wp/
 ---
 city: Sprockhövel
 country: DE

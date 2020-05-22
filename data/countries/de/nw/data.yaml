@@ -30,7 +30,7 @@ country: DE
 state: Nordrhein-Westfalen
 urls:
   - type: WEBSITE
-    url: https://gruene-jugend-nrw.de/
+    url: https://gj-nrw.de/
   - type: FACEBOOK
     url: https://www.facebook.com/GJNRW/
   - type: TWITTER
@@ -71,7 +71,7 @@ state: Nordrhein-Westfalen
 type: REGIONAL_CHAPTER
 urls:
   - type: WEBSITE
-    url: http://www.gruene-owl.de/
+    url: https://www.gruene-owl.de/aktuell-aus-owl/
 ---
 country: DE
 region: Ruhr
@@ -108,7 +108,7 @@ state: Nordrhein-Westfalen
 type: REGIONAL_CHAPTER
 urls:
   - type: WEBSITE
-    url: http://www.gruene-bielefeld.de/
+    url: https://www.gruene-bielefeld.de/
   - type: FACEBOOK
     url: https://www.facebook.com/gruene.bielefeld
   - type: TWITTER
@@ -125,7 +125,7 @@ state: Nordrhein-Westfalen
 type: REGIONAL_CHAPTER
 urls:
   - type: WEBSITE
-    url: http://www.gruene-bottrop.de/
+    url: https://gruene-bottrop.de/startseite/
   - type: FACEBOOK
     url: https://www.facebook.com/GR%C3%9CNE-Bottrop-184280891618557/
   - type: INSTAGRAM
@@ -204,7 +204,7 @@ state: Nordrhein-Westfalen
 type: REGIONAL_CHAPTER
 urls:
   - type: WEBSITE
-    url: https://gruene-hagen.org/
+    url: https://gruene-hagen.org/startseite/
   - type: FACEBOOK
     url: https://www.facebook.com/DieGruenenHagen
   - type: TWITTER
@@ -262,7 +262,7 @@ state: Nordrhein-Westfalen
 type: REGIONAL_CHAPTER
 urls:
   - type: WEBSITE
-    url: https://die-gruenen-leverkusen.de/
+    url: https://die-gruenen-leverkusen.de/home/
   - type: FACEBOOK
     url: https://www.facebook.com/gruenelev
   - type: TWITTER
@@ -311,7 +311,7 @@ state: Nordrhein-Westfalen
 type: REGIONAL_CHAPTER
 urls:
   - type: WEBSITE
-    url: http://www.gruene-oberhausen.de/
+    url: https://gruene-oberhausen.de/home/
   - type: FACEBOOK
     url: https://www.facebook.com/grueneob
 ---
@@ -324,7 +324,7 @@ state: Nordrhein-Westfalen
 type: REGIONAL_CHAPTER
 urls:
   - type: WEBSITE
-    url: http://www.gruene-olpe.de/
+    url: https://gruene-olpe.de/
   - type: FACEBOOK
     url: https://www.facebook.com/B%C3%BCndnis-90Die-Gr%C3%BCnen-Kreisverband-Olpe-445658712181177/
 ---
@@ -354,7 +354,7 @@ state: Nordrhein-Westfalen
 type: REGIONAL_CHAPTER
 urls:
   - type: WEBSITE
-    url: http://www.gruene-remscheid.de/
+    url: https://gruene-remscheid.de/startseite/
   - type: FACEBOOK
     url: https://www.facebook.com/diegruenen.rs
   - type: TWITTER
@@ -371,7 +371,7 @@ state: Nordrhein-Westfalen
 type: REGIONAL_CHAPTER
 urls:
   - type: WEBSITE
-    url: https://gruene-solingen.de/
+    url: https://gruene-solingen.de/portal/
   - type: FACEBOOK
     url: https://www.facebook.com/SolingerGRUENE/
   - type: INSTAGRAM
@@ -403,7 +403,7 @@ country: DE
 state: Nordrhein-Westfalen
 urls:
   - type: WEBSITE
-    url: http://mona-neubaur.de/
+    url: https://gruene-nrw.de/person/mona-neubaur/
   - type: WIKIDATA
     url: https://www.wikidata.org/wiki/Q17325220
   - type: TWITTER

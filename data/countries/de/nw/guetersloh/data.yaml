@@ -22,7 +22,7 @@ state: Nordrhein-Westfalen
 type: REGIONAL_CHAPTER
 urls:
   - type: WEBSITE
-    url: https://gruene-borgholzhausen.de/
+    url: https://gruene-borgholzhausen.de/startseite/
 ---
 city: Gütersloh
 country: DE
@@ -112,4 +112,4 @@ state: Nordrhein-Westfalen
 type: REGIONAL_CHAPTER
 urls:
   - type: WEBSITE
-    url: https://gruene-rheda-wiedenbrueck.de/
+    url: https://gruene-rheda-wiedenbrueck.de/startseite/

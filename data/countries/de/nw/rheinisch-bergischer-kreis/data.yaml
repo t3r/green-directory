@@ -6,7 +6,7 @@ state: Nordrhein-Westfalen
 district: Rheinisch-Bergischer Kreis
 urls:
   - type: WEBSITE
-    url: https://www.gruene-kreisrheinberg.de/
+    url: https://www.gruene-kreisrheinberg.de/home/
   - type: FACEBOOK
     url: https://www.facebook.com/gruene.kreisrheinberg/
   - type: INSTAGRAM
@@ -22,7 +22,7 @@ district: Rheinisch-Bergischer Kreis
 city: Bergisch Gladbach
 urls:
   - type: WEBSITE
-    url: http://www.gruene-bergischgladbach.de/
+    url: https://www.gruene-bergischgladbach.de/home/
   - type: FACEBOOK
     url: https://www.facebook.com/gruene.gl/
 emails:
@@ -48,7 +48,7 @@ district: Rheinisch-Bergischer Kreis
 city: Leichlingen
 urls:
   - type: WEBSITE
-    url: http://gruene-leichlingen.de/
+    url: https://gruene-leichlingen.de/home/
 emails:
   - address: info@gruene-leichlingen.de
 ---
@@ -60,7 +60,7 @@ district: Rheinisch-Bergischer Kreis
 city: Odenthal
 urls:
   - type: WEBSITE
-    url: http://www.gruene-odenthal.de/
+    url: https://www.gruene-odenthal.de/home/
 ---
 type: REGIONAL_CHAPTER
 level: DE:ORTSVERBAND
@@ -70,7 +70,7 @@ district: Rheinisch-Bergischer Kreis
 city: Rösrath
 urls:
   - type: WEBSITE
-    url: https://gruene-roesrath.de/
+    url: https://gruene-roesrath.de/startseite/
   - type: FACEBOOK
     url: https://www.facebook.com/gruene.roesrath/
   - type: MASTODON
@@ -86,7 +86,7 @@ district: Rheinisch-Bergischer Kreis
 city: Wermelskirchen
 urls:
   - type: WEBSITE
-    url: http://www.gruene-wermelskirchen.de/
+    url: https://www.gruene-wermelskirchen.de/home/
 emails:
   - address: info@gruene-wermelskirchen.de
 ---
@@ -98,7 +98,7 @@ state: Nordrhein-Westfalen
 type: REGIONAL_CHAPTER
 urls:
   - type: WEBSITE
-    url: http://www.gruene-kuerten.de
+    url: https://www.gruene-kreisrheinberg.de/home/die-gruenen-kuerten/
 ---
 city: Overath
 country: DE
@@ -108,4 +108,4 @@ state: Nordrhein-Westfalen
 type: REGIONAL_CHAPTER
 urls:
   - type: WEBSITE
-    url: http://www.gruene-overath.de
+    url: https://www.gruene-kreisrheinberg.de/home/die-gruenen-overath/

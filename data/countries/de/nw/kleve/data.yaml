@@ -54,7 +54,7 @@ state: Nordrhein-Westfalen
 type: REGIONAL_CHAPTER
 urls:
   - type: WEBSITE
-    url: http://www.gruene-goch.de/
+    url: https://www.gruene-goch.de/start.html
 ---
 city: Issum
 country: DE
@@ -64,7 +64,7 @@ state: Nordrhein-Westfalen
 type: REGIONAL_CHAPTER
 urls:
   - type: WEBSITE
-    url: https://gruene-kreis-kleve.de/ortsverbaende/issum/
+    url: https://www.gruene-issum.de/
 ---
 city: Kalkar
 country: DE
@@ -84,7 +84,7 @@ state: Nordrhein-Westfalen
 type: REGIONAL_CHAPTER
 urls:
   - type: WEBSITE
-    url: https://www.gruene-kevelaer.de/
+    url: http://gruene-kevelaer.de/
 ---
 city: Kleve
 country: DE
@@ -104,7 +104,7 @@ state: Nordrhein-Westfalen
 type: REGIONAL_CHAPTER
 urls:
   - type: WEBSITE
-    url: https://gruenekranenburg.de/
+    url: https://gruenekranenburg.de/home/
 ---
 city: Rees
 country: DE
@@ -154,7 +154,7 @@ state: Nordrhein-Westfalen
 type: REGIONAL_CHAPTER
 urls:
   - type: WEBSITE
-    url: http://www.gruene-rheurdt.de/
+    url: https://www.gruene-rheurdt.de/
 ---
 city: Weeze
 country: DE

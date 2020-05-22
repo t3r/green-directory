@@ -42,7 +42,7 @@ state: Nordrhein-Westfalen
 type: REGIONAL_CHAPTER
 urls:
   - type: WEBSITE
-    url: http://gruene-luedinghausen.de/
+    url: http://www.gruene-luedinghausen.de/
 ---
 city: Nottuln
 country: DE
@@ -52,7 +52,7 @@ state: Nordrhein-Westfalen
 type: REGIONAL_CHAPTER
 urls:
   - type: WEBSITE
-    url: https://gruene-nottuln.de/
+    url: https://gruene-nottuln.de/aktuelles/
 ---
 city: Senden
 country: DE

@@ -8,7 +8,7 @@ state: Nordrhein-Westfalen
 type: REGIONAL_CHAPTER
 urls:
   - type: WEBSITE
-    url: http://gruene-kreis-unna.de/
+    url: https://gruene-kreis-unna.de/
   - type: FACEBOOK
     url: https://www.facebook.com/DieGrunenUnna
   - type: TWITTER
@@ -24,7 +24,7 @@ state: Nordrhein-Westfalen
 type: REGIONAL_CHAPTER
 urls:
   - type: WEBSITE
-    url: https://www.gruene-holzwickede.de/
+    url: https://gruene-holzwickede.de/
 ---
 city: Bergkamen
 country: DE
@@ -34,7 +34,7 @@ state: Nordrhein-Westfalen
 type: REGIONAL_CHAPTER
 urls:
   - type: WEBSITE
-    url: https://bergkamen-gruene.de/
+    url: https://bergkamen-gruene.de/startseite/
 ---
 city: Lünen
 country: DE
@@ -44,7 +44,7 @@ state: Nordrhein-Westfalen
 type: REGIONAL_CHAPTER
 urls:
   - type: WEBSITE
-    url: https://gruene-luenen.de/
+    url: https://gruene-luenen.de/startseite/
 ---
 city: Schwerte
 country: DE
@@ -74,4 +74,4 @@ state: Nordrhein-Westfalen
 type: REGIONAL_CHAPTER
 urls:
   - type: WEBSITE
-    url: https://gruene-froendenberg.de/
+    url: https://gruene-froendenberg.de/startseite/

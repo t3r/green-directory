@@ -8,7 +8,7 @@ state: Nordrhein-Westfalen
 type: REGIONAL_CHAPTER
 urls:
   - type: WEBSITE
-    url: https://gruene-kv-heinsberg.de/
+    url: https://gruene-kv-heinsberg.de/startseite/
   - type: FACEBOOK
     url: https://www.facebook.com/GrueneKreisHeinsberg
 ---
@@ -20,7 +20,7 @@ state: Nordrhein-Westfalen
 type: REGIONAL_CHAPTER
 urls:
   - type: WEBSITE
-    url: http://gruene-hueckelhoven.de/
+    url: https://gruene-hueckelhoven.de/start/
 ---
 city: Geilenkirchen
 country: DE
@@ -30,7 +30,7 @@ state: Nordrhein-Westfalen
 type: REGIONAL_CHAPTER
 urls:
   - type: WEBSITE
-    url: https://gruene-gk.de/
+    url: https://gruene-gk.de/start/
 ---
 city: Heinsberg
 country: DE
@@ -40,7 +40,7 @@ state: Nordrhein-Westfalen
 type: REGIONAL_CHAPTER
 urls:
   - type: WEBSITE
-    url: http://www.gruene-hs.de
+    url: https://gruene-hs.de/
 ---
 city: Übach-Palenberg
 country: DE
@@ -50,7 +50,7 @@ state: Nordrhein-Westfalen
 type: REGIONAL_CHAPTER
 urls:
   - type: WEBSITE
-    url: https://gruene-uebach-palenberg.de/
+    url: https://gruene-uebach-palenberg.de/home/
 ---
 city: Waldfeucht
 country: DE
@@ -67,7 +67,7 @@ state: Nordrhein-Westfalen
 type: REGIONAL_CHAPTER
 urls:
   - type: WEBSITE
-    url: http://www.gruene-wassenberg.de/
+    url: https://gruene-wassenberg.de/start/
 ---
 city: Wegberg
 country: DE

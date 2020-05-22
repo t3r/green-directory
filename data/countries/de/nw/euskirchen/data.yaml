@@ -22,7 +22,7 @@ state: Nordrhein-Westfalen
 type: REGIONAL_CHAPTER
 urls:
   - type: WEBSITE
-    url: http://www.gruene-bad-muenstereifel.de
+    url: https://www.gruene-muenstereifel.de/
 ---
 city: Blankenheim
 country: DE
@@ -62,7 +62,7 @@ state: Nordrhein-Westfalen
 type: REGIONAL_CHAPTER
 urls:
   - type: WEBSITE
-    url: https://gruene-schleiden.de/
+    url: https://gruene-schleiden.de/startseite/
 ---
 city: Weilerswist
 country: DE

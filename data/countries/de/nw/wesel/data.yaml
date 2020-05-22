@@ -8,7 +8,7 @@ state: Nordrhein-Westfalen
 type: REGIONAL_CHAPTER
 urls:
   - type: WEBSITE
-    url: https://gruene-kreis-wesel.de/
+    url: https://gruene-kreis-wesel.de/startseite/
   - type: FACEBOOK
     url: https://www.facebook.com/GrueneKreisWesel
   - type: TWITTER
@@ -34,7 +34,7 @@ state: Nordrhein-Westfalen
 type: REGIONAL_CHAPTER
 urls:
   - type: WEBSITE
-    url: http://www.gruene-dinslaken.de/
+    url: https://www.gruene-dinslaken.de/
 ---
 city: Voerde
 country: DE
@@ -54,7 +54,7 @@ state: Nordrhein-Westfalen
 type: REGIONAL_CHAPTER
 urls:
   - type: WEBSITE
-    url: http://www.gruene-hamminkeln.de/
+    url: https://gruene-hamminkeln.de/
 ---
 city: Kamp-Lintfort
 country: DE
@@ -64,7 +64,7 @@ state: Nordrhein-Westfalen
 type: REGIONAL_CHAPTER
 urls:
   - type: WEBSITE
-    url: https://www.gruene-kamp-lintfort.de/
+    url: https://wordpress.gruene-kamp-lintfort.de/
 ---
 city: Moers
 country: DE
@@ -86,7 +86,7 @@ state: Nordrhein-Westfalen
 type: REGIONAL_CHAPTER
 urls:
   - type: WEBSITE
-    url: http://www.gruene-nv.de/
+    url: https://gruene-nv.de/startseite/
 ---
 city: Rheinberg
 country: DE
@@ -96,7 +96,7 @@ state: Nordrhein-Westfalen
 type: REGIONAL_CHAPTER
 urls:
   - type: WEBSITE
-    url: https://gruene-rheinberg.de/
+    url: https://gruene-rheinberg.de/startseite/
 ---
 city: Schermbeck
 country: DE

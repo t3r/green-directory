@@ -8,7 +8,7 @@ state: Nordrhein-Westfalen
 type: REGIONAL_CHAPTER
 urls:
   - type: WEBSITE
-    url: http://www.gruene-rek.de/
+    url: https://www.gruene-rek.de/
   - type: TWITTER
     url: https://twitter.com/Gruene_REK
   - type: FACEBOOK
@@ -22,7 +22,7 @@ state: Nordrhein-Westfalen
 type: REGIONAL_CHAPTER
 urls:
   - type: WEBSITE
-    url: http://www.gruenebedburg.de
+    url: https://gruenebedburg.de/startseite/
 ---
 city: Bergheim
 country: DE
@@ -32,7 +32,7 @@ state: Nordrhein-Westfalen
 type: REGIONAL_CHAPTER
 urls:
   - type: WEBSITE
-    url: http://www.gruene-bergheim.de
+    url: https://gruene-bergheim.de/startseite/
 ---
 city: Brühl
 country: DE
@@ -42,7 +42,7 @@ state: Nordrhein-Westfalen
 type: REGIONAL_CHAPTER
 urls:
   - type: WEBSITE
-    url: https://bruehlgruen.de/
+    url: https://bruehlgruen.de/aktuelles/
 ---
 city: Elsdorf
 country: DE
@@ -72,7 +72,7 @@ state: Nordrhein-Westfalen
 type: REGIONAL_CHAPTER
 urls:
   - type: WEBSITE
-    url: http://www.gruene-frechen.de
+    url: https://www.gruene-frechen.de/
 ---
 city: Hürth
 country: DE
@@ -82,7 +82,7 @@ state: Nordrhein-Westfalen
 type: REGIONAL_CHAPTER
 urls:
   - type: WEBSITE
-    url: http://www.gruene-huerth.de
+    url: https://gruene-huerth.de/startseite/
 ---
 city: Kerpen
 country: DE

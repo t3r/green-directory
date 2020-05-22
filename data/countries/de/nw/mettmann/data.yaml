@@ -20,7 +20,7 @@ state: Nordrhein-Westfalen
 type: REGIONAL_CHAPTER
 urls:
   - type: WEBSITE
-    url: https://www.gruene-erkrath.de/
+    url: https://www.gruene-erkrath.de/start/
 ---
 city: Heiligenhaus
 country: DE
@@ -30,7 +30,7 @@ state: Nordrhein-Westfalen
 type: REGIONAL_CHAPTER
 urls:
   - type: WEBSITE
-    url: http://www.gruene-heiligenhaus.de/
+    url: https://www.gruene-heiligenhaus.de/wordpress/
 ---
 city: Hilden
 country: DE
@@ -40,7 +40,7 @@ state: Nordrhein-Westfalen
 type: REGIONAL_CHAPTER
 urls:
   - type: WEBSITE
-    url: http://www.gruene-hilden.de/
+    url: https://gruene-hilden.de/
 ---
 city: Langenfeld
 country: DE
@@ -70,7 +70,7 @@ state: Nordrhein-Westfalen
 type: REGIONAL_CHAPTER
 urls:
   - type: WEBSITE
-    url: http://gruene-monheim.de/home/
+    url: https://gruene-monheim.de/home/
 ---
 city: Ratingen
 country: DE
@@ -106,4 +106,4 @@ state: Nordrhein-Westfalen
 type: REGIONAL_CHAPTER
 urls:
   - type: WEBSITE
-    url: http://www.gruene-mettmann.de/
+    url: https://gruene-mettmann.de/home/

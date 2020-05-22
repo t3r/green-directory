@@ -66,7 +66,7 @@ state: Nordrhein-Westfalen
 type: REGIONAL_CHAPTER
 urls:
   - type: WEBSITE
-    url: https://www.gruene-herzogenrath.de/
+    url: https://gruene-herzogenrath.de/
   - type: FACEBOOK
     url: https://www.facebook.com/Gr%C3%BCne-Herzogenrath-266031356901498/
 ---
@@ -128,4 +128,4 @@ state: Nordrhein-Westfalen
 type: REGIONAL_CHAPTER
 urls:
   - type: WEBSITE
-    url: https://gruene-bruessel.eu/
+    url: https://gruene-bruessel.eu/aktuelles/

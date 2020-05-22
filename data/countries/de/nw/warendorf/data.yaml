@@ -8,7 +8,7 @@ state: Nordrhein-Westfalen
 type: REGIONAL_CHAPTER
 urls:
   - type: WEBSITE
-    url: http://www.gruene-waf.de/
+    url: https://gruene-kreis-warendorf.de/startseite/
   - type: FACEBOOK
     url: https://www.facebook.com/gruenewaf
   - type: TWITTER
@@ -22,7 +22,7 @@ state: Nordrhein-Westfalen
 type: REGIONAL_CHAPTER
 urls:
   - type: WEBSITE
-    url: https://gruene-ahlen.de/
+    url: https://gruene-ahlen.de/aktuelles/
 ---
 city: Beckum
 country: DE
@@ -32,7 +32,7 @@ state: Nordrhein-Westfalen
 type: REGIONAL_CHAPTER
 urls:
   - type: WEBSITE
-    url: http://www.gruene-beckum.de
+    url: https://gruene-beckum.de/startseite/
 ---
 city: Drensteinfurt
 country: DE
@@ -52,7 +52,7 @@ state: Nordrhein-Westfalen
 type: REGIONAL_CHAPTER
 urls:
   - type: WEBSITE
-    url: http://www.gruene-everswinkel.de
+    url: https://gruene-everswinkel.de/startseite/
 ---
 city: Oelde
 country: DE
@@ -62,7 +62,7 @@ state: Nordrhein-Westfalen
 type: REGIONAL_CHAPTER
 urls:
   - type: WEBSITE
-    url: http://www.gruene-oelde.de
+    url: http://www.gruene-oelde.de/
 ---
 city: Ostbevern
 country: DE
@@ -88,7 +88,7 @@ state: Nordrhein-Westfalen
 type: REGIONAL_CHAPTER
 urls:
   - type: WEBSITE
-    url: http://www.gruene-sassenberg.de
+    url: http://www.gruene-sassenberg.de/
 ---
 city: Telgte
 country: DE
@@ -98,7 +98,7 @@ state: Nordrhein-Westfalen
 type: REGIONAL_CHAPTER
 urls:
   - type: WEBSITE
-    url: http://www.gruene-telgte.de
+    url: https://gruene-telgte.de/startseite/
 ---
 city: Warendorf
 country: DE
@@ -108,4 +108,4 @@ state: Nordrhein-Westfalen
 type: REGIONAL_CHAPTER
 urls:
   - type: WEBSITE
-    url: http://www.gruene-warendorf.de
+    url: https://gruene-warendorf.de/startseite/

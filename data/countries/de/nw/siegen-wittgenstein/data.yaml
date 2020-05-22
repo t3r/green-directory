@@ -32,7 +32,7 @@ state: Nordrhein-Westfalen
 type: REGIONAL_CHAPTER
 urls:
   - type: WEBSITE
-    url: http://www.gruene-bad-laasphe.de/
+    url: https://www.gruene-bad-laasphe.de/
 ---
 city: Burbach
 country: DE
@@ -72,7 +72,7 @@ state: Nordrhein-Westfalen
 type: REGIONAL_CHAPTER
 urls:
   - type: WEBSITE
-    url: https://gruene-in-hilchenbach.de/
+    url: https://gruene-in-hilchenbach.de/startseite/
 ---
 city: Kreuztal
 country: DE
@@ -82,7 +82,7 @@ state: Nordrhein-Westfalen
 type: REGIONAL_CHAPTER
 urls:
   - type: WEBSITE
-    url: https://gruene-kreuztal.de/
+    url: https://gruene-kreuztal.de/home/
 ---
 city: Netphen
 country: DE
@@ -112,7 +112,7 @@ state: Nordrhein-Westfalen
 type: REGIONAL_CHAPTER
 urls:
   - type: WEBSITE
-    url: https://www.gruene-siegen.de/
+    url: https://www.gruene-siegen.de/home/
 ---
 city: Wilnsdorf
 country: DE

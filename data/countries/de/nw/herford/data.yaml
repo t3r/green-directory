@@ -8,7 +8,7 @@ state: Nordrhein-Westfalen
 type: REGIONAL_CHAPTER
 urls:
   - type: WEBSITE
-    url: http://www.gruene-kreis-herford.de/
+    url: https://gruene-kreis-herford.de/
   - type: FACEBOOK
     url: https://www.facebook.com/grueneherford
   - type: TWITTER
@@ -42,7 +42,7 @@ state: Nordrhein-Westfalen
 type: REGIONAL_CHAPTER
 urls:
   - type: WEBSITE
-    url: https://gruene-kreis-herford.de/gruene-im-kreis-herford/herford/
+    url: https://gruene-kreis-herford.de/kategorie/ortsverbaende/stadtverband-herford/
 ---
 city: Hiddenhausen
 country: DE
@@ -52,7 +52,7 @@ state: Nordrhein-Westfalen
 type: REGIONAL_CHAPTER
 urls:
   - type: WEBSITE
-    url: https://gruene-kreis-herford.de/gruene-im-kreis-herford/hiddenhausen/
+    url: https://gruene-kreis-herford.de/ortsverbaende/hiddenhausen/
 ---
 city: Kirchlengern
 country: DE
@@ -62,7 +62,7 @@ state: Nordrhein-Westfalen
 type: REGIONAL_CHAPTER
 urls:
   - type: WEBSITE
-    url: https://gruene-kreis-herford.de/gruene-im-kreis-herford/kirchlengern/
+    url: https://gruene-kreis-herford.de/ortsverbaende/kirchlengern/
 ---
 city: Löhne
 country: DE
@@ -82,7 +82,7 @@ state: Nordrhein-Westfalen
 type: REGIONAL_CHAPTER
 urls:
   - type: WEBSITE
-    url: https://gruene-kreis-herford.de/gruene-im-kreis-herford/roedinghausen/
+    url: https://gruene-kreis-herford.de/2019/kreisverband-herford/roedinghausen/
 ---
 city: Spenge
 country: DE
@@ -92,7 +92,7 @@ state: Nordrhein-Westfalen
 type: REGIONAL_CHAPTER
 urls:
   - type: WEBSITE
-    url: https://gruene-kreis-herford.de/gruene-im-kreis-herford/spenge/
+    url: https://gruene-kreis-herford.de/kategorie/ortsverbaende/spenge/
 ---
 city: Vlotho
 country: DE

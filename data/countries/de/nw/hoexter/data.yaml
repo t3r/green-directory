@@ -30,7 +30,7 @@ state: Nordrhein-Westfalen
 type: REGIONAL_CHAPTER
 urls:
   - type: WEBSITE
-    url: https://www.gruene-bad-driburg.de/
+    url: https://www.gruene-bad-driburg.de/driburg-aktuell/
 ---
 city: Brakel
 country: DE
@@ -40,7 +40,7 @@ state: Nordrhein-Westfalen
 type: REGIONAL_CHAPTER
 urls:
   - type: WEBSITE
-    url: https://gruene-brakel.de/
+    url: https://gruene-brakel.de/brakel-aktuell/
 ---
 city: Höxter
 country: DE
@@ -60,7 +60,7 @@ state: Nordrhein-Westfalen
 type: REGIONAL_CHAPTER
 urls:
   - type: WEBSITE
-    url: https://gruene-steinheim.de/
+    url: https://gruene-steinheim.de/gruene-aktuell/
 ---
 city: Warburg
 country: DE

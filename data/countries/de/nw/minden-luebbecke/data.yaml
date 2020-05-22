@@ -20,7 +20,7 @@ state: Nordrhein-Westfalen
 type: REGIONAL_CHAPTER
 urls:
   - type: WEBSITE
-    url: https://www.gruene-badoeynhausen.de/
+    url: https://www.gruene-badoeynhausen.de/wp/
 ---
 city: Espelkamp
 country: DE
@@ -30,7 +30,7 @@ state: Nordrhein-Westfalen
 type: REGIONAL_CHAPTER
 urls:
   - type: WEBSITE
-    url: https://gruene-espelkamp.de/
+    url: https://gruene-espelkamp.de/startseite/
 ---
 city: Hille
 country: DE
@@ -40,7 +40,7 @@ state: Nordrhein-Westfalen
 type: REGIONAL_CHAPTER
 urls:
   - type: WEBSITE
-    url: https://gruene-hille.de/
+    url: https://gruene-hille.de/startseite/
 ---
 city: Hüllhorst
 country: DE
@@ -60,7 +60,7 @@ state: Nordrhein-Westfalen
 type: REGIONAL_CHAPTER
 urls:
   - type: WEBSITE
-    url: http://www.gruene-luebbecke.de/
+    url: https://gruene-luebbecke.de/home/
 ---
 city: Minden
 country: DE
@@ -70,7 +70,7 @@ state: Nordrhein-Westfalen
 type: REGIONAL_CHAPTER
 urls:
   - type: WEBSITE
-    url: http://www.gruene-minden.de/
+    url: https://www.gruene-minden.de/
 ---
 city: Petershagen
 country: DE
@@ -90,7 +90,7 @@ state: Nordrhein-Westfalen
 type: REGIONAL_CHAPTER
 urls:
   - type: WEBSITE
-    url: https://xn--grne-porta-westfalica-9hc.de/
+    url: https://gruene-porta-westfalica.de/home/
 ---
 city: Preußisch Oldendorf
 country: DE

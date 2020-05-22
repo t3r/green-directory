@@ -62,7 +62,7 @@ state: Nordrhein-Westfalen
 type: REGIONAL_CHAPTER
 urls:
   - type: WEBSITE
-    url: http://gruene-niederzier.de/
+    url: https://gruene-dueren.de/ortsverbande/niederzier
 ---
 city: Heimbach
 country: DE
@@ -102,7 +102,7 @@ state: Nordrhein-Westfalen
 type: REGIONAL_CHAPTER
 urls:
   - type: WEBSITE
-    url: http://www.gruene-linnich.de/
+    url: https://www.xn--grne-linnich-elb.de/
 ---
 city: Merzenich
 country: DE
@@ -119,7 +119,7 @@ state: Nordrhein-Westfalen
 type: REGIONAL_CHAPTER
 urls:
   - type: WEBSITE
-    url: http://gruene-inden.de/
+    url: https://gruene-inden.de/
 ---
 city: Aldenhoven
 country: DE

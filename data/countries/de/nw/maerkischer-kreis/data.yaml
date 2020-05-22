@@ -27,7 +27,7 @@ state: Nordrhein-Westfalen
 type: REGIONAL_CHAPTER
 urls:
   - type: WEBSITE
-    url: http://www.gruene-halver.de/
+    url: https://www.gruene-halver.de/
 ---
 city: Iserlohn
 country: DE
@@ -37,7 +37,7 @@ state: Nordrhein-Westfalen
 type: REGIONAL_CHAPTER
 urls:
   - type: WEBSITE
-    url: https://www.gruene-iserlohn.de/
+    url: https://www.gruene-iserlohn.de/aktuelles/
 ---
 city: Kierspe
 country: DE
@@ -57,7 +57,7 @@ state: Nordrhein-Westfalen
 type: REGIONAL_CHAPTER
 urls:
   - type: WEBSITE
-    url: https://gruene-luedenscheid.de/
+    url: https://gruene-luedenscheid.de/home/
 ---
 city: Menden
 country: DE
@@ -67,7 +67,7 @@ state: Nordrhein-Westfalen
 type: REGIONAL_CHAPTER
 urls:
   - type: WEBSITE
-    url: http://www.gruene-menden.de
+    url: http://www.gruene-menden.de/
 ---
 city: Meinerzhagen
 country: DE

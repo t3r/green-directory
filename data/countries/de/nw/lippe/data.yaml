@@ -8,7 +8,7 @@ state: Nordrhein-Westfalen
 type: REGIONAL_CHAPTER
 urls:
   - type: WEBSITE
-    url: https://xn--grne-lippe-beb.de/
+    url: https://gruene-lippe.de/
   - type: FACEBOOK
     url: https://www.facebook.com/gruenelippe/
   - type: INSTAGRAM
@@ -42,7 +42,7 @@ state: Nordrhein-Westfalen
 type: REGIONAL_CHAPTER
 urls:
   - type: WEBSITE
-    url: http://www.gruene-detmold.de
+    url: https://gruene-detmold.de/start/
 ---
 city: Horn-Bad Meinberg
 country: DE
@@ -52,7 +52,7 @@ state: Nordrhein-Westfalen
 type: REGIONAL_CHAPTER
 urls:
   - type: WEBSITE
-    url: https://gruene-hbm.de/
+    url: https://gruene-hbm.de/startseite/
 ---
 city: Kalletal
 country: DE
@@ -62,7 +62,7 @@ state: Nordrhein-Westfalen
 type: REGIONAL_CHAPTER
 urls:
   - type: WEBSITE
-    url: https://gruene-kalletal.de/
+    url: https://gruene-kalletal.de/startseite/
 ---
 city: Lage
 country: DE
@@ -82,7 +82,7 @@ state: Nordrhein-Westfalen
 type: REGIONAL_CHAPTER
 urls:
   - type: WEBSITE
-    url: https://www.gruene-lemgo.de/
+    url: https://gruene-lemgo.de/
 ---
 city: "Leopoldsh\xF6he"
 country: DE
@@ -102,7 +102,7 @@ state: Nordrhein-Westfalen
 type: REGIONAL_CHAPTER
 urls:
   - type: WEBSITE
-    url: http://www.gruene-oerlinghausen.de/
+    url: https://www.gruene-oerlinghausen.de/
 ---
 city: Schlangen
 country: DE
@@ -112,4 +112,4 @@ state: Nordrhein-Westfalen
 type: REGIONAL_CHAPTER
 urls:
   - type: WEBSITE
-    url: https://www.gruene-schlangen.de/
+    url: https://www.gruene-schlangen.de/home/
