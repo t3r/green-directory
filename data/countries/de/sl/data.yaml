@@ -166,7 +166,7 @@ district: Saarbrücken
 city: Saarbrücken Mitte
 urls:
   - type: WEBSITE
-    url: http://gruene-saarbruecken.de/
+    url: https://www.gruene-saarbruecken.de/
 ---
 type: REGIONAL_CHAPTER
 level: DE:ORTSVERBAND
@@ -299,7 +299,7 @@ district: Saarlouis
 city: Überherrn
 urls:
   - type: WEBSITE
-    url: http://gruene-ueberherrn.de/
+    url: https://gruene-ueberherrn.de/
 ---
 type: REGIONAL_CHAPTER
 level: DE:ORTSVERBAND
@@ -356,7 +356,7 @@ district: Saar-Pfalz
 city: Homburg
 urls:
   - type: WEBSITE
-    url: http://gruene-homburg.de/
+    url: https://www.gruene-homburg.de/
 ---
 type: REGIONAL_CHAPTER
 level: DE:ORTSVERBAND
@@ -386,7 +386,7 @@ district: Saar-Pfalz
 city: St. Ingbert
 urls:
   - type: WEBSITE
-    url: http://gruene-igb.de/
+    url: https://www.gruene-igb.de/
 ---
 type: REGIONAL_CHAPTER
 level: DE:ORTSVERBAND
@@ -502,7 +502,7 @@ district: St. Wendel
 city: Freisen
 urls:
   - type: WEBSITE
-    url: http://www.gruene-freisen.de/
+    url: http://gruene-saar.de/
 ---
 type: REGIONAL_CHAPTER
 level: DE:ORTSVERBAND
