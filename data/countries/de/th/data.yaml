@@ -44,7 +44,7 @@ level: DE:KREISVERBAND
 district: Altenburg
 urls:
   - type: WEBSITE
-    url: https://gruene-abgland.de/
+    url: https://gruene-abgland.de/startseite/
   - type: FACEBOOK
     url: https://www.facebook.com/GrueneAltenburg/
   - type: INSTAGRAM
@@ -70,7 +70,7 @@ level: DE:KREISVERBAND
 district: Erfurt
 urls:
   - type: WEBSITE
-    url: http://www.gruenestadterfurt.de/
+    url: https://www.gruenestadterfurt.de/
   - type: FACEBOOK
     url: https://www.facebook.com/GrueneStadtErfurt/
   - type: INSTAGRAM
@@ -100,7 +100,7 @@ level: DE:KREISVERBAND
 district: Gera
 urls:
   - type: WEBSITE
-    url: https://gruene-gera.de/
+    url: https://gruene-gera.de/startseite/
   - type: FACEBOOK
     url: https://www.facebook.com/GrueneGera/
   - type: INSTAGRAM
@@ -113,7 +113,7 @@ level: DE:KREISVERBAND
 district: Gotha
 urls:
   - type: WEBSITE
-    url: https://gruene-gotha.de/
+    url: https://gruene-gotha.de/aktuelles/
   - type: FACEBOOK
     url: https://www.facebook.com/GrueneGotha/
 ---
@@ -124,7 +124,7 @@ level: DE:KREISVERBAND
 district: Greiz
 urls:
   - type: WEBSITE
-    url: https://gruene-greiz.de/
+    url: https://gruene-greiz.de/startseite/
   - type: FACEBOOK
     url: https://www.facebook.com/Gr%C3%BCne-Kreisverband-Greiz-892417057456102/
   - type: TWITTER
@@ -137,7 +137,7 @@ level: DE:KREISVERBAND
 district: Ilm-Kreis
 urls:
   - type: WEBSITE
-    url: https://www.gruene-ilmkreis.de/
+    url: https://www.gruene-ilmkreis.de/home/
 ---
 country: DE
 state: Thüringen
@@ -146,7 +146,7 @@ level: DE:KREISVERBAND
 district: Jena
 urls:
   - type: WEBSITE
-    url: https://gruene-jena.de/
+    url: https://gruene-jena.de/aktuelles/
   - type: FACEBOOK
     url: https://www.facebook.com/Buendnis90.DieGruenen.Jena
   - type: INSTAGRAM
@@ -176,7 +176,7 @@ level: DE:KREISVERBAND
 district: Kyffhäuserkreis
 urls:
   - type: WEBSITE
-    url: https://www.gruene-kyffhaeuserkreis.de/
+    url: https://www.gruene-kyffhaeuserkreis.de/startseite/
   - type: FACEBOOK
     url: https://www.facebook.com/grune.kreisverbandkyffhauserkreis/
   - type: INSTAGRAM
@@ -189,7 +189,7 @@ level: DE:KREISVERBAND
 district: Nordhausen
 urls:
   - type: WEBSITE
-    url: https://www.gruene-nordhausen.de/
+    url: https://www.gruene-nordhausen.de/start/
   - type: FACEBOOK
     url: https://www.facebook.com/GrueneNordhausen/
   - type: TWITTER
@@ -257,7 +257,7 @@ level: DE:KREISVERBAND
 district: Weimar
 urls:
   - type: WEBSITE
-    url: https://gruene-weimar.de/
+    url: https://gruene-weimar.de/gruene-neuigkeiten/
   - type: FACEBOOK
     url: https://www.facebook.com/GrueneWeimar/
   - type: TWITTER
@@ -272,7 +272,7 @@ level: DE:KREISVERBAND
 district: Weimarer Land
 urls:
   - type: WEBSITE
-    url: https://gruene-im-weimarer-land.de/
+    url: https://www.gruene-im-weimarer-land.de/
   - type: FACEBOOK
     url: https://www.facebook.com/Die-Gr%C3%BCnen-Weimarer-Land-1525244044404811/
 ---
