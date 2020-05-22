@@ -48,7 +48,7 @@ state: Schleswig-Holstein
 district: Dithmarschen
 urls:
   - type: WEBSITE
-    url: https://www.gruene-dithmarschen.de/
+    url: https://www.gruene-dithmarschen.de/startseite/
   - type: FACEBOOK
     url: https://www.facebook.com/Gr%C3%BCne-Dithmarschen-352289358205392
 emails:
@@ -61,7 +61,7 @@ state: Schleswig-Holstein
 district: Flensburg
 urls:
   - type: WEBSITE
-    url: http://www.gruene-flensburg.de/home/
+    url: https://www.gruene-flensburg.de/home/
   - type: FACEBOOK
     url: https://www.facebook.com/grueneflensburg/
   - type: TWITTER
@@ -95,7 +95,7 @@ state: Schleswig-Holstein
 district: Kiel
 urls:
   - type: WEBSITE
-    url: https://gruene-kiel.de/
+    url: https://gruene-kiel.de/home/
   - type: FACEBOOK
     url: https://www.facebook.com/gruenekiel/
   - type: TWITTER
@@ -112,7 +112,7 @@ state: Schleswig-Holstein
 district: Lübeck
 urls:
   - type: WEBSITE
-    url: http://www.gruene-luebeck.de/
+    url: https://www.gruene-luebeck.de/home/
   - type: FACEBOOK
     url: https://www.facebook.com/Gruene.Luebeck
   - type: TWITTER
@@ -129,7 +129,7 @@ state: Schleswig-Holstein
 district: Neumünster
 urls:
   - type: WEBSITE
-    url: http://gruene-neumuenster.de/
+    url: https://gruene-neumuenster.de/
   - type: FACEBOOK
     url: https://www.facebook.com/gruene.nms
   - type: TWITTER

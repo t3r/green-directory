@@ -6,7 +6,7 @@ state: Schleswig-Holstein
 district: Schleswig-Flensburg
 urls:
   - type: WEBSITE
-    url: https://www.gruene-sl-fl.de/
+    url: https://www.gruene-sl-fl.de/home/
   - type: FACEBOOK
     url: https://www.facebook.com/grueneslfl/
 emails:
@@ -20,4 +20,4 @@ state: Schleswig-Holstein
 type: REGIONAL_CHAPTER
 urls:
   - type: WEBSITE
-    url: http://www.gruene.w3nodi.net
+    url: https://www.gruene-kappeln.de/

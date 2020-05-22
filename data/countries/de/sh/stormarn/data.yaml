@@ -6,7 +6,7 @@ state: Schleswig-Holstein
 district: Stormarn
 urls:
   - type: WEBSITE
-    url: https://gruene-stormarn.de/
+    url: https://gruene-stormarn.de/home/
   - type: FACEBOOK
     url: https://www.facebook.com/Gruene.Stormarn/
   - type: INSTAGRAM
@@ -22,7 +22,7 @@ state: Schleswig-Holstein
 type: REGIONAL_CHAPTER
 urls:
   - type: WEBSITE
-    url: https://www.gruene-ahrensburg.de/
+    url: https://www.gruene-ahrensburg.de/home/
 ---
 city: Bad Oldesloe
 country: DE
@@ -32,7 +32,7 @@ state: Schleswig-Holstein
 type: REGIONAL_CHAPTER
 urls:
   - type: WEBSITE
-    url: https://www.gruene-bad-oldesloe.de/
+    url: https://www.gruene-bad-oldesloe.de/aktuelles/
 ---
 city: Reinbek
 country: DE
@@ -42,7 +42,7 @@ state: Schleswig-Holstein
 type: REGIONAL_CHAPTER
 urls:
   - type: WEBSITE
-    url: https://www.gruene-reinbek.de/
+    url: https://www.gruene-reinbek.de/home/
 ---
 city: Glinde
 country: DE
@@ -52,7 +52,7 @@ state: Schleswig-Holstein
 type: REGIONAL_CHAPTER
 urls:
   - type: WEBSITE
-    url: https://gruene-glinde.de/
+    url: https://gruene-glinde.de/home/
 ---
 city: Trittau
 country: DE
@@ -62,7 +62,7 @@ state: Schleswig-Holstein
 type: REGIONAL_CHAPTER
 urls:
   - type: WEBSITE
-    url: https://gruene-trittau.de/
+    url: https://gruene-trittau.de/startseite/
 ---
 city: Tangstedt
 country: DE
@@ -72,7 +72,7 @@ state: Schleswig-Holstein
 type: REGIONAL_CHAPTER
 urls:
   - type: WEBSITE
-    url: https://gruene-tangstedt.de/
+    url: https://gruene-tangstedt.de/startseite/
 ---
 city: Ammersbek
 country: DE
@@ -92,7 +92,7 @@ state: Schleswig-Holstein
 type: REGIONAL_CHAPTER
 urls:
   - type: WEBSITE
-    url: https://gruene-barsbuettel.de/
+    url: https://gruene-barsbuettel.de/startseite/
 ---
 city: Bargteheide
 country: DE
@@ -102,7 +102,7 @@ state: Schleswig-Holstein
 type: REGIONAL_CHAPTER
 urls:
   - type: WEBSITE
-    url: https://www.gruene-bargteheide.de/
+    url: https://www.gruene-bargteheide.de/home/
 ---
 city: Reinfeld-Nordstormarn
 country: DE
@@ -112,7 +112,7 @@ state: Schleswig-Holstein
 type: REGIONAL_CHAPTER
 urls:
   - type: WEBSITE
-    url: https://gruene-reinfeld-nordstormarn.de/
+    url: https://gruene-reinfeld-nordstormarn.de/startseite/
   - type: FACEBOOK
     url: https://www.facebook.com/GrueneReinfeldNordstormarn
 ---
@@ -124,4 +124,4 @@ state: Schleswig-Holstein
 type: REGIONAL_CHAPTER
 urls:
   - type: WEBSITE
-    url: https://www.gruene-grosshansdorf.de/
+    url: https://www.gruene-grosshansdorf.de/willkommen/

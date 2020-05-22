@@ -22,7 +22,7 @@ state: Schleswig-Holstein
 type: REGIONAL_CHAPTER
 urls:
   - type: WEBSITE
-    url: https://gruene-halstenbek.de/
+    url: https://gruene-halstenbek.de/home/
 ---
 city: Pinneberg
 country: DE
@@ -32,7 +32,7 @@ state: Schleswig-Holstein
 type: REGIONAL_CHAPTER
 urls:
   - type: WEBSITE
-    url: https://gruene-pinneberg.de/
+    url: https://gruene-pinneberg.de/startseite/
 ---
 city: Schenefeld
 country: DE
@@ -52,7 +52,7 @@ state: Schleswig-Holstein
 type: REGIONAL_CHAPTER
 urls:
   - type: WEBSITE
-    url: https://gruene-tornesch.de/
+    url: https://gruene-tornesch.de/home/
 ---
 city: Uetersen
 country: DE
@@ -62,7 +62,7 @@ state: Schleswig-Holstein
 type: REGIONAL_CHAPTER
 urls:
   - type: WEBSITE
-    url: https://gruene-uetersen.de/
+    url: https://gruene-uetersen.de/startseite/
 ---
 city: Wedel
 country: DE
@@ -112,7 +112,7 @@ state: Schleswig-Holstein
 type: REGIONAL_CHAPTER
 urls:
   - type: WEBSITE
-    url: https://gruene-heidgraben.de/
+    url: https://www.gruene-pi.de/ortsverbaende/gruene-heidgraben/
 ---
 city: Quickborn
 country: DE
@@ -122,7 +122,7 @@ state: Schleswig-Holstein
 type: REGIONAL_CHAPTER
 urls:
   - type: WEBSITE
-    url: https://www.gruene-quickborn.de/
+    url: https://www.gruene-quickborn.de/startseite/
 ---
 city: Rellingen
 country: DE

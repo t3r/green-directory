@@ -6,7 +6,7 @@ state: Schleswig-Holstein
 district: Rendsburg-Eckernförde
 urls:
   - type: WEBSITE
-    url: http://gruene-rendsburg-eckernfoerde.de/
+    url: https://gruene-rendsburg-eckernfoerde.de/
   - type: FACEBOOK
     url: https://www.facebook.com/GruneRdEck/
   - type: INSTAGRAM
@@ -22,7 +22,7 @@ state: Schleswig-Holstein
 type: REGIONAL_CHAPTER
 urls:
   - type: WEBSITE
-    url: https://www.gruene-flintbek.de/
+    url: https://www.gruene-flintbek.de/startseite/
 ---
 city: Altenholz
 country: DE
@@ -32,7 +32,7 @@ state: Schleswig-Holstein
 type: REGIONAL_CHAPTER
 urls:
   - type: WEBSITE
-    url: http://www.gruene-altenholz.de/
+    url: https://www.gruene-altenholz.de/
 ---
 city: Eckernförde
 country: DE
@@ -52,7 +52,7 @@ state: Schleswig-Holstein
 type: REGIONAL_CHAPTER
 urls:
   - type: WEBSITE
-    url: https://gruene-bordesholm.de/
+    url: https://gruene-bordesholm.de/home/
 ---
 city: Felde
 country: DE

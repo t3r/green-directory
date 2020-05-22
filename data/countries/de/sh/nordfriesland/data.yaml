@@ -6,7 +6,7 @@ state: Schleswig-Holstein
 district: Nordfriesland
 urls:
   - type: WEBSITE
-    url: https://www.gruene-nf.de/
+    url: https://www.gruene-nf.de/home/
   - type: FACEBOOK
     url: https://www.facebook.com/gruene.nordfriesland/
   - type: TWITTER
@@ -22,7 +22,7 @@ district: Nordfriesland
 city: Föhr-Amrum
 urls:
   - type: WEBSITE
-    url: http://www.gruene-foehr-amrum.de
+    url: https://gruene-foehr-amrum.de/
 ---
 type: REGIONAL_CHAPTER
 level: DE:ORTSVERBAND

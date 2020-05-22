@@ -6,7 +6,7 @@ state: Schleswig-Holstein
 district: Ostholstein
 urls:
   - type: WEBSITE
-    url: https://gruene-oh.de/
+    url: https://gruene-oh.de/aktuelles/
   - type: FACEBOOK
     url: https://www.facebook.com/GrueneOstholstein
   - type: INSTAGRAM
@@ -22,7 +22,7 @@ state: Schleswig-Holstein
 type: REGIONAL_CHAPTER
 urls:
   - type: WEBSITE
-    url: https://gruene-eutin.de/
+    url: https://gruene-eutin.de/aktuelles/
 ---
 city: Stockelsdorf
 country: DE
@@ -32,7 +32,7 @@ state: Schleswig-Holstein
 type: REGIONAL_CHAPTER
 urls:
   - type: WEBSITE
-    url: https://gruene-stockelsdorf.de/
+    url: https://gruene-stockelsdorf.de/startseite/
 ---
 city: Timmendorfer Strand
 country: DE
@@ -42,7 +42,7 @@ state: Schleswig-Holstein
 type: REGIONAL_CHAPTER
 urls:
   - type: WEBSITE
-    url: https://gruene-timmendorfer-strand.de/
+    url: https://gruene-timmendorfer-strand.de/startseite/
 ---
 city: Bosau
 country: DE
@@ -72,4 +72,4 @@ state: Schleswig-Holstein
 type: REGIONAL_CHAPTER
 urls:
   - type: WEBSITE
-    url: http://www.gruene-malente.de/
+    url: https://www.gruene-malente.de/
