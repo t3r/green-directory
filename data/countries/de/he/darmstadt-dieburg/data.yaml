@@ -62,7 +62,7 @@ state: Hessen
 type: REGIONAL_CHAPTER
 urls:
   - type: WEBSITE
-    url: http://gruene-muehltal.de/
+    url: https://gruene-muehltal.de/
 ---
 city: Ober-Ramstadt
 country: DE
@@ -82,7 +82,7 @@ state: Hessen
 type: REGIONAL_CHAPTER
 urls:
   - type: WEBSITE
-    url: http://www.gruene-reinheim.de/
+    url: https://www.gruene-reinheim.de/
 ---
 city: Roßdorf
 country: DE

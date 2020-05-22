@@ -6,7 +6,7 @@ state: Hessen
 district: Hochtaunus
 urls:
   - type: WEBSITE
-    url: https://gruene-hochtaunus.de/
+    url: https://gruene-hochtaunus.de/startseite/
   - type: FACEBOOK
     url: https://www.facebook.com/gruene.hochtaunus/
   - type: TWITTER
@@ -24,7 +24,7 @@ state: Hessen
 type: REGIONAL_CHAPTER
 urls:
   - type: WEBSITE
-    url: https://gruene-badhomburg.de/
+    url: https://gruene-badhomburg.de/startseite/
   - type: TWITTER
     url: https://twitter.com/gruene_hg
 ---
@@ -36,7 +36,7 @@ state: Hessen
 type: REGIONAL_CHAPTER
 urls:
   - type: WEBSITE
-    url: https://gruenenwiesbach.de/
+    url: https://gruenenwiesbach.de/startseite/
 ---
 city: Königstein/Glashütten
 country: DE
@@ -58,7 +58,7 @@ state: Hessen
 type: REGIONAL_CHAPTER
 urls:
   - type: WEBSITE
-    url: https://gruene-oberursel.de/
+    url: https://gruene-oberursel.de/home/
   - type: FACEBOOK
     url: https://www.facebook.com/gruene.oberursel/
 ---
@@ -70,7 +70,7 @@ state: Hessen
 type: REGIONAL_CHAPTER
 urls:
   - type: WEBSITE
-    url: https://gruene-friedrichsdorf.de/
+    url: https://gruene-friedrichsdorf.de/startseite/
   - type: FACEBOOK
     url: https://www.facebook.com/Gr%C3%BCne-Friedrichsdorf-1002249093149874/
 ---
@@ -82,7 +82,7 @@ state: Hessen
 type: REGIONAL_CHAPTER
 urls:
   - type: WEBSITE
-    url: https://gruene-kronberg.de/
+    url: https://gruene-kronberg.de/home/
   - type: FACEBOOK
     url: https://www.facebook.com/B%C3%BCndnis-90Die-Gr%C3%BCnen-Kronberg-609944402480382/
 ---
@@ -94,7 +94,7 @@ state: Hessen
 type: REGIONAL_CHAPTER
 urls:
   - type: WEBSITE
-    url: https://gruene-steinbach.de/
+    url: https://gruene-steinbach.de/home/
 ---
 type: REGIONAL_CHAPTER
 level: DE:ORTSVERBAND
@@ -105,12 +105,12 @@ city: Usinger Land
 # single "Ortsverband" having multiple web sites
 urls:
   - type: WEBSITE
-    url: https://www.gruene-neu-anspach.de/
+    url: https://gruene-neu-anspach.de/startseite/
   - type: WEBSITE
-    url: https://www.gruene-usingen.de/
+    url: https://gruene-usingen.de/
   - type: WEBSITE
-    url: https://www.gruene-wehrheim.de/
+    url: https://gruene-wehrheim.de/startseite/
   - type: WEBSITE
-    url: https://www.gruene-schmitten.de/
+    url: https://gruene-schmitten.de/startseite/
   - type: WEBSITE
     url: http://www.gruene-weilrod.de/

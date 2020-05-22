@@ -24,7 +24,7 @@ state: Hessen
 type: REGIONAL_CHAPTER
 urls:
   - type: WEBSITE
-    url: https://www.gruene-frankenberg.de/
+    url: https://www.gruene-frankenberg.de/startseite/
 ---
 city: Korbach
 country: DE
@@ -54,7 +54,7 @@ state: Hessen
 type: REGIONAL_CHAPTER
 urls:
   - type: WEBSITE
-    url: https://www.gruene-bad-wildungen.de/
+    url: https://www.gruene-bad-wildungen.de/home/
 ---
 city: Lichtenfels
 country: DE

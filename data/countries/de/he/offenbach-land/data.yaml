@@ -28,7 +28,7 @@ state: Hessen
 type: REGIONAL_CHAPTER
 urls:
   - type: WEBSITE
-    url: https://gruene-heusenstamm.de/
+    url: https://gruene-heusenstamm.de/b90die-gruenen-in-heusenstamm/
 ---
 city: Langen
 country: DE
@@ -128,4 +128,4 @@ state: Hessen
 type: REGIONAL_CHAPTER
 urls:
   - type: WEBSITE
-    url: https://gruene-seligenstadt.de/
+    url: https://gruene-seligenstadt.de/startseite/

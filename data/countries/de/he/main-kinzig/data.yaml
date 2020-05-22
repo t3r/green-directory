@@ -6,7 +6,7 @@ state: Hessen
 district: Main-Kinzig
 urls:
   - type: WEBSITE
-    url: https://gruene-main-kinzig.de/
+    url: https://gruene-main-kinzig.de/home/
   - type: TWITTER
     url: https://twitter.com/GRUENE_MKK
   - type: FACEBOOK
@@ -22,7 +22,7 @@ state: Hessen
 type: REGIONAL_CHAPTER
 urls:
   - type: WEBSITE
-    url: http://www.gruene-brachttal.de
+    url: http://www.gruene-brachttal.de/
 ---
 city: Bruchköbel
 country: DE
@@ -32,7 +32,7 @@ state: Hessen
 type: REGIONAL_CHAPTER
 urls:
   - type: WEBSITE
-    url: http://www.gruene-bruchkoebel.de
+    url: https://www.gruene-bruchkoebel.de/
 ---
 city: Erlensee
 country: DE
@@ -42,7 +42,7 @@ state: Hessen
 type: REGIONAL_CHAPTER
 urls:
   - type: WEBSITE
-    url: https://gruene-erlensee.de/
+    url: https://gruene-erlensee.de/startseite/
 ---
 city: Freigericht
 country: DE
@@ -52,7 +52,7 @@ state: Hessen
 type: REGIONAL_CHAPTER
 urls:
   - type: WEBSITE
-    url: https://www.gruene-freigericht.de/
+    url: https://gruene-freigericht.de/
 ---
 city: Hanau
 country: DE
@@ -74,7 +74,7 @@ state: Hessen
 type: REGIONAL_CHAPTER
 urls:
   - type: WEBSITE
-    url: https://gruenemaintal.de/
+    url: https://gruenemaintal.de/startseite/
 ---
 city: Nidderau
 country: DE
@@ -104,7 +104,7 @@ state: Hessen
 type: REGIONAL_CHAPTER
 urls:
   - type: WEBSITE
-    url: https://gruene-schluechtern.de/
+    url: https://gruene-schluechtern.de/startseite/
 ---
 city: Schöneck
 country: DE
@@ -114,7 +114,7 @@ state: Hessen
 type: REGIONAL_CHAPTER
 urls:
   - type: WEBSITE
-    url: https://gruene-schoeneck.de/
+    url: https://gruene-schoeneck.de/startseite/
 ---
 city: Gelnhausen
 country: DE
@@ -124,7 +124,7 @@ state: Hessen
 type: REGIONAL_CHAPTER
 urls:
   - type: WEBSITE
-    url: https://gruene-gelnhausen.de/
+    url: https://gruene-gelnhausen.de/start/
   - type: FACEBOOK
     url: https://www.facebook.com/GrueneGelnhausen/
 ---

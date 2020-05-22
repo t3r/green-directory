@@ -6,7 +6,7 @@ state: Hessen
 district: Hersfeld-Rotenburg
 urls:
   - type: WEBSITE
-    url: https://gruene-hersfeld-rotenburg.de/
+    url: https://gruene-hersfeld-rotenburg.de/home/
   - type: FACEBOOK
     url: https://www.facebook.com/GrueneHefRof/
 emails:

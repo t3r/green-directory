@@ -20,7 +20,7 @@ state: Hessen
 type: REGIONAL_CHAPTER
 urls:
   - type: WEBSITE
-    url: https://gruene-badcamberg.de/
+    url: https://gruene-badcamberg.de/home/
   - type: FACEBOOK
     url: https://www.facebook.com/Gr%C3%BCne-Bad-Camberg-519110891583284/
 ---

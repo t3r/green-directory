@@ -6,7 +6,7 @@ state: Hessen
 district: Bergstraße
 urls:
   - type: WEBSITE
-    url: https://www.gruene-bergstrasse.de/
+    url: https://www.gruene-bergstrasse.de/aktuell/
   - type: FACEBOOK
     url: https://www.facebook.com/GrueneBergstrasse/
 emails:
@@ -88,7 +88,7 @@ state: Hessen
 type: REGIONAL_CHAPTER
 urls:
   - type: WEBSITE
-    url: https://gruene-viernheim.de/
+    url: https://gruene-viernheim.de/startseite/
 ---
 city: Zwingenberg
 country: DE
@@ -108,7 +108,7 @@ state: Hessen
 type: REGIONAL_CHAPTER
 urls:
   - type: WEBSITE
-    url: https://gruene-einhausen.de/
+    url: https://gruene-einhausen.de/startseite/
   - type: FACEBOOK
     url: https://www.facebook.com/gruene.einhausen
 ---
@@ -120,7 +120,7 @@ state: Hessen
 type: REGIONAL_CHAPTER
 urls:
   - type: WEBSITE
-    url: https://www.gruene-lampertheim.de/
+    url: https://www.gruene-lampertheim.de/startseite/
 ---
 city: Lindenfels
 country: DE

@@ -6,7 +6,7 @@ state: Hessen
 district: Schwalm-Eder
 urls:
   - type: WEBSITE
-    url: https://www.gruene-schwalm-eder.de/
+    url: https://www.gruene-schwalm-eder.de/startseite/
   - type: FACEBOOK
     url: https://www.facebook.com/grueneschwalmeder/
   - type: TWITTER
@@ -22,7 +22,7 @@ state: Hessen
 type: REGIONAL_CHAPTER
 urls:
   - type: WEBSITE
-    url: http://www.gruene-edermuende.de
+    url: https://www.gruene-edermuende.de/
 ---
 city: Homberg
 country: DE
@@ -62,7 +62,7 @@ state: Hessen
 type: REGIONAL_CHAPTER
 urls:
   - type: WEBSITE
-    url: https://gruene-gudensberg.de/
+    url: https://gruene-gudensberg.de/gruene-gudensberg/
 ---
 city: Guxhagen
 country: DE

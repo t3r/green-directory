@@ -74,7 +74,7 @@ state: Hessen
 type: REGIONAL_CHAPTER
 urls:
   - type: WEBSITE
-    url: http://www.gruene-echzell.de/
+    url: https://www.gruene-echzell.de/
   - type: FACEBOOK
     url: https://www.facebook.com/gruenefuerechzell
 ---

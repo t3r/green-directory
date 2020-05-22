@@ -40,7 +40,7 @@ state: Hessen
 type: REGIONAL_CHAPTER
 urls:
   - type: WEBSITE
-    url: https://gruene-herborn.de/
+    url: https://www.gruene-herborn.de/
 ---
 city: Lahnau
 country: DE
@@ -50,7 +50,7 @@ state: Hessen
 type: REGIONAL_CHAPTER
 urls:
   - type: WEBSITE
-    url: https://gruene-lahnau.de/
+    url: https://www.gruene-lahnau.de/
 ---
 city: Asslar
 country: DE
@@ -102,7 +102,7 @@ state: Hessen
 type: REGIONAL_CHAPTER
 urls:
   - type: WEBSITE
-    url: https://www.gruene-solms.de/
+    url: https://www.gruene-solms.de/home/
 ---
 city: Wetzlar
 country: DE

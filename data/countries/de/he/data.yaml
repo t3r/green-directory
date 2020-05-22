@@ -31,7 +31,7 @@ country: DE
 state: Hessen
 urls:
   - type: WEBSITE
-    url: https://gjh.de/
+    url: https://www.gjh.de/frog/
   - type: FACEBOOK
     url: https://www.facebook.com/Gruene.Jugend.Hessen/
   - type: TWITTER
@@ -50,7 +50,7 @@ state: Hessen
 district: Darmstadt
 urls:
   - type: WEBSITE
-    url: http://www.gruene-darmstadt.de/
+    url: https://www.gruene-darmstadt.de/
   - type: INSTAGRAM
     url: https://www.instagram.com/gruenedarmstadt/
   - type: TWITTER
@@ -67,7 +67,7 @@ state: Hessen
 district: Fulda
 urls:
   - type: WEBSITE
-    url: http://www.gruene-fulda.de/
+    url: https://gruene-fulda.de/
   - type: TWITTER
     url: https://www.twitter.com/GrueneFulda
   - type: FACEBOOK
@@ -101,7 +101,7 @@ state: Hessen
 district: Offenbach Stadt
 urls:
   - type: WEBSITE
-    url: http://www.offenbach-gruene.de/
+    url: https://www.gruene-offenbach.de/start/
   - type: TWITTER
     url: https://twitter.com/GrueneOF
   - type: FACEBOOK
@@ -118,7 +118,7 @@ state: Hessen
 district: Vogelsberg
 urls:
   - type: WEBSITE
-    url: http://www.gruene-vogelsberg.de/
+    url: https://www.gruene-vogelsberg.de/
   - type: FACEBOOK
     url: https://www.facebook.com/gruene.vogelsberg/
 emails:
@@ -131,7 +131,7 @@ state: Hessen
 district: Werra-Meißner
 urls:
   - type: WEBSITE
-    url: https://gruene-werra-meissner.de/
+    url: https://gruene-werra-meissner.de/startseite/
   - type: FACEBOOK
     url: https://www.facebook.com/GrueneWMK
 emails:
@@ -144,7 +144,7 @@ state: Hessen
 district: Wiesbaden
 urls:
   - type: WEBSITE
-    url: https://gruene-wiesbaden.de/
+    url: https://gruene-wiesbaden.de/startseite/
   - type: FACEBOOK
     url: https://www.facebook.com/gruene.wi
   - type: INSTAGRAM

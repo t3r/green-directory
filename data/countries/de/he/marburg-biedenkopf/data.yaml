@@ -6,7 +6,7 @@ state: Hessen
 district: Marburg-Biedenkopf
 urls:
   - type: WEBSITE
-    url: https://www.gruene-marburg.de/
+    url: https://www.gruene-marburg.de/startseite/
   - type: FACEBOOK
     url: https://www.facebook.com/DieGruenen.Marburg/
   - type: TWITTER
@@ -22,7 +22,7 @@ state: Hessen
 type: REGIONAL_CHAPTER
 urls:
   - type: WEBSITE
-    url: https://gruene-kirchhain.de/
+    url: https://gruene-kirchhain.de/startseite/
   - type: FACEBOOK
     url: https://www.facebook.com/GrueneKirchhain/
 ---
@@ -56,7 +56,7 @@ state: Hessen
 type: REGIONAL_CHAPTER
 urls:
   - type: WEBSITE
-    url: https://gruene-lohra.de/
+    url: https://gruene-lohra.de/home/
 ---
 city: Münchhausen
 country: DE

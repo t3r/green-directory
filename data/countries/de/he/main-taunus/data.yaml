@@ -6,7 +6,7 @@ state: Hessen
 district: Main-Taunus
 urls:
   - type: WEBSITE
-    url: https://gruene-mtk.de/
+    url: https://gruene-mtk.de/startseite/
   - type: FACEBOOK
     url: https://www.facebook.com/gruene.mtk
   - type: INSTAGRAM
@@ -52,7 +52,7 @@ state: Hessen
 type: REGIONAL_CHAPTER
 urls:
   - type: WEBSITE
-    url: https://gruene-eppstein.de/
+    url: https://gruene-eppstein.de/startseite/
 ---
 city: Flörsheim
 country: DE
@@ -72,7 +72,7 @@ state: Hessen
 type: REGIONAL_CHAPTER
 urls:
   - type: WEBSITE
-    url: https://gruene-hattersheim.de/
+    url: https://gruene-hattersheim.de/startseite/
 ---
 city: Hochheim
 country: DE
@@ -82,7 +82,7 @@ state: Hessen
 type: REGIONAL_CHAPTER
 urls:
   - type: WEBSITE
-    url: https://gruene-hochheim.de/
+    url: https://gruene-hochheim.de/startseite/
 ---
 city: Hofheim
 country: DE
@@ -92,7 +92,7 @@ state: Hessen
 type: REGIONAL_CHAPTER
 urls:
   - type: WEBSITE
-    url: http://gruene-hofheim.de/
+    url: https://gruene-hofheim.de/
 ---
 city: Kelkheim
 country: DE
@@ -102,7 +102,7 @@ state: Hessen
 type: REGIONAL_CHAPTER
 urls:
   - type: WEBSITE
-    url: http://ukw-kelkheim.de/
+    url: https://ukw-kelkheim.de/
 ---
 city: Schwalbach
 country: DE
@@ -112,4 +112,4 @@ state: Hessen
 type: REGIONAL_CHAPTER
 urls:
   - type: WEBSITE
-    url: https://gruene-schwalbach.de/
+    url: https://gruene-schwalbach.de/home/

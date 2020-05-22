@@ -20,7 +20,7 @@ state: Hessen
 type: REGIONAL_CHAPTER
 urls:
   - type: WEBSITE
-    url: https://gruene-fuldatal.de/
+    url: https://gruene-fuldatal.de/startseite/
 ---
 city: Niestetal
 country: DE
@@ -30,7 +30,7 @@ state: Hessen
 type: REGIONAL_CHAPTER
 urls:
   - type: WEBSITE
-    url: http://www.gruene-niestetal.de/
+    url: http://gruene-lk-ks.de/niestetal/
 ---
 city: Vellmar
 country: DE
@@ -50,4 +50,4 @@ state: Hessen
 type: REGIONAL_CHAPTER
 urls:
   - type: WEBSITE
-    url: http://www.gruene-wolfhagen.de
+    url: http://www.gruene-wolfhagen.de/

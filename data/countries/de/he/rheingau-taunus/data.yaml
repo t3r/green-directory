@@ -22,7 +22,7 @@ state: Hessen
 type: REGIONAL_CHAPTER
 urls:
   - type: WEBSITE
-    url: https://gruene-eltville.de/
+    url: https://gruene-eltville.de/aktuell/
   - type: FACEBOOK
     url: https://www.facebook.com/Gr%C3%BCne-Eltville-Interessierte-Freunde-und-Mitglieder-765814863522552/
 ---
@@ -34,7 +34,7 @@ state: Hessen
 type: REGIONAL_CHAPTER
 urls:
   - type: WEBSITE
-    url: https://xn--grne-idstein-elb.de/
+    url: https://gruene-idstein.de/
   - type: FACEBOOK
     url: https://www.facebook.com/gruene.idstein/
 ---
@@ -46,7 +46,7 @@ state: Hessen
 type: REGIONAL_CHAPTER
 urls:
   - type: WEBSITE
-    url: https://www.gruene-niedernhausen.de/
+    url: https://www.gruene-niedernhausen.de/home/
 ---
 city: Oestrich-Winkel
 country: DE
@@ -56,7 +56,7 @@ state: Hessen
 type: REGIONAL_CHAPTER
 urls:
   - type: WEBSITE
-    url: https://www.gruene-oestrich-winkel.de/
+    url: https://www.gruene-oestrich-winkel.de/wir-ueber-uns/
   - type: FACEBOOK
     url: https://www.facebook.com/GrueneOestrichWinkel/
 ---
@@ -68,7 +68,7 @@ state: Hessen
 type: REGIONAL_CHAPTER
 urls:
   - type: WEBSITE
-    url: https://www.gruene-schlangenbad.de/
+    url: https://www.gruene-schlangenbad.de/home/
 ---
 city: Taunusstein
 country: DE
@@ -78,7 +78,7 @@ state: Hessen
 type: REGIONAL_CHAPTER
 urls:
   - type: WEBSITE
-    url: https://www.gruene-taunusstein.de/
+    url: https://www.gruene-taunusstein.de/aktuelles/
 ---
 city: Waldems
 country: DE

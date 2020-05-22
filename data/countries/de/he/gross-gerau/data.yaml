@@ -20,7 +20,7 @@ state: Hessen
 type: REGIONAL_CHAPTER
 urls:
   - type: WEBSITE
-    url: https://gruene-biebesheim.de/
+    url: https://gruene-biebesheim.de/aktuelle-wahlperiode/
 ---
 city: Bischofsheim
 country: DE
@@ -40,7 +40,7 @@ state: Hessen
 type: REGIONAL_CHAPTER
 urls:
   - type: WEBSITE
-    url: http://www.glb-im-web.de
+    url: http://www.glb-im-web.de/index.php5
 ---
 city: Ginsheim-Gustavsburg
 country: DE
@@ -50,7 +50,7 @@ state: Hessen
 type: REGIONAL_CHAPTER
 urls:
   - type: WEBSITE
-    url: https://gruene-gigu.de/
+    url: https://gruene-gigu.de/startseite/
 ---
 city: Groß-Gerau
 country: DE
@@ -67,7 +67,7 @@ state: Hessen
 type: REGIONAL_CHAPTER
 urls:
   - type: WEBSITE
-    url: http://www.gruene-mw.de
+    url: http://www.gruene-mw.de/
 ---
 city: Raunheim
 country: DE

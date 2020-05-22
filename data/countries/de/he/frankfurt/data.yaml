@@ -24,7 +24,7 @@ state: Hessen
 type: REGIONAL_CHAPTER
 urls:
   - type: WEBSITE
-    url: https://gruene-bockenheim.de/
+    url: https://gruene-bockenheim.de/willkommen/
   - type: FACEBOOK
     url: https://www.facebook.com/Gruene.Bockenheim.Westend/
 ---
