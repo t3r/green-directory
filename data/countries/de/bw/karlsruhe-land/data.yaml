@@ -8,7 +8,7 @@ state: Baden-Württemberg
 type: REGIONAL_CHAPTER
 urls:
   - type: WEBSITE
-    url: https://gruene-karlsruhe-land.de/
+    url: https://gruene-karlsruhe-land.de/home/
   - type: FACEBOOK
     url: https://www.facebook.com/grueneKVKALand/
 ---
@@ -50,7 +50,7 @@ state: Baden-Württemberg
 type: REGIONAL_CHAPTER
 urls:
   - type: WEBSITE
-    url: http://www.gruene-egg-leo.de/
+    url: https://www.gruene-egg-leo.de/
 ---
 city: Graben-Neudorf
 country: DE
@@ -70,7 +70,7 @@ state: Baden-Württemberg
 type: REGIONAL_CHAPTER
 urls:
   - type: WEBSITE
-    url: https://gruene-stutensee.de/
+    url: https://gruene-stutensee.de/startseite/
 ---
 city: Karlsbad/Marxell/Waldbronn
 country: DE
@@ -80,7 +80,7 @@ state: Baden-Württemberg
 type: REGIONAL_CHAPTER
 urls:
   - type: WEBSITE
-    url: https://gruene-karlsbad-marxzell-waldbronn.de/
+    url: https://gruene-karlsbad-marxzell-waldbronn.de/wordpress/
 ---
 city: Kraichtal
 country: DE
@@ -100,7 +100,7 @@ state: Baden-Württemberg
 type: REGIONAL_CHAPTER
 urls:
   - type: WEBSITE
-    url: https://gruene-linkenheim-hochstetten.de/
+    url: https://gruene-linkenheim-hochstetten.de/startseite/
 ---
 city: Oberderdingen
 country: DE
@@ -120,7 +120,7 @@ state: Baden-Württemberg
 type: REGIONAL_CHAPTER
 urls:
   - type: WEBSITE
-    url: https://gruene-pfinztal.de/
+    url: https://gruene-pfinztal.de/startseite/
 ---
 city: Walzbachtal
 country: DE
@@ -130,4 +130,4 @@ state: Baden-Württemberg
 type: REGIONAL_CHAPTER
 urls:
   - type: WEBSITE
-    url: https://gruene-walzbachtal.de/
+    url: https://gruene-walzbachtal.de/startseite/

@@ -22,7 +22,7 @@ state: Baden-Württemberg
 type: REGIONAL_CHAPTER
 urls:
   - type: WEBSITE
-    url: http://www.gruene-kehl.de
+    url: https://gruene-ortenau.de/vor-ort/ov-kehl/
 ---
 city: Kinzigtal
 country: DE
@@ -32,7 +32,7 @@ state: Baden-Württemberg
 type: REGIONAL_CHAPTER
 urls:
   - type: WEBSITE
-    url: http://gruene-kinzigtal.de/
+    url: https://gruene-ortenau.de/vor-ort/kinzigtal/
 ---
 city: Offenburg
 country: DE
@@ -42,4 +42,4 @@ state: Baden-Württemberg
 type: REGIONAL_CHAPTER
 urls:
   - type: WEBSITE
-    url: http://www.gruene-offenburg.de/
+    url: https://gruene-ortenau.de/vor-ort/ov-offenburg/

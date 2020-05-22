@@ -67,7 +67,7 @@ state: Baden-Württemberg
 type: REGIONAL_CHAPTER
 urls:
   - type: WEBSITE
-    url: http://gruene-wiesenbach.de/
+    url: https://gruene-wiesenbach.de/
 ---
 city: Wiesloch
 country: DE
@@ -117,7 +117,7 @@ state: Baden-Württemberg
 type: REGIONAL_CHAPTER
 urls:
   - type: WEBSITE
-    url: https://www.gruene-leimen.de/
+    url: https://gruene-leimen.de/
 ---
 city: Malsch
 country: DE
@@ -127,4 +127,4 @@ state: Baden-Württemberg
 type: REGIONAL_CHAPTER
 urls:
   - type: WEBSITE
-    url: http://www.gruene-malsch.de/
+    url: https://gruene-malsch.de/

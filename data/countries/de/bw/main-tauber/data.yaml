@@ -8,7 +8,7 @@ state: Baden-Württemberg
 type: REGIONAL_CHAPTER
 urls:
   - type: WEBSITE
-    url: https://gruene-main-tauber.de/
+    url: https://gruene-main-tauber.de/aktuelles.html
   - type: INSTAGRAM
     url: https://www.instagram.com/gruene_tbb/
 ---
@@ -20,7 +20,7 @@ state: Baden-Württemberg
 type: REGIONAL_CHAPTER
 urls:
   - type: WEBSITE
-    url: https://gruene-mgh.de/
+    url: https://gruene-mgh.de/aktuelles.html
 ---
 city: Wertheim
 country: DE

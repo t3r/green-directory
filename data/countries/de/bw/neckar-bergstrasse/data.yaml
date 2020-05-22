@@ -30,7 +30,7 @@ state: Baden-Württemberg
 type: REGIONAL_CHAPTER
 urls:
   - type: WEBSITE
-    url: http://www.gruene-heddesheim.de/
+    url: https://www.gruene-heddesheim.de/
 ---
 city: Hemsbach
 country: DE
@@ -50,7 +50,7 @@ state: Baden-Württemberg
 type: REGIONAL_CHAPTER
 urls:
   - type: WEBSITE
-    url: http://www.gruene-hirschberg.de/
+    url: https://www.gruene-hirschberg.de/
 ---
 city: Steinachtal/Schönau
 country: DE
@@ -77,7 +77,7 @@ state: Baden-Württemberg
 type: REGIONAL_CHAPTER
 urls:
   - type: WEBSITE
-    url: http://www.gal-weinheim.de/
+    url: https://www.gruene-weinheim.de/
 ---
 city: Ladenburg
 country: DE

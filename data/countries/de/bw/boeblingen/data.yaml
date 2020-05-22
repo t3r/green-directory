@@ -33,7 +33,7 @@ state: Baden-Württemberg
 type: REGIONAL_CHAPTER
 urls:
   - type: WEBSITE
-    url: https://www.gruene-bb.de/
+    url: https://www.gruene-bb.de/startseite/
 ---
 city: Herrenberg
 country: DE
@@ -43,7 +43,7 @@ state: Baden-Württemberg
 type: REGIONAL_CHAPTER
 urls:
   - type: WEBSITE
-    url: https://www.gruene-herrenberg.de/
+    url: https://www.gruene-herrenberg.de/aktuelles/
 ---
 city: Renningen
 country: DE
@@ -63,7 +63,7 @@ state: Baden-Württemberg
 type: REGIONAL_CHAPTER
 urls:
   - type: WEBSITE
-    url: https://gruene-schoenaich.de/
+    url: https://gruene-schoenaich.de/hier/
 ---
 city: Sindelfingen
 country: DE
@@ -89,4 +89,4 @@ state: Baden-Württemberg
 type: REGIONAL_CHAPTER
 urls:
   - type: WEBSITE
-    url: https://www.wds-gruene.de/
+    url: https://www.wds-gruene.de/ortsverband/

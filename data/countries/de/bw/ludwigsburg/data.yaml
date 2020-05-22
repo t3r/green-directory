@@ -101,7 +101,7 @@ state: Baden-Württemberg
 type: REGIONAL_CHAPTER
 urls:
   - type: WEBSITE
-    url: http://www.gruene-vaihingen.de
+    url: https://www.gruene-vaihingen.de/
 ---
 city: Erdmannhausen
 country: DE
@@ -171,7 +171,7 @@ state: Baden-Württemberg
 type: REGIONAL_CHAPTER
 urls:
   - type: WEBSITE
-    url: http://www.gruene-sachsenheim.de/
+    url: https://www.gruene-sachsenheim.de/
 ---
 city: Schwieberdingen-Hemmingen
 country: DE

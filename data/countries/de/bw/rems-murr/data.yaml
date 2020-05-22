@@ -44,7 +44,7 @@ state: Baden-Württemberg
 type: REGIONAL_CHAPTER
 urls:
   - type: WEBSITE
-    url: http://www.ali-waiblingen.de/
+    url: https://www.ali-waiblingen.de/
 ---
 city: Winterbach
 country: DE
@@ -64,7 +64,7 @@ state: Baden-Württemberg
 type: REGIONAL_CHAPTER
 urls:
   - type: WEBSITE
-    url: https://gruene-winnenden.de/
+    url: https://www.gruene-winnenden.de/
 ---
 city: Schorndorf
 country: DE
@@ -74,7 +74,7 @@ state: Baden-Württemberg
 type: REGIONAL_CHAPTER
 urls:
   - type: WEBSITE
-    url: https://gruene-schorndorf.de/
+    url: https://www.gruene-schorndorf.de/
 ---
 city: Urbach
 country: DE
