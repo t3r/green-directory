@@ -26,7 +26,7 @@ district: Diepholz
 city: Syke
 urls:
   - type: WEBSITE
-    url: https://gruene-syke.de/
+    url: https://www.gruene-syke.de/
 ---
 type: REGIONAL_CHAPTER
 level: DE:ORTSVERBAND
@@ -46,7 +46,7 @@ district: Diepholz
 city: Stuhr
 urls:
   - type: WEBSITE
-    url: https://gruene-stuhr.de/
+    url: https://www.gruene-stuhr.de/
 ---
 type: REGIONAL_CHAPTER
 level: DE:ORTSVERBAND
