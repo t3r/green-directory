@@ -10,6 +10,10 @@
       "description": "Type name, indicating which schema to use for validation.",
       "const": "SUB_ORGANIZATION"
     },
+    "name": {
+      "type": "string",
+      "description": "Name by which the sub-organization is commonly known."
+    },
     "level": {
       "type": "string",
       "description": "Regional level indicator.",
