@@ -55,6 +55,7 @@ If not indicated otherwise, all attributes are of the type `String`.
     organisation.
   - `YOUTH_ORGANIZATION`: A youth organization which is normally associated
     with a party.
+  - `SUB_ORGANIZATION`: Some other sub-organization of a party.
   - `PERSON`: An individual with an important function (e.g. Member of Parliament).
 
 - `level` (mandatory, except for Members of the European Parliament). A sub-classification of an entry with type `REGIONAL_CHAPTER`. Possible values:

@@ -166,3 +166,19 @@ urls:
     url: https://twitter.com/cem_oezdemir
   - type: INSTAGRAM
     url: https://www.instagram.com/cem.oezdemir/
+---
+type: SUB_ORGANIZATION
+name: Grüne Alte
+level: DE:BUNDESVERBAND
+country: DE
+urls:
+  - type: WEBSITE
+    url: https://www.gruenealte.de/
+  - type: FACEBOOK
+    url: https://www.facebook.com/Gruenealte.de
+  - type: INSTAGRAM
+    url: https://www.instagram.com/gruenealte.de/
+  - type: WIKIPEDIA
+    url: https://de.wikipedia.org/wiki/Gr%C3%BCne_Alte
+emails:
+  - address: kontakt@gruenealte.de
