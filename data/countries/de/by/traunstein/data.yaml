@@ -1,0 +1,27 @@
+---
+type: REGIONAL_CHAPTER
+level: DE:KREISVERBAND
+country: DE
+state: Bayern
+district: Traunstein
+urls:
+  - type: WEBSITE
+    url: https://www.gruene-traunstein.de/
+  - type: TWITTER
+    url: https://twitter.com/gruene_ts
+  - type: FACEBOOK
+    url: https://www.facebook.com/KreisverbandGrueneTraunstein/
+  - type: INSTAGRAM
+    url: https://www.instagram.com/gruene_traunstein/
+---
+type: REGIONAL_CHAPTER
+level: DE:ORTSVERBAND
+country: DE
+state: Bayern
+district: Traunstein
+city: Traunstein
+urls:
+  - type: WEBSITE
+    url: https://gruene-stadt-traunstein.de/
+  - type: FACEBOOK
+    url: https://www.facebook.com/GrueneStadtTraunstein/
