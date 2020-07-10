@@ -24,7 +24,7 @@ state: Schleswig-Holstein
 type: REGIONAL_CHAPTER
 urls:
   - type: WEBSITE
-    url: https://www.gruene-wentorf.de/
+    url: https://gruene-wentorf.de/
   - type: FACEBOOK
     url: https://www.facebook.com/GrueneWentorf
   - type: TWITTER
